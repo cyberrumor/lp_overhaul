@@ -1,7 +1,7 @@
 [
   {
     "models" : [
-        "magic\\lightspellstaticlight.nif"
+      "magic\\lightspellstaticlight.nif"
     ],
     "lights" : [
       {
@@ -27,30 +27,30 @@
     ]
   },
   {
-      "models": [
-          "effects\\mgmagicfirepillar01.nif"
-      ],
-      "lights": [
-          {
-              "points": [
-                  [
-                      0,
-                      0,
-                      0
-                  ]
-              ],
-              "data": {
-                  "light": "MGFirePillarLightBlueShadow",
-                  "radius": 1024.0,
-                  "fade": 1.0,
-                  "offset": [
-                      0,
-                      0,
-                      0
-                  ],
-                  "flags": "IgnoreScale|Shadow"
-                }
-          }
-      ]
+    "models" : [
+      "effects\\mgmagicfirepillar01.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "MGFirePillarLightBlueShadow",
+          "radius" : 1024.0,
+          "fade" : 1.0,
+          "offset" : [
+            0,
+            0,
+            0
+          ],
+          "flags" : "IgnoreScale|Shadow"
+        }
+      }
+    ]
   }
 ]

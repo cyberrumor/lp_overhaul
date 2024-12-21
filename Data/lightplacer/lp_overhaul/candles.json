@@ -3,9 +3,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -30,9 +30,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -57,9 +57,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -84,9 +84,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             -10,
@@ -111,9 +111,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -138,9 +138,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -165,9 +165,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             -25,
@@ -192,9 +192,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             -25,
             0,
@@ -219,9 +219,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -246,9 +246,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -273,9 +273,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             -10,
             0,
@@ -303,9 +303,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -330,9 +330,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -354,9 +354,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -381,9 +381,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -418,9 +418,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 256.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             -1,
@@ -445,9 +445,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 128.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             0,
@@ -472,9 +472,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             -1,
@@ -489,9 +489,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -526,9 +526,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 256.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             -1,
@@ -555,9 +555,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 256.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             -1,
@@ -582,9 +582,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             0,
@@ -596,7 +596,7 @@
     ]
   },
   {
-    "models": [
+    "models" : [
       "clutter\\imperial\\impcandelabracandle01.nif"
     ],
     "lights" : [
@@ -609,9 +609,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade": 0.5,
+          "fade" : 0.5,
           "offset" : [
             0,
             0,
@@ -636,9 +636,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade": 0.75,
+          "fade" : 0.75,
           "offset" : [
             0,
             -1,
@@ -663,9 +663,9 @@
           ]
         ],
         "data" : {
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade": 0.75,
+          "fade" : 0.75,
           "offset" : [
             0,
             0,
@@ -680,9 +680,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -707,9 +707,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.25,
+          "fade" : 0.25,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             -10,
             0,
@@ -734,9 +734,9 @@
     "lights" : [
       {
         "data" : {
-          "fade": 0.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale",
-          "light": "LightCampFire01",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             0,
@@ -754,7 +754,7 @@
       }
     ],
     "models" : [
-        "clutter\\shrines\\shrinebase.nif"
+      "clutter\\shrines\\shrinebase.nif"
     ]
   }
 ]
