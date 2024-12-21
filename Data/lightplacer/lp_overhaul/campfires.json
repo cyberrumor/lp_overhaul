@@ -63,12 +63,53 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 1024.0,
-          "fade" : 1.0,
+          "radius" : 512.0,
+          "fade" : 0.9,
           "offset" : [
             0,
             0,
-            400
+            500
+          ],
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "LightCampFire01",
+          "radius" : 1024.0,
+          "fade" : 0.9,
+          "offset" : [
+            0,
+            0,
+            500
+          ],
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "LightCampFire01",
+          "radius" : 2048.0,
+          "shadowDepthBias" : 26.0,
+          "fade" : 0.2,
+          "offset" : [
+            0,
+            0,
+            500
           ],
           "flags" : "IgnoreScale|Shadow"
         }
