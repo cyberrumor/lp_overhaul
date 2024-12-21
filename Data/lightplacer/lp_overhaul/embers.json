@@ -38,7 +38,7 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 768.0,
-          "fade" : 0.25,
+          "fade" : 0.2,
           "offset" : [
             0,
             0,
@@ -64,7 +64,7 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 768.0,
+          "radius" : 256.0,
           "fade" : 1.0,
           "offset" : [
             0,
@@ -85,7 +85,7 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 768.0,
-          "fade" : 0.25,
+          "fade" : 0.2,
           "offset" : [
             0,
             0,
@@ -107,7 +107,7 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 768.0,
+          "radius" : 256.0,
           "fade" : 1.0,
           "offset" : [
             0,
@@ -124,7 +124,7 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 1024.0,
-          "fade" : 0.25,
+          "fade" : 0.2,
           "offset" : [
             0,
             0,
@@ -150,8 +150,28 @@
         ],
         "data" : {
           "light" : "AzuraBlue01",
-          "radius" : 768.0,
+          "radius" : 256.0,
           "fade" : 1.0,
+          "offset" : [
+            0,
+            0,
+            50
+          ],
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "AzuraBlue01",
+          "radius" : 768.0,
+          "fade" : 0.2,
           "offset" : [
             0,
             0,

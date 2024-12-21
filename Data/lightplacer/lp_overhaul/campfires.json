@@ -36,8 +36,8 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 1024.0,
-          "fade" : 0.25,
+          "radius" : 768.0,
+          "fade" : 0.2,
           "offset" : [
             0,
             0,
