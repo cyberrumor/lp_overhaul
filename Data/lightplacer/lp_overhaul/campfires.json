@@ -1,0 +1,70 @@
+[
+  {
+    "models" : [
+      "clutter\\woodfires\\fireplacewood01burning.nif",
+      "clutter\\woodfires\\campfire01burning.nif",
+      "clutter\\woodfires\\campfire01landburning.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light": "LightCampFire01",
+          "radius" : 256.0,
+          "fade" : 1.0,
+          "offset" : [
+            0,
+            0,
+            75
+          ],
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+          "points": [[0,0,0]],
+          "data": {
+              "light": "LightCampFire01",
+              "radius": 1024.0,
+              "fade": 0.25,
+              "offset": [
+                  0, 0, 75
+              ],
+              "flags": "IgnoreScale"
+          }
+      }
+    ]
+  },
+  {
+    "models" : [
+      "clutter\\giant\\giantcampfire01burning.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light": "LightCampFire01",
+          "radius" : 1024.0,
+          "fade" : 1.0,
+          "offset" : [
+            0,
+            0,
+            400
+          ],
+          "flags" : "IgnoreScale|Shadow"
+        }
+      }
+    ]
+  }
+]

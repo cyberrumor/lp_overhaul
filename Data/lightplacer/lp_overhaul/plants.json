@@ -1,0 +1,86 @@
+[
+  {
+    "models" : [
+      "plants\\glowingmushroomcluster01.nif",
+      "plants\\glowingmuchroom01.nif",
+      "plants\\glowingmushroomsingle01.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "BleakFallsFungus01",
+          "radius" : 512.0,
+          "fade" : 0.5,
+          "offset" : [
+            20,
+            -30,
+            0
+          ],
+          "flags" : "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+      "models": [
+          "clutter\\chauruseggs\\eggsacs.nif",
+          "clutter\\chauruseggs\\eggsacs01.nif",
+          "clutter\\chauruseggs\\eggsacs02.nif"
+      ],
+      "lights": [
+          {
+              "points": [
+                  [0,0,0]
+              ],
+              "data": {
+                  "light": "CharusEggLight",
+                  "radius": 128.0,
+                  "fade": 1.0,
+                  "offset": [0, 0, 50],
+                  "flags": "IgnoreScale"
+            }
+          }
+      ]
+  },
+  {
+      "models": [
+          "plants\\floranirnroot01red.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 0]],
+              "data": {
+                  "light": "MiddenRedEye01",
+                  "radius": 256.0,
+                  "fade": 1.0,
+                  "offset": [0, 0, 60],
+                  "flags": "IgnoreScale"
+                }
+          }
+      ]
+  },
+  {
+      "models": [
+          "dlc01\\plants\\dlc01glowplant01.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0,0,0]],
+              "data": {
+                  "light": "AzuraBlue01",
+                  "radius": 256.0,
+                  "fade": 1.0,
+                  "offset": [0, 0, 60],
+                  "flags": "IgnoreScale"
+              }
+          }
+      ]
+  }
+]

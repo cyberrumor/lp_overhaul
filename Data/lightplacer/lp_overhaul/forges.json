@@ -1,0 +1,56 @@
+[
+  {
+    "models" : [
+      "Furniture\\BlacksmithForgeMarker.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "LightForgeFire01",
+          "radius" : 512.0,
+          "fade" : 1.0,
+          "offset" : [
+            0,
+            150,
+            100
+          ],
+          "flags" : "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models" : [
+      "Furniture\\BlackSmithingSkyforgeMarker.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "LightForgeFire01",
+          "radius" : 512.0,
+          "fade" : 1.0,
+          "offset" : [
+            0,
+            0,
+            0
+          ],
+          "flags" : "IgnoreScale"
+        }
+      }
+    ]
+  }
+]

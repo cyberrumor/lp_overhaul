@@ -1,0 +1,175 @@
+[
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale|Shadow",
+          "light" : "DwarvenOmniLight_NoMove",
+          "offset" : [
+            0,
+            0,
+            120
+          ],
+          "radius" : 512.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwefloorlanternon.nif",
+      "dungeons\\dwemer\\dwefloorlanternonsputter.nif"
+    ]
+  },
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale|Shadow",
+          "light" : "DwarvenOmniLight_NoMove",
+          "offset" : [
+            0,
+            25,
+            40
+          ],
+          "radius" : 512.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+    ]
+  },
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale|Shadow",
+          "light" : "DwarvenOmniLight_NoMove",
+          "offset" : [
+            0,
+            0,
+            50
+          ],
+          "radius" : 1024.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwechandelier01bareon.nif",
+      "dungeons\\dwemer\\dwechandelier01bareonsputter.nif",
+      "dungeons\\dwemer\\dwechandelier01on.nif",
+      "dungeons\\dwemer\\dwechandelier01onsputter.nif",
+      "dungeons\\dwemer\\dwechandelier01simpleon.nif",
+      "dungeons\\dwemer\\dwechandelier01simpleonsputter.nif",
+      "dungeons\\dwemer\\dwechandelier02onsputter.nif",
+      "dungeons\\dwemer\\dwechandelier03.nif",
+      "dungeons\\dwemer\\dwechandelier04.nif",
+      "dungeons\\dwemer\\dwechandelierextension.nif"
+    ]
+  },
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale",
+          "light" : "DwarvenOmniLight_NoMove",
+          "offset" : [
+            25,
+            0,
+            25
+          ],
+          "radius" : 512.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwechandelier02on.nif"
+    ]
+  },
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale",
+          "light" : "DwarvenOmniLight_NoMove",
+          "offset" : [
+            -25,
+            -1,
+            8
+          ],
+          "radius" : 256.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwewallsconcesmall01on.nif",
+      "dungeons\\dwemer\\dwewallsconcesmall01onsputter.nif",
+      "dungeons\\dwemer\\dwewallsconcesmall02on.nif"
+    ]
+  },
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale",
+          "light" : "DwarvenOmniLight_NoMove",
+          "offset" : [
+            -25,
+            -1,
+            8
+          ],
+          "radius" : 128.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"
+    ]
+  }
+]

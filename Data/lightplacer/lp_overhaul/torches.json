@@ -1,0 +1,30 @@
+[
+  {
+    "lights" : [
+      {
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale|Shadow",
+          "light" : "BleakFallsDraugrTorch01",
+          "offset" : [
+            0,
+            25,
+            40
+          ],
+          "radius" : 512.0
+        },
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models" : [
+      "clutter\\common\\removabletorch01.nif",
+      "clutter\\common\\torchpermanent01.nif"
+    ]
+  }
+]
