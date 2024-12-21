@@ -43,6 +43,7 @@
           "light" : "MGFirePillarLightBlueShadow",
           "radius" : 1024.0,
           "fade" : 1.0,
+          "shadowDepthBias": 26.0,
           "offset" : [
             0,
             0,

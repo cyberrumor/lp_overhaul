@@ -671,7 +671,7 @@
             0,
             0
           ],
-          "flags" : "IgnoreScale|Shadow"
+          "flags" : "IgnoreScale"
         }
       }
     ]
