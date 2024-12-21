@@ -13,7 +13,7 @@
           ]
         ],
         "data" : {
-          "light" : "LightForgeFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 1.0,
           "offset" : [
@@ -40,7 +40,7 @@
           ]
         ],
         "data" : {
-          "light" : "LightForgeFire01",
+          "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 1.0,
           "offset" : [

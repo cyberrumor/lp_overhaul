@@ -4,8 +4,8 @@
       {
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale|Shadow",
-          "light" : "BleakFallsDraugrTorch01",
+          "flags" : "IgnoreScale",
+          "light" : "LightCampFire01",
           "offset" : [
             0,
             25,
