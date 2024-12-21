@@ -3,7 +3,9 @@
     "models" : [
       "clutter\\woodfires\\fireplacewood01burning.nif",
       "clutter\\woodfires\\campfire01burning.nif",
-      "clutter\\woodfires\\campfire01landburning.nif"
+      "clutter\\woodfires\\campfire01landburning.nif",
+      "clutter\\woodfires\\wbbcfcampfire01burning.nif",
+      "clutter\\woodfires\\wbbcfcampfire01landburning.nif"
     ],
     "lights" : [
       {
@@ -50,7 +52,9 @@
   },
   {
     "models" : [
-      "clutter\\giant\\giantcampfire01burning.nif"
+      "clutter\\giant\\giantcampfire01burning.nif",
+      "clutter\\giant\\wbbcfgiantcampfire01burning.nif",
+      "clutter\\giant\\wbbcfgiantcampfire01burningnoland.nif"
     ],
     "lights" : [
       {
