@@ -86,6 +86,33 @@
   },
   {
     "models" : [
+      "plants\\floranirnroot01.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "DwarvenMushroomLight",
+          "radius" : 256.0,
+          "fade" : 1.0,
+          "offset" : [
+            0,
+            0,
+            60
+          ],
+          "flags" : "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models" : [
       "dlc01\\plants\\dlc01glowplant01.nif"
     ],
     "lights" : [
