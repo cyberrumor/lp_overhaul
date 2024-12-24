@@ -1,0 +1,70 @@
+[
+    {
+        "models": [
+            "dlc02\\dungeons\\apocrypha\\clutter\\apolightpost01.nif",
+            "dlc02\\dungeons\\apocrypha\\clutter\\apolightpost02.nif"
+        ],
+        "lights": [
+            {
+                "points": [[0,30,240]],
+                "data": {
+                    "light": "IceCandleLight01_NoMove",
+                    "radius": 256.0,
+                    "fade": 1.0,
+                    "flags": "IgnoreScale"
+                }
+            },
+            {
+                "points": [[0,30,240]],
+                "data": {
+                    "light": "IceCandleLight01_NoMove",
+                    "radius": 512.0,
+                    "fade": 0.25,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "dlc02\\dungeons\\apocrypha\\animated\\aposcryetrigger01\\aposcryetrigger01.nif",
+            "dlc02\\dungeons\\apocrypha\\clutter\\apohoverlight01.nif"
+        ],
+        "lights": [
+            {
+                "points": [[0,0,105]],
+                "data": {
+                    "light": "IceCandleLight01_NoMove",
+                    "radius": 128.0,
+                    "fade": 2.0,
+                    "flags": "IgnoreScale"
+                }
+            },
+            {
+                "points": [[0,0,50]],
+                "data": {
+                    "light": "IceCandleLight01_NoMove",
+                    "radius": 256.0,
+                    "fade": 1.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "dlc02\\dungeons\\apocrypha\\clutter\\apohoverlight01.nif"
+        ],
+        "lights": [
+            {
+                "points": [[0,0,0]],
+                "data": {
+                    "light": "IceCandleLight01_NoMove",
+                    "radius": 256.0,
+                    "fade": 1.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    }
+]

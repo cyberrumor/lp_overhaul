@@ -1,0 +1,28 @@
+[
+  {
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\animated\\aposconces\\apoheadscone02ani.nif",
+      "dlc02\\dungeons\\apocrypha\\animated\\aposconces\\apomouthsconce02ani.nif"
+    ],
+    "lights": [
+      {
+        "nodes": ["glow01"],
+        "data": {
+          "light": "GreenPoisonGasLight",
+          "radius": 128.0,
+          "fade": 2.0,
+          "flags": "IgnoreScale"
+        }
+      },
+      {
+        "nodes": ["glow01"],
+        "data": {
+            "light": "GreenPoisonGasLight",
+            "radius": 256.0,
+            "fade": 0.5,
+            "flags": "IgnoreScale"
+        }
+      }
+    ]
+  }
+]

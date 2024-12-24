@@ -39,5 +39,31 @@
         }
       }
     ]
+  },
+  {
+    "models": [
+      "dlc02\\dungeons\\apocrypha\\animated\\aposconces\\apoheadscone03ani.nif",
+      "dlc02\\dungeons\\apocrypha\\animated\\aposconces\\apomouthsconce03ani.nif"
+    ],
+    "lights": [
+      {
+        "nodes": ["glow01"],
+        "data": {
+          "light": "AzuraBlue01",
+          "radius": 128.0,
+          "fade": 3.0,
+          "flags": "IgnoreScale"
+        }
+      },
+      {
+        "nodes": ["glow01"],
+        "data": {
+            "light": "AzuraBlue01",
+            "radius": 256.0,
+            "fade": 2.0,
+            "flags": "IgnoreScale"
+        }
+      }
+    ]
   }
 ]
