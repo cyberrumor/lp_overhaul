@@ -1,7 +1,7 @@
 [
   {
     "models" : [
-      "Furniture\\BlacksmithForgeMarker.nif"
+      "Effects\\C06FXfireBlueWithEmbersHeavy.nif"
     ],
     "lights" : [
       {
@@ -13,13 +13,33 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
+          "light" : "AzuraBlue01",
+          "radius" : 256.0,
           "fade" : 1.0,
           "offset" : [
             0,
-            150,
-            100
+            0,
+            50
+          ],
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "data" : {
+          "light" : "AzuraBlue01",
+          "radius" : 768.0,
+          "fade" : 0.2,
+          "offset" : [
+            0,
+            0,
+            50
           ],
           "flags" : "IgnoreScale"
         }
@@ -28,7 +48,7 @@
   },
   {
     "models" : [
-      "Furniture\\BlackSmithingSkyforgeMarker.nif"
+      "dlc01\\plants\\dlc01glowplant01.nif"
     ],
     "lights" : [
       {
@@ -40,13 +60,13 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
+          "light" : "AzuraBlue01",
+          "radius" : 256.0,
           "fade" : 1.0,
           "offset" : [
             0,
             0,
-            0
+            60
           ],
           "flags" : "IgnoreScale"
         }
