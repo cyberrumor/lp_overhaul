@@ -5,13 +5,6 @@
     ],
     "lights" : [
       {
-        "points" : [
-          [
-            0,
-            0,
-            0
-          ]
-        ],
         "data" : {
           "light" : "DwarvenMushroomLight",
           "radius" : 256.0,

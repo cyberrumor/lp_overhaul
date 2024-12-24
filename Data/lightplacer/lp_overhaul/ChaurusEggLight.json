@@ -7,13 +7,6 @@
     ],
     "lights" : [
       {
-        "points" : [
-          [
-            0,
-            0,
-            0
-          ]
-        ],
         "data" : {
           "light" : "CharusEggLight",
           "radius" : 128.0,

@@ -5,22 +5,10 @@
     ],
     "lights" : [
       {
-        "points" : [
-          [
-            0,
-            0,
-            0
-          ]
-        ],
         "data" : {
           "light" : "MGFirePillarLightBlue",
           "radius" : 512.0,
           "fade" : 0.5,
-          "offset" : [
-            0,
-            0,
-            0
-          ],
           "flags" : "IgnoreScale"
         }
       }
@@ -44,11 +32,6 @@
           "radius" : 1024.0,
           "fade" : 1.0,
           "shadowDepthBias": 26.0,
-          "offset" : [
-            0,
-            0,
-            0
-          ],
           "flags" : "IgnoreScale|Shadow"
         }
       }

@@ -7,13 +7,6 @@
     ],
     "lights" : [
       {
-        "points" : [
-          [
-            0,
-            0,
-            0
-          ]
-        ],
         "data" : {
           "light" : "BleakFallsFungus01",
           "radius" : 512.0,
