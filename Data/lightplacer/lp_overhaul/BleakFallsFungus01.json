@@ -7,7 +7,7 @@
     ],
     "lights" : [
       {
-        "points": [[20, -30, 0]],
+        "nodes": ["GlowingMushroomCluster01"],
         "data" : {
           "light" : "BleakFallsFungus01",
           "radius" : 512.0,
