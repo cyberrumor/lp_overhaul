@@ -2,16 +2,12 @@
   {
     "lights" : [
       {
+        "points": [[0,0,120]],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale|Shadow",
           "light" : "DwarvenOmniLight_NoMove",
           "shadowDepthBias": 26.00,
-          "offset" : [
-            0,
-            0,
-            120
-          ],
           "radius" : 512.0
         }
       }
@@ -24,16 +20,12 @@
   {
     "lights" : [
       {
+        "points": [[0,25,40]],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale|Shadow",
           "light" : "DwarvenOmniLight_NoMove",
           "shadowDepthBias": 26.00,
-          "offset" : [
-            0,
-            25,
-            40
-          ],
           "radius" : 512.0
         }
       }
@@ -43,16 +35,12 @@
   {
     "lights" : [
       {
+        "points": [[0,0,50]],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale|Shadow",
           "light" : "DwarvenOmniLight_NoMove",
           "shadowDepthBias": 26.00,
-          "offset" : [
-            0,
-            0,
-            50
-          ],
           "radius" : 1024.0
         }
       }
@@ -73,15 +61,11 @@
   {
     "lights" : [
       {
+        "points": [[25,0,25]],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale",
           "light" : "DwarvenOmniLight_NoMove",
-          "offset" : [
-            25,
-            0,
-            25
-          ],
           "radius" : 512.0
         }
       }
@@ -93,15 +77,11 @@
   {
     "lights" : [
       {
+        "points": [[-25, -1, 8]],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale",
           "light" : "DwarvenOmniLight_NoMove",
-          "offset" : [
-            -25,
-            -1,
-            8
-          ],
           "radius" : 256.0
         }
       }
@@ -115,15 +95,11 @@
   {
     "lights" : [
       {
+        "points": [[-25, -1, 8]],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale",
           "light" : "DwarvenOmniLight_NoMove",
-          "offset" : [
-            -25,
-            -1,
-            8
-          ],
           "radius" : 128.0
         }
       }

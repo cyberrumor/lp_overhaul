@@ -5,15 +5,11 @@
     ],
     "lights" : [
       {
+        "points": [[0, 0, 60]],
         "data" : {
           "light" : "MiddenRedEye01",
           "radius" : 256.0,
           "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            60
-          ],
           "flags" : "IgnoreScale"
         }
       }

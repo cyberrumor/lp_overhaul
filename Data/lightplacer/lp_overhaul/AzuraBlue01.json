@@ -5,28 +5,20 @@
     ],
     "lights" : [
       {
+        "points": [[0, 0, 50]],
         "data" : {
           "light" : "AzuraBlue01",
           "radius" : 256.0,
           "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            50
-          ],
           "flags" : "IgnoreScale"
         }
       },
       {
+        "points": [[0, 0, 50]],
         "data" : {
           "light" : "AzuraBlue01",
           "radius" : 768.0,
           "fade" : 0.2,
-          "offset" : [
-            0,
-            0,
-            50
-          ],
           "flags" : "IgnoreScale"
         }
       }
@@ -38,15 +30,11 @@
     ],
     "lights" : [
       {
+        "points": [[0, 0, 60]],
         "data" : {
           "light" : "AzuraBlue01",
           "radius" : 256.0,
           "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            60
-          ],
           "flags" : "IgnoreScale"
         }
       }

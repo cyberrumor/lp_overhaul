@@ -7,15 +7,11 @@
     ],
     "lights" : [
       {
+        "points": [[20, -30, 0]],
         "data" : {
           "light" : "BleakFallsFungus01",
           "radius" : 512.0,
           "fade" : 0.5,
-          "offset" : [
-            20,
-            -30,
-            0
-          ],
           "flags" : "IgnoreScale"
         }
       }

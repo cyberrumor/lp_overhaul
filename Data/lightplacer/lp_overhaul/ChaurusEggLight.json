@@ -7,15 +7,11 @@
     ],
     "lights" : [
       {
+        "points": [[0,0,50]],
         "data" : {
           "light" : "CharusEggLight",
           "radius" : 128.0,
           "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            50
-          ],
           "flags" : "IgnoreScale"
         }
       }
