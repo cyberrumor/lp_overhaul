@@ -42,5 +42,89 @@
         }
       }
     ]
+  },
+  {
+    "models" : [
+      "furniture\\alchemyworkbench.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            63,
+            70
+          ],
+          [
+            40,
+            80,
+            75
+          ]
+        ],
+        "data" : {
+          "light" : "GreenPoisonGasLight",
+          "radius" : 32.0,
+          "fade" : 1.0,
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+        "points": [
+          [
+            8,
+            113,
+            95
+          ]
+        ],
+        "data": {
+          "light": "LightCampFire01",
+          "radius": 64.0,
+          "fade": 0.5,
+          "flags": "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models" : [
+      "furniture\\alchemyworkstation.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            52,
+            67
+          ],
+          [
+            13,
+            67,
+            70
+          ]
+        ],
+        "data" : {
+          "light" : "GreenPoisonGasLight",
+          "radius" : 64.0,
+          "fade" : 1.0,
+          "flags" : "IgnoreScale"
+        }
+      },
+      {
+          "points": [
+              [
+                  -9,
+                  71,
+                  70
+              ]
+          ],
+          "data": {
+              "light": "LightCampFire01",
+              "radius": 64.0,
+              "fade": 0.25,
+              "flags": "IgnoreScale"
+          }
+      }
+    ]
   }
 ]
