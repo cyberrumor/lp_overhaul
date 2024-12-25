@@ -1,422 +1,103 @@
 [
   {
-    "lights" : [
-      {
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        },
-        "points" : [
-          [
-            0,
-            0,
-            25
-          ]
-        ]
-      }
+    "addonNodes" : [
+      49
     ],
-    "models" : [
-      "clutter\\ruins\\ruinsfloorcandlelampsmon.nif"
-    ]
-  },
-  {
     "lights" : [
       {
-        "points": [[0, 0, 35]],
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\ruins\\ruinsfloorcandlelampsmon02.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 512.0
-        },
-        "points" : [
-          [
-            0,
-            0,
-            10
-          ]
-        ]
-      }
-    ],
-    "models" : [
-      "clutter\\common\\candlelanternwithcandle01.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[0, -10, 25]],
+        "whiteList" : [
+          "clutter\\imperial\\impwallsconcecandle01.nif",
+          "clutter\\imperial\\impwallsconce02candleon01.nif",
+          "clutter\\imperial\\impwallsconcecandle02.nif",
+          "clutter\\candles\\candlehorntable01.nif",
+          "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn01.nif",
+          "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn03.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way01.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way02.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way03.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm2way01.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way01.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way02.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way01.nif",
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way02.nif"
+        ],
         "data" : {
           "fade" : 0.25,
           "flags" : "IgnoreScale",
           "light" : "LightCampFire01",
           "radius" : 256.0
         }
-      }
-    ],
-    "models" : [
-      "clutter\\candles\\candlehorntable01.nif"
-    ]
-  },
-  {
-    "lights" : [
+      },
       {
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        },
-        "points" : [
-          [
-            0,
-            0,
-            75
-          ]
-        ]
-      }
-    ],
-    "models" : [
-      "clutter\\ruins\\ruinsfloorcandlelampmidon.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        },
-        "points" : [
-          [
-            0,
-            0,
-            75
-          ]
-        ]
-      }
-    ],
-    "models" : [
-      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[0, -25, 30]],
+        "whiteList" : [
+          "clutter\\glazedcandlesstatic02.nif",
+          "clutter\\glazedcandles01.nif",
+          "clutter\\imperial\\impcandle01.nif",
+          "clutter\\candles\\candlehornwall01.nif"
+        ],
         "data" : {
           "fade" : 0.5,
           "flags" : "IgnoreScale",
           "light" : "LightCampFire01",
           "radius" : 128.0
         }
-      }
-    ],
-    "models" : [
-      "clutter\\candles\\candlehornwall01.nif"
-    ]
-  },
-  {
-    "lights" : [
+      },
       {
-        "points": [[-25, 0, 30]],
+        "whiteList" : [
+          "furniture\\enchantingworkbench.nif",
+          "furniture\\enchantingworkstation.nif",
+          "furniture\\workbenches\\enchantingworkbench01.nif",
+          "furniture\\workbenches\\enchantingworkstation01.nif"
+        ],
         "data" : {
-          "fade" : 0.25,
+          "fade" : 0.15,
           "flags" : "IgnoreScale",
           "light" : "LightCampFire01",
-          "radius" : 256.0
+          "radius" : 64.0
         }
-      }
-    ],
-    "models" : [
-      "clutter\\ruins\\ruinscandlesconceon01.nif"
-    ]
-  },
-  {
-    "lights" : [
+      },
       {
-        "points": [[0, 0, 130]],
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 512.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\candles\\candlehornfloor01.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        },
-        "points" : [
-          [
-            -25,
-            0,
-            30
-          ]
-        ]
-      }
-    ],
-    "models" : [
-      "clutter\\ruins\\ruinscandlesconceon02.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[-10, 0, 10]],
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\imperial\\impwallsconcecandle01.nif"
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\imperial\\impcandle01.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, 0, 20]],
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 128.0
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\imperial\\impwallsconce02candleon01.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, 0, 0]],
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      }
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[0, 0, 0]],
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 512.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\candles\\candlehornchandelier01.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[0, 0, 20]],
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 128.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\glazedcandlesstatic02.nif"
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\silver\\silvercandlestick03.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, -1, 35]],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 0.5,
-          "flags" : "IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\glazedcandles01.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, 0, 25]],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 128.0,
-          "fade" : 0.5,
-          "flags" : "IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\silver\\silvercandlestick02.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, -1, 50]],
+        "whiteList" : [
+          "clutter\\silver\\silvercandlestick01.nif",
+          "clutter\\silver\\silvercandlestick02.nif",
+          "clutter\\silver\\silvercandlestick03.nif",
+          "clutter\\sovngardesovcandlestick03static.nif",
+          "clutter\\sovngardesovcandlestick01static.nif",
+          "clutter\\sovngardesovcandlestick02static.nif",
+          "clutter\\ruins\\ruinscandlesconceon02.nif",
+          "clutter\\ruins\\ruinscandlesconceon01.nif",
+          "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif",
+          "clutter\\ruins\\ruinsfloorcandlelampmidon.nif",
+          "clutter\\ruins\\ruinsfloorcandlelampsmon.nif",
+          "clutter\\ruins\\ruinsfloorcandlelampsmon02.nif",
+          "clutter\\candles\\candlehornfloor01.nif",
+          "clutter\\candles\\candlehornchandelier01.nif",
+          "clutter\\candles\\candlehornchandelier02.nif",
+          "clutter\\shrines\\shrinebase.nif"
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 0.5,
           "flags" : "IgnoreScale"
         }
-      }
-    ]
-  },
-  {
-    "lights" : [
+      },
       {
-        "points": [[0, 0, 0]],
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 512.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\candles\\candlehornchandelier02.nif"
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\silver\\silvercandlestick01.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, -1, 50]],
+        "whiteList" : [
+          "clutter\\imperial\\impchandelliercandle01.nif",
+          "clutter\\imperial\\impchandelliercandle02.nif",
+          "clutter\\imperial\\impchandelliercandle03.nif",
+          "clutter\\imperial\\impcandelabracandle01.nif",
+          "clutter\\imperial\\impcandelabracandle02.nif",
+          "clutter\\common\\candlelanternwithcandle01.nif"
+        ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 0.5,
+          "radius" : 512.0,
+          "fade" : 0.15,
           "flags" : "IgnoreScale"
         }
       }
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\sovngardesovcandlestick03static.nif",
-      "clutter\\sovngardesovcandlestick01static.nif",
-      "clutter\\sovngardesovcandlestick02static.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, -1, 50]],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 0.5,
-          "flags" : "IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-      "addonNodes": [49],
-      "lights": [
-          {
-            "whiteList" : [
-              "clutter\\imperial\\impchandelliercandle01.nif",
-              "clutter\\imperial\\impchandelliercandle02.nif",
-              "clutter\\imperial\\impchandelliercandle03.nif",
-              "clutter\\imperial\\impcandelabracandle01.nif",
-              "clutter\\imperial\\impcandelabracandle02.nif"
-            ],
-            "data" : {
-              "light" : "LightCampFire01",
-              "radius" : 512.0,
-              "fade" : 0.15,
-              "flags" : "IgnoreScale"
-            }
-          }
-      ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[-10, 0, 10]],
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\imperial\\impwallsconcecandle02.nif"
-    ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[0, 0, 35]],
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\shrines\\shrinebase.nif"
     ]
   },
   {
@@ -428,7 +109,13 @@
     ],
     "lights" : [
       {
-        "points": [[0, 0, 50]],
+        "points" : [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 256.0,
@@ -437,11 +124,17 @@
         }
       },
       {
-        "points": [[0, 0, 50]],
+        "points" : [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 768.0,
-          "fade" : 0.2,
+          "fade" : 0.25,
           "flags" : "IgnoreScale"
         }
       }
@@ -453,7 +146,13 @@
     ],
     "lights" : [
       {
-        "points": [[0, 0, 50]],
+        "points" : [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 256.0,
@@ -462,11 +161,17 @@
         }
       },
       {
-        "points": [[0, 0, 50]],
+        "points" : [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 768.0,
-          "fade" : 0.2,
+          "fade" : 0.25,
           "flags" : "IgnoreScale"
         }
       }
@@ -500,7 +205,7 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 1024.0,
-          "fade" : 0.2,
+          "fade" : 0.25,
           "offset" : [
             0,
             0,
@@ -517,7 +222,13 @@
     ],
     "lights" : [
       {
-        "points": [[0, 150, 100]],
+        "points" : [
+          [
+            0,
+            150,
+            100
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 512.0,
@@ -533,7 +244,13 @@
     ],
     "lights" : [
       {
-        "points": [[0, 0, 0]],
+        "points" : [
+          [
+            0,
+            0,
+            0
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 512.0,
@@ -553,7 +270,13 @@
     ],
     "lights" : [
       {
-        "points": [[0, 0, 75]],
+        "points" : [
+          [
+            0,
+            0,
+            75
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 256.0,
@@ -562,11 +285,17 @@
         }
       },
       {
-        "points": [[0, 0, 75]],
+        "points" : [
+          [
+            0,
+            0,
+            75
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 768.0,
-          "fade" : 0.2,
+          "fade" : 0.25,
           "flags" : "IgnoreScale"
         }
       }
@@ -580,30 +309,48 @@
     ],
     "lights" : [
       {
-        "points": [[0, 0, 500]],
+        "points" : [
+          [
+            0,
+            0,
+            500
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade" : 0.9,
+          "fade" : 0.88,
           "flags" : "IgnoreScale"
         }
       },
       {
-        "points": [[0, 0, 500]],
+        "points" : [
+          [
+            0,
+            0,
+            500
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 1024.0,
-          "fade" : 0.9,
+          "fade" : 0.88,
           "flags" : "IgnoreScale"
         }
       },
       {
-        "points": [[0, 0, 500]],
+        "points" : [
+          [
+            0,
+            0,
+            500
+          ]
+        ],
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 2048.0,
           "shadowDepthBias" : 26.0,
-          "fade" : 0.2,
+          "fade" : 0.25,
           "flags" : "IgnoreScale|Shadow"
         }
       }
@@ -612,7 +359,13 @@
   {
     "lights" : [
       {
-        "points": [[0, 25, 40]],
+        "points" : [
+          [
+            0,
+            25,
+            40
+          ]
+        ],
         "data" : {
           "fade" : 1.0,
           "flags" : "IgnoreScale",
@@ -628,37 +381,17 @@
   },
   {
     "models" : [
-      "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn01.nif",
-      "dungeons\\nordic\\temple\\bghalls\\nortmphallbgcolumn03.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way01.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way02.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm1way03.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm2way01.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way01.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way02.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way01.nif",
-      "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way02.nif"
-    ],
-    "lights" : [
-      {
-        "nodes" : [
-        ],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
       "Effects\\C06FXfireBlueWithEmbersHeavy.nif"
     ],
     "lights" : [
       {
-        "points": [[0, 0, 50]],
+        "points" : [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
         "data" : {
           "light" : "AzuraBlue01",
           "radius" : 256.0,
@@ -667,66 +400,64 @@
         }
       },
       {
-        "points": [[0, 0, 50]],
+        "points" : [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
         "data" : {
           "light" : "AzuraBlue01",
           "radius" : 768.0,
-          "fade" : 0.2,
+          "fade" : 0.25,
           "flags" : "IgnoreScale"
         }
       }
     ]
   },
   {
-    "addonNodes": [49],
-    "lights": [
-        {
-            "whiteList": [
-                "furniture\\enchantingworkbench.nif",
-                "furniture\\enchantingworkstation.nif",
-                "furniture\\workbenches\\enchantingworkbench01.nif",
-                "furniture\\workbenches\\enchantingworkstation01.nif"
-            ],
-            "data": {
-                "light": "LightCampFire01",
-                "radius": 64.0,
-                "fade": 0.1,
-                "flags": "IgnoreScale"
-            }
+    "models" : [
+      "furniture\\enchantingworkbench.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            125,
+            98
+          ]
+        ],
+        "data" : {
+          "light" : "GreenPoisonGasLight",
+          "radius" : 64.0,
+          "fade" : 1.0,
+          "flags" : "IgnoreScale"
         }
+      }
     ]
   },
   {
-      "models": [
-            "furniture\\enchantingworkbench.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 125, 98]],
-              "data": {
-                  "light": "GreenPoisonGasLight",
-                  "radius": 64.0,
-                  "fade": 1.0,
-                  "flags": "IgnoreScale"
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-            "furniture\\enchantingworkstation.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 85, 80]],
-              "data": {
-                  "light": "GreenPoisonGasLight",
-                  "radius": 64.0,
-                  "fade": 1.0,
-                  "flags": "IgnoreScale"
-              }
-          }
-      ]
+    "models" : [
+      "furniture\\enchantingworkstation.nif"
+    ],
+    "lights" : [
+      {
+        "points" : [
+          [
+            0,
+            85,
+            80
+          ]
+        ],
+        "data" : {
+          "light" : "GreenPoisonGasLight",
+          "radius" : 64.0,
+          "fade" : 1.0,
+          "flags" : "IgnoreScale"
+        }
+      }
+    ]
   }
-
 ]
