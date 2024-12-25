@@ -375,49 +375,5 @@
         }
       }
     ]
-  },
-  {
-    "models" : [
-      "furniture\\enchantingworkbench.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            125,
-            98
-          ]
-        ],
-        "data" : {
-          "light" : "GreenPoisonGasLight",
-          "radius" : 64.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "furniture\\enchantingworkstation.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            85,
-            80
-          ]
-        ],
-        "data" : {
-          "light" : "GreenPoisonGasLight",
-          "radius" : 64.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale"
-        }
-      }
-    ]
   }
 ]
