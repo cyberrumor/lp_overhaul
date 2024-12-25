@@ -6,6 +6,10 @@
     "lights" : [
       {
         "whiteList" : [
+          "clutter\\glazedcandlesstatic02.nif",
+          "clutter\\glazedcandles01.nif",
+          "clutter\\imperial\\impcandle01.nif",
+          "clutter\\candles\\candlehornwall01.nif",
           "clutter\\imperial\\impwallsconcecandle01.nif",
           "clutter\\imperial\\impwallsconce02candleon01.nif",
           "clutter\\imperial\\impwallsconcecandle02.nif",
@@ -19,41 +23,17 @@
           "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way01.nif",
           "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm3way02.nif",
           "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way01.nif",
-          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way02.nif"
-        ],
-        "data" : {
-          "fade" : 0.25,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 256.0
-        }
-      },
-      {
-        "whiteList" : [
-          "clutter\\glazedcandlesstatic02.nif",
-          "clutter\\glazedcandles01.nif",
-          "clutter\\imperial\\impcandle01.nif",
-          "clutter\\candles\\candlehornwall01.nif"
-        ],
-        "data" : {
-          "fade" : 0.5,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 128.0
-        }
-      },
-      {
-        "whiteList" : [
+          "dungeons\\nordic\\catacombs\\smhalls\\norcathallsm4way02.nif",
           "furniture\\enchantingworkbench.nif",
           "furniture\\enchantingworkstation.nif",
           "furniture\\workbenches\\enchantingworkbench01.nif",
           "furniture\\workbenches\\enchantingworkstation01.nif"
         ],
         "data" : {
-          "fade" : 0.15,
+          "fade" : 0.1,
           "flags" : "IgnoreScale",
           "light" : "LightCampFire01",
-          "radius" : 64.0
+          "radius" : 128.0
         }
       },
       {
@@ -73,17 +53,7 @@
           "clutter\\candles\\candlehornfloor01.nif",
           "clutter\\candles\\candlehornchandelier01.nif",
           "clutter\\candles\\candlehornchandelier02.nif",
-          "clutter\\shrines\\shrinebase.nif"
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 0.5,
-          "flags" : "IgnoreScale"
-        }
-      },
-      {
-        "whiteList" : [
+          "clutter\\shrines\\shrinebase.nif",
           "clutter\\imperial\\impchandelliercandle01.nif",
           "clutter\\imperial\\impchandelliercandle02.nif",
           "clutter\\imperial\\impchandelliercandle03.nif",
@@ -94,7 +64,7 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade" : 0.15,
+          "fade" : 0.1,
           "flags" : "IgnoreScale"
         }
       }
