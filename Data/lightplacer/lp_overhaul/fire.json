@@ -27,17 +27,7 @@
           "furniture\\enchantingworkbench.nif",
           "furniture\\enchantingworkstation.nif",
           "furniture\\workbenches\\enchantingworkbench01.nif",
-          "furniture\\workbenches\\enchantingworkstation01.nif"
-        ],
-        "data" : {
-          "fade" : 0.1,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 128.0
-        }
-      },
-      {
-        "whiteList" : [
+          "furniture\\workbenches\\enchantingworkstation01.nif",
           "clutter\\silver\\silvercandlestick01.nif",
           "clutter\\silver\\silvercandlestick02.nif",
           "clutter\\silver\\silvercandlestick03.nif",
@@ -63,7 +53,7 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 512.0,
+          "radius" : 384.0,
           "fade" : 0.1,
           "flags" : "IgnoreScale"
         }
