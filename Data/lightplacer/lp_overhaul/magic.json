@@ -29,11 +29,10 @@
           ]
         ],
         "data" : {
-          "light" : "MGFirePillarLightBlueShadow",
+          "light" : "MGFirePillarLightBlue",
           "radius" : 1024.0,
           "fade" : 1.0,
-          "shadowDepthBias": 26.0,
-          "flags" : "IgnoreScale|Shadow"
+          "flags" : "IgnoreScale"
         }
       }
     ]
