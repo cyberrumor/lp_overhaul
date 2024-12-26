@@ -5,9 +5,8 @@
         "points": [[0,0,120]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale|Shadow",
+          "flags" : "IgnoreScale",
           "light" : "DwarvenOmniLight_NoMove",
-          "shadowDepthBias": 26.00,
           "radius" : 512.0
         }
       }
@@ -20,27 +19,11 @@
   {
     "lights" : [
       {
-        "points": [[0,25,40]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|Shadow",
-          "light" : "DwarvenOmniLight_NoMove",
-          "shadowDepthBias": 26.00,
-          "radius" : 512.0
-        }
-      }
-    ],
-    "models" : []
-  },
-  {
-    "lights" : [
-      {
         "points": [[0,0,50]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale|Shadow",
+          "flags" : "IgnoreScale",
           "light" : "DwarvenOmniLight_NoMove",
-          "shadowDepthBias": 26.00,
           "radius" : 1024.0
         }
       }
