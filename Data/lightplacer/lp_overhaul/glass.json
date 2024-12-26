@@ -126,5 +126,56 @@
           }
       }
     ]
+  },
+  {
+      "models": [
+          "magus\\mysticism\\scrollbench.nif"
+      ],
+      "lights": [
+        {
+            "points": [
+                [0, 63, 70],
+                [25, 63, 70],
+                [-25, 63, 70],
+                [20, 55, 70],
+                [-20, 55, 70],
+                [13, 45, 70],
+                [-13, 45, 70],
+                [20, 75, 70],
+                [-20, 75, 70],
+                [13, 87, 70],
+                [-13, 87, 70]
+            ],
+            "data": {
+                "light": "DLC1FalmerPurple01NS",
+                "radius": 16.0,
+                "fade": 2.0,
+                "flags": "IgnoreScale"
+            }
+        }
+      ]
+  },
+  {
+      "models": [
+          "magus\\mysticism\\staffbench.nif"
+      ],
+      "lights": [
+          {
+              "points": [
+                [0, 63, 75],
+                [0, 95, 70],
+                [20, 75, 70],
+                [-20, 75, 70],
+                [13, 87, 70],
+                [-13, 87, 70]
+              ],
+              "data": {
+                  "light": "DLC1FalmerPurple01NS",
+                  "radius": 16.0,
+                  "fade": 2.0,
+                  "flags": "IgnoreScale"
+              }
+          }
+      ]
   }
 ]
