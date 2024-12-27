@@ -7,7 +7,7 @@
       {
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 384.0,
+          "radius" : 512.0,
           "fade" : 0.1,
           "flags" : "IgnoreScale"
         }
@@ -19,43 +19,8 @@
       "Effects\\FXfireWithEmbers01_lite.nif",
       "Effects\\FXfireWithEmbers02.nif",
       "Effects\\FXfireWithEmbersHeavyToggle.nif",
-      "Effects\\FXfireWithEmbersLogs01.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            0,
-            50
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale"
-        }
-      },
-      {
-        "points" : [
-          [
-            0,
-            0,
-            50
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 768.0,
-          "fade" : 0.25,
-          "flags" : "IgnoreScale"
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
+      "Effects\\FXfireWithEmbersLogs01.nif",
+      "Effects\\FXfireWithEmbers01_Cheap.nif",
       "Effects\\FXfireWithEmbers01.nif"
     ],
     "lights" : [
@@ -84,8 +49,8 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 768.0,
-          "fade" : 0.25,
+          "radius" : 1024.0,
+          "fade" : 0.4,
           "flags" : "IgnoreScale"
         }
       }
@@ -98,7 +63,7 @@
     "lights" : [
       {
         "whiteList" : [
-          "Effects\\FXfireWithEmbers01_Cheap.nif"
+            "Effects\\FXfireWithEmbers01_Cheap.nif"
         ],
         "data" : {
           "light" : "LightCampFire01",
@@ -119,7 +84,7 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 1024.0,
-          "fade" : 0.25,
+          "fade" : 0.4,
           "offset" : [
             0,
             0,
@@ -208,8 +173,8 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 768.0,
-          "fade" : 0.25,
+          "radius" : 1024.0,
+          "fade" : 0.4,
           "flags" : "IgnoreScale"
         }
       }
@@ -264,7 +229,7 @@
           "light" : "LightCampFire01",
           "radius" : 2048.0,
           "shadowDepthBias" : 26.0,
-          "fade" : 0.25,
+          "fade" : 0.4,
           "flags" : "IgnoreScale|Shadow"
         }
       }
@@ -323,8 +288,8 @@
         ],
         "data" : {
           "light" : "AzuraBlue01",
-          "radius" : 768.0,
-          "fade" : 0.25,
+          "radius" : 1024.0,
+          "fade" : 0.4,
           "flags" : "IgnoreScale"
         }
       }
