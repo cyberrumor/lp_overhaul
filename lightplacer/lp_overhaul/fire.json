@@ -104,6 +104,35 @@
     ]
   },
   {
+      "models" : [
+          "effects\\tg09nocturnalfxfirepurple.nif"
+      ],
+      "lights" : [
+          {
+              "data": {
+                  "light" : "FalmerPurple01NS",
+                  "radius": 256.0,
+                  "fade": 1.0,
+                  "offset": [
+                      0, 0, 50
+                  ],
+                  "flags": "IgnoreScale"
+              }
+          },
+          {
+              "data": {
+                  "light": "FalmerPurple01NS",
+                  "radius": 1024.0,
+                  "fade": 0.4,
+                  "offset": [
+                      0, 0, 50
+                  ],
+                  "flags": "IgnoreScale"
+              }
+          }
+      ]
+  },
+  {
     "models" : [
       "Furniture\\BlacksmithForgeMarker.nif"
     ],
