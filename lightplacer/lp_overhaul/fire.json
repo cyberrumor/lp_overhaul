@@ -109,25 +109,23 @@
       ],
       "lights" : [
           {
+              "points": [[0, 0, 50]],
               "data": {
-                  "light" : "FalmerPurple01NS",
-                  "radius": 256.0,
-                  "fade": 1.0,
-                  "offset": [
-                      0, 0, 50
-                  ],
-                  "flags": "IgnoreScale"
+                  "light" : "DLC01SCPurple",
+                  "radius": 512.0,
+                  "fade": 2.0,
+                  "flags": "IgnoreScale",
+                  "color": [20, 0, 150]
               }
           },
           {
+              "points": [[0, 0, 50]],
               "data": {
-                  "light": "FalmerPurple01NS",
+                  "light": "DLC01SCPurple",
                   "radius": 1024.0,
                   "fade": 0.4,
-                  "offset": [
-                      0, 0, 50
-                  ],
-                  "flags": "IgnoreScale"
+                  "flags": "IgnoreScale",
+                  "color": [20, 0, 150]
               }
           }
       ]
