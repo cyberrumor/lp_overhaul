@@ -42,6 +42,107 @@
             "architecture\\winterhold\\winterholdtowerintwall05.nif"
         ],
         "lights": [
+            {
+                "points": [
+                    [0, -1650, 300]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "fade": 0.75,
+                    "radius": 1024.0,
+                    "flags": "IgnoreScale"
+                }
+            },
+            {
+                "points": [
+                    [250, -1050, 400],
+                    [-250, -1050, 400]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "fade": 1.0,
+                    "radius": 256.0,
+                    "flags": "IgnoreScale"
+                }
+            },
+            {
+                "points": [
+                    [0, -1650, 300]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01",
+                    "fade": 0.5,
+                    "radius": 512.0,
+                    "flags": "IgnoreScale|Shadow",
+                    "shadowDepthBias": 26.0,
+                    "rotation": [-80, -90, 0]
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\winterhold\\winterholdtowerintwall04.nif",
+            "architecture\\winterhold\\winterholdtowerintwall06.nif",
+            "architecture\\winterhold\\winterholdtowerintwall07.nif",
+            "architecture\\winterhold\\winterholdtowerintwall08.nif",
+            "architecture\\winterhold\\winterholdtowerintwall09.nif"
+        ],
+        "lights": [
+            {
+                "points": [[0, 760, 420]],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "fade": 1.0,
+                    "radius": 256.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\winterhold\\winterholdtowerintwall10.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [250, -1050, 400],
+                    [-250, -1050, 400]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "fade": 1.0,
+                    "radius": 256.0,
+                    "flags": "IgnoreScale"
+                }
+            },
+            {
+                "points": [
+                    [0, -1750, 200]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01",
+                    "fade": 0.5,
+                    "radius": 2048.0,
+                    "flags": "IgnoreScale|Shadow",
+                    "shadowDepthBias": 26.0,
+                    "rotation": [-80, -90, 0]
+                }
+            },
+            {
+                "points": [
+                    [0, -1500, 600],
+                    [0, -1500, 400],
+                    [0, -1500, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01",
+                    "fade": 0.25,
+                    "radius": 512.0,
+                    "flags": "IgnoreScale"
+                }
+            }
         ]
     }
 ]
