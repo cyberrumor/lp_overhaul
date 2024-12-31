@@ -7,9 +7,25 @@
       {
         "points": [[0, 0, 0]],
         "data" : {
-          "light" : "MGFirePillarLightBlue",
+          "light" : "DefaultSunlight01NS",
           "radius" : 512.0,
-          "fade" : 0.5,
+          "fade" : 1.0,
+          "flags" : "IgnoreScale"
+        }
+      }
+    ]
+  },
+  {
+    "models" : [
+      "effects\\mgmagicfirepillarsmall.nif"
+    ],
+    "lights" : [
+      {
+        "points": [[0, 0, -125]],
+        "data" : {
+          "light" : "MGFirePillarLightBlue",
+          "radius" : 128.0,
+          "fade" : 2.0,
           "flags" : "IgnoreScale"
         }
       }
@@ -26,15 +42,46 @@
             0,
             0,
             0
+          ],
+          [
+            0,
+            0,
+            500
           ]
         ],
         "data" : {
           "light" : "MGFirePillarLightBlue",
           "radius" : 1024.0,
-          "fade" : 1.0,
+          "fade" : 1.5,
           "flags" : "IgnoreScale"
         }
       }
     ]
+  },
+  {
+      "models": [
+          "clutter\\eyeofmagnus\\eyeofmagnus01.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 0]],
+              "data": {
+                  "light": "MGEyeCollegeLight01",
+                  "radius": 1024.0,
+                  "fade": 1.0,
+                  "flags": "IgnoreScale|Shadow",
+                  "shadowDepthBias": 26.0
+              }
+          },
+          {
+              "points": [[0, 0, 0]],
+              "data": {
+                  "light": "MGEyeCollegeLight01",
+                  "radius": 768.0,
+                  "fade": 1.0,
+                  "flags": "IgnoreScale"
+              }
+          }
+      ]
   }
 ]
