@@ -8,15 +8,23 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 512.0,
-          "fade" : 0.05,
+          "fade" : 0.1,
           "flags" : "IgnoreScale"
         }
+      },
+      {
+          "data": {
+              "light" : "LightCampFire01",
+              "radius": 256.0,
+              "fade": 0.2,
+              "flags": "IgnoreScale"
+          }
       },
       {
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 64.0,
-          "fade" : 0.25,
+          "fade" : 0.3,
           "flags" : "IgnoreScale"
         }
       }
