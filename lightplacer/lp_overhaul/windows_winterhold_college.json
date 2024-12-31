@@ -72,7 +72,7 @@
                 "data": {
                     "light": "DefaultSunlight01",
                     "fade": 0.5,
-                    "radius": 512.0,
+                    "radius": 1024.0,
                     "flags": "IgnoreScale|Shadow",
                     "shadowDepthBias": 26.0,
                     "rotation": [-80, -90, 0]

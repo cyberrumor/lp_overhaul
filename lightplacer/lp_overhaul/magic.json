@@ -33,7 +33,8 @@
   },
   {
     "models" : [
-      "effects\\mgmagicfirepillar01.nif"
+      "effects\\mgmagicfirepillar01.nif",
+      "effects\\mgmagicfirepillarmidden01.nif"
     ],
     "lights" : [
       {
@@ -78,7 +79,23 @@
               "data": {
                   "light": "MGEyeCollegeLight01",
                   "radius": 768.0,
-                  "fade": 1.0,
+                  "fade": 2.0,
+                  "flags": "IgnoreScale"
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+          "clutter\\daedric\\daedricreliquary\\daedricreliquary01.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 20]],
+              "data": {
+                  "light": "MiddenRedEye01",
+                  "radius": 768.0,
+                  "fade": 0.5,
                   "flags": "IgnoreScale"
               }
           }
