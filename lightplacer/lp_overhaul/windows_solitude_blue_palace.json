@@ -10,7 +10,8 @@
                     "light": "DefaultSunlight01NS",
                     "fade": 0.5,
                     "radius": 96.0,
-                    "flags": "IgnoreScale"
+                    "flags": "IgnoreScale",
+                    "color": [235, 250, 254]
                 }
             }
         ]
@@ -28,7 +29,8 @@
                     "light": "DefaultSunlight01NS",
                     "fade": 0.1,
                     "radius": 256.0,
-                    "flags": "IgnoreScale"
+                    "flags": "IgnoreScale",
+                    "color": [235, 250, 254]
                 }
             }
         ]
@@ -47,7 +49,8 @@
                     "light": "DefaultSunlight01NS",
                     "fade": 0.1,
                     "radius": 256.0,
-                    "flags": "IgnoreScale"
+                    "flags": "IgnoreScale",
+                    "color": [235, 250, 254]
                 }
             }
         ]
@@ -63,7 +66,8 @@
                     "light": "DefaultSunlight01NS",
                     "fade": 0.1,
                     "radius": 768.0,
-                    "flags": "IgnoreScale"
+                    "flags": "IgnoreScale",
+                    "color": [235, 250, 254]
                 }
             }
         ]

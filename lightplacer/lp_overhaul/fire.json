@@ -9,7 +9,8 @@
           "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 0.1,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       },
       {
@@ -17,7 +18,8 @@
               "light" : "LightCampFire01",
               "radius": 256.0,
               "fade": 0.2,
-              "flags": "IgnoreScale"
+              "flags": "IgnoreScale",
+              "color": [226, 140, 63]
           }
       },
       {
@@ -25,7 +27,8 @@
           "light" : "LightCampFire01",
           "radius" : 64.0,
           "fade" : 0.3,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -52,7 +55,8 @@
           "light" : "LightCampFire01",
           "radius" : 256.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       },
       {
@@ -67,7 +71,8 @@
           "light" : "LightCampFire01",
           "radius" : 1024.0,
           "fade" : 0.4,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -90,7 +95,8 @@
             0,
             50
           ],
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       },
       {
@@ -106,7 +112,8 @@
             0,
             50
           ],
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -155,7 +162,8 @@
           "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -177,7 +185,8 @@
           "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -203,7 +212,8 @@
           "light" : "LightCampFire01",
           "radius" : 256.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       },
       {
@@ -218,7 +228,8 @@
           "light" : "LightCampFire01",
           "radius" : 1024.0,
           "fade" : 0.4,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -242,7 +253,8 @@
           "light" : "LightCampFire01",
           "radius" : 512.0,
           "fade" : 0.88,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       },
       {
@@ -257,7 +269,8 @@
           "light" : "LightCampFire01",
           "radius" : 1024.0,
           "fade" : 0.88,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale",
+          "color": [226, 140, 63]
         }
       },
       {
@@ -273,7 +286,8 @@
           "radius" : 2048.0,
           "shadowDepthBias" : 26.0,
           "fade" : 0.4,
-          "flags" : "IgnoreScale|Shadow"
+          "flags" : "IgnoreScale|Shadow",
+          "color": [226, 140, 63]
         }
       }
     ]
@@ -292,7 +306,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale",
           "light" : "LightCampFire01",
-          "radius" : 512.0
+          "radius" : 512.0,
+          "color": [226, 140, 63]
         }
       }
     ],
