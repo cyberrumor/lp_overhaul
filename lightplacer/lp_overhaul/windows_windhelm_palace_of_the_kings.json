@@ -1,0 +1,34 @@
+[
+    {
+        "models": [
+            "architecture\\windhelm\\interiorkits\\castle\\whintcastleroomwallwindow01.nif"
+        ],
+        "lights": [
+            {
+                "points": [[-80, 0, 20]],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "fade": 1.0,
+                    "radius": 128.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\windhelm\\interiorkits\\castle\\whintcastlelroomwallwindow01.nif"
+        ],
+        "lights": [
+            {
+                "points": [[0, 0, 100]],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "fade": 2.0,
+                    "radius": 256.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    }
+]
