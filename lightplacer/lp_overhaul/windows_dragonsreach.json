@@ -1,0 +1,76 @@
+[
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01double.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [130, -50, 150],
+                    [-130, -50, 150]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 256.0,
+                    "fade": 2.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestr01win.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, -50, 150],
+                    [-250, -50, 150]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 256.0,
+                    "fade": 2.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, -50, 150]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 256.0,
+                    "fade": 2.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestrdouble02.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 150]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 1024.0,
+                    "fade": 1.0,
+                    "flags": "IgnoreScale"
+                }
+            }
+        ]
+    }
+]
