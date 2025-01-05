@@ -12,7 +12,7 @@
                 "data": {
                     "light": "DefaultSunlight01NS",
                     "radius": 256.0,
-                    "fade": 2.0,
+                    "fade": 0.25,
                     "flags": "IgnoreScale",
                     "color": [235, 250, 254]
                 }
@@ -32,7 +32,7 @@
                 "data": {
                     "light": "DefaultSunlight01NS",
                     "radius": 256.0,
-                    "fade": 2.0,
+                    "fade": 0.25,
                     "flags": "IgnoreScale",
                     "color": [235, 250, 254]
                 }
@@ -51,7 +51,7 @@
                 "data": {
                     "light": "DefaultSunlight01NS",
                     "radius": 256.0,
-                    "fade": 2.0,
+                    "fade": 0.25,
                     "flags": "IgnoreScale",
                     "color": [235, 250, 254]
                 }
