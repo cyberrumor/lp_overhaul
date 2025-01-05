@@ -7,26 +7,8 @@
       {
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 0.1,
-          "flags" : "IgnoreScale",
-          "color": [226, 140, 63]
-        }
-      },
-      {
-          "data": {
-              "light" : "LightCampFire01",
-              "radius": 256.0,
-              "fade": 0.2,
-              "flags": "IgnoreScale",
-              "color": [226, 140, 63]
-          }
-      },
-      {
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 64.0,
-          "fade" : 0.3,
+          "radius" : 386.0,
+          "fade" : 0.15,
           "flags" : "IgnoreScale",
           "color": [226, 140, 63]
         }
@@ -53,24 +35,8 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale",
-          "color": [226, 140, 63]
-        }
-      },
-      {
-        "points" : [
-          [
-            0,
-            0,
-            50
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 1024.0,
-          "fade" : 0.4,
+          "radius" : 768.0,
+          "fade" : 0.6,
           "flags" : "IgnoreScale",
           "color": [226, 140, 63]
         }
@@ -84,29 +50,12 @@
     "lights" : [
       {
         "whiteList" : [
-            "Effects\\FXfireWithEmbers01_Cheap.nif"
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            50
-          ],
-          "flags" : "IgnoreScale",
-          "color": [226, 140, 63]
-        }
-      },
-      {
-        "whiteList" : [
           "Effects\\FXfireWithEmbers01_Cheap.nif"
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 1024.0,
-          "fade" : 0.4,
+          "radius" : 768.0,
+          "fade" : 0.6,
           "offset" : [
             0,
             0,
@@ -126,19 +75,9 @@
           {
               "points": [[0, 0, 50]],
               "data": {
-                  "light" : "DLC01SCPurple",
-                  "radius": 512.0,
-                  "fade": 2.0,
-                  "flags": "IgnoreScale",
-                  "color": [20, 0, 150]
-              }
-          },
-          {
-              "points": [[0, 0, 50]],
-              "data": {
                   "light": "DLC01SCPurple",
-                  "radius": 1024.0,
-                  "fade": 0.4,
+                  "radius": 768.0,
+                  "fade": 0.6,
                   "flags": "IgnoreScale",
                   "color": [20, 0, 150]
               }
@@ -210,24 +149,8 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale",
-          "color": [226, 140, 63]
-        }
-      },
-      {
-        "points" : [
-          [
-            0,
-            0,
-            75
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 1024.0,
-          "fade" : 0.4,
+          "radius" : 768.0,
+          "fade" : 0.6,
           "flags" : "IgnoreScale",
           "color": [226, 140, 63]
         }
@@ -267,7 +190,7 @@
         ],
         "data" : {
           "light" : "LightCampFire01",
-          "radius" : 1024.0,
+          "radius" : 768.0,
           "fade" : 0.88,
           "flags" : "IgnoreScale",
           "color": [226, 140, 63]
@@ -306,7 +229,7 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale",
           "light" : "LightCampFire01",
-          "radius" : 512.0,
+          "radius" : 640.0,
           "color": [226, 140, 63]
         }
       }
@@ -331,23 +254,8 @@
         ],
         "data" : {
           "light" : "AzuraBlue01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale"
-        }
-      },
-      {
-        "points" : [
-          [
-            0,
-            0,
-            50
-          ]
-        ],
-        "data" : {
-          "light" : "AzuraBlue01",
-          "radius" : 1024.0,
-          "fade" : 0.4,
+          "radius" : 768.0,
+          "fade" : 0.6,
           "flags" : "IgnoreScale"
         }
       }
