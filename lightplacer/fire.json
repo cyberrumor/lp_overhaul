@@ -200,30 +200,6 @@
     ]
   },
   {
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            25,
-            40
-          ]
-        ],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale",
-          "light" : "LightCampFire01",
-          "radius" : 640.0,
-          "color": [226, 140, 63]
-        }
-      }
-    ],
-    "models" : [
-      "clutter\\common\\removabletorch01.nif",
-      "clutter\\common\\torchpermanent01.nif"
-    ]
-  },
-  {
     "models" : [
       "Effects\\C06FXfireBlueWithEmbersHeavy.nif"
     ],
