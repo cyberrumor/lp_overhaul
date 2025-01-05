@@ -1,0 +1,16 @@
+[
+  {
+    "addonNodes": [49],
+    "lights": [
+      {
+        "data": {
+          "light": "LightCampFire01",
+          "radius": 386.0,
+          "fade": 0.15,
+          "flags": "IgnoreScale",
+          "color": [226, 140, 63]
+        }
+      }
+    ]
+  }
+]

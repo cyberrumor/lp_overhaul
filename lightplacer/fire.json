@@ -1,21 +1,5 @@
 [
   {
-    "addonNodes" : [
-      49
-    ],
-    "lights" : [
-      {
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 386.0,
-          "fade" : 0.15,
-          "flags" : "IgnoreScale",
-          "color": [226, 140, 63]
-        }
-      }
-    ]
-  },
-  {
     "models" : [
       "Effects\\FXfireWithEmbers01_lite.nif",
       "Effects\\FXfireWithEmbers02.nif",
