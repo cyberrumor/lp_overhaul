@@ -6,7 +6,7 @@
         "data": {
           "light": "LightCampFire01",
           "radius": 386.0,
-          "fade": 0.15,
+          "fade": 0.2,
           "flags": "IgnoreScale",
           "color": [226, 140, 63]
         }
