@@ -49,7 +49,7 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 512.0
+          "radius" : 768.0
         }
       }
     ],
