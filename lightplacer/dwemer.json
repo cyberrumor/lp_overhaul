@@ -19,6 +19,22 @@
   {
     "lights" : [
       {
+        "points": [[60,0,15]],
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale",
+          "light" : "DwarvenOmniLight_NoMove",
+          "radius" : 512.0
+        }
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwewallsconce02On.nif"
+    ]
+  },
+  {
+    "lights" : [
+      {
         "points": [[0,0,50]],
         "data" : {
           "fade" : 1.0,
