@@ -7,7 +7,7 @@
           "light": "LightCampFire01",
           "radius": 386.0,
           "fade": 0.2,
-          "flags": "IgnoreScale",
+          "flags": "IgnoreScale|NoExternalEmittance",
           "color": [226, 140, 63]
         }
       }

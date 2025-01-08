@@ -16,7 +16,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 256.0,
           "fade" : 0.5,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       },
       {
@@ -31,7 +31,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 128.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       },
       {
@@ -46,7 +46,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 256.0,
           "fade" : 0.5,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       },
       {
@@ -61,7 +61,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 128.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]
@@ -83,7 +83,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 256.0,
           "fade" : 0.5,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       },
       {
@@ -98,7 +98,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 128.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]
@@ -120,7 +120,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 256.0,
           "fade" : 0.5,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       },
       {
@@ -135,7 +135,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 128.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]
@@ -157,7 +157,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 256.0,
           "fade" : 0.5,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       },
       {
@@ -172,7 +172,7 @@
           "light" : "IceCavern_OrangeFlicker",
           "radius" : 128.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]

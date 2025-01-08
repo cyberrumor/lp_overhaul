@@ -10,7 +10,7 @@
           "light" : "DefaultSunlight01NS",
           "radius" : 512.0,
           "fade" : 1.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]
@@ -26,7 +26,7 @@
           "light" : "MGFirePillarLightBlue",
           "radius" : 128.0,
           "fade" : 2.0,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]
@@ -54,7 +54,7 @@
           "light" : "MGFirePillarLightBlue",
           "radius" : 1024.0,
           "fade" : 1.5,
-          "flags" : "IgnoreScale"
+          "flags" : "IgnoreScale|NoExternalEmittance"
         }
       }
     ]
@@ -70,7 +70,7 @@
                   "light": "MGEyeCollegeLight01",
                   "radius": 1024.0,
                   "fade": 1.0,
-                  "flags": "IgnoreScale|Shadow",
+                  "flags": "IgnoreScale|NoExternalEmittance|Shadow",
                   "shadowDepthBias": 26.0
               }
           },
@@ -80,7 +80,7 @@
                   "light": "MGEyeCollegeLight01",
                   "radius": 768.0,
                   "fade": 2.0,
-                  "flags": "IgnoreScale"
+                  "flags": "IgnoreScale|NoExternalEmittance"
               }
           }
       ]
@@ -96,7 +96,7 @@
                   "light": "MiddenRedEye01",
                   "radius": 768.0,
                   "fade": 0.5,
-                  "flags": "IgnoreScale"
+                  "flags": "IgnoreScale|NoExternalEmittance"
               }
           }
       ]

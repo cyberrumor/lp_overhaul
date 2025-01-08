@@ -5,7 +5,7 @@
         "points": [[0,0,120]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
           "radius" : 512.0
         }
@@ -22,7 +22,7 @@
         "points": [[60,0,15]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
           "radius" : 512.0
         }
@@ -38,7 +38,7 @@
         "points": [[0,0,50]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
           "radius" : 1024.0
         }
@@ -63,7 +63,7 @@
         "points": [[25,0,25]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
           "radius" : 768.0
         }
@@ -79,7 +79,7 @@
         "points": [[-25, -1, 8]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
           "radius" : 256.0
         }
@@ -97,7 +97,7 @@
         "points": [[-25, -1, 8]],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
           "radius" : 128.0
         }

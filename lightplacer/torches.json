@@ -11,7 +11,7 @@
         ],
         "data" : {
           "fade" : 1.0,
-          "flags" : "IgnoreScale",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "LightCampFire01",
           "radius" : 640.0,
           "color": [226, 140, 63]
