@@ -1,0 +1,21 @@
+[
+    {
+        "models": [
+            "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [-75, 0, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 256.0,
+                    "fade": 1.0,
+                    "flags": "IgnoreScale",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
+    }
+]
