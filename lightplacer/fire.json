@@ -201,7 +201,8 @@
   },
   {
     "models" : [
-      "Effects\\C06FXfireBlueWithEmbersHeavy.nif"
+      "Effects\\C06FXfireBlueWithEmbersHeavy.nif",
+      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
     ],
     "lights" : [
       {
