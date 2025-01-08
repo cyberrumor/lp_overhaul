@@ -1,7 +1,8 @@
 [
     {
         "models": [
-            "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin01.nif"
+            "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin01.nif",
+            "architecture\\riften\\interior\\smallroomsecond\\rifrmsmsecondwallwin01.nif"
         ],
         "lights": [
             {
