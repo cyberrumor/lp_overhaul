@@ -106,5 +106,49 @@
     "models" : [
       "dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"
     ]
+  },
+  {
+      "models": [
+          "dungeons\\dwemer\\animated\\observatory\\armillary\\dweobservatoryarmillary01.nif"
+      ],
+      "lights": [
+          {
+              "points": [
+                  [0, 0, 200],
+                  [0, 0, 425],
+                  [460, 460, -175],
+                  [-500, 500, -175],
+                  [-800, 250, -550],
+                  [-800, -50, -800],
+                  [-800, -50, -350],
+                  [-100, -800, -450],
+                  [-300, -800, -500],
+                  [0, -800, -800],
+                  [100, -775, -400],
+                  [275, -775, -650],
+                  [750, -250, -575],
+                  [800, 200, -600],
+                  [800, -100, -850]
+              ],
+              "data": {
+                  "fade": 1.0,
+                  "flags": "IgnoreScale|NoExternalEmittance",
+                  "light": "DwarvenOmniLight_NoMove",
+                  "radius": 386.0
+              }
+          },
+          {
+              "points": [
+                  [0, 0, 950]
+              ],
+              "data": {
+                  "fade": 1.0,
+                  "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+                  "light": "DwarvenOmniLight_NoMove",
+                  "radius": 512.0,
+                  "shadowDepthBias": 1.0
+              }
+          }
+      ]
   }
 ]
