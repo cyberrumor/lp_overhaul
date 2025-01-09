@@ -128,7 +128,9 @@
                   [275, -775, -650],
                   [750, -250, -575],
                   [800, 200, -600],
-                  [800, -100, -850]
+                  [800, -100, -850],
+                  [475, -475, -175],
+                  [-475, -475, -175]
               ],
               "data": {
                   "fade": 1.0,
@@ -142,11 +144,10 @@
                   [0, 0, 950]
               ],
               "data": {
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+                  "fade": 0.25,
+                  "flags": "IgnoreScale|NoExternalEmittance",
                   "light": "DwarvenOmniLight_NoMove",
-                  "radius": 512.0,
-                  "shadowDepthBias": 1.0
+                  "radius": 2048.0
               }
           }
       ]
