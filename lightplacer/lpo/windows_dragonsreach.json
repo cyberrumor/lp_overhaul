@@ -14,7 +14,7 @@
                     "radius": 256.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -34,7 +34,7 @@
                     "radius": 256.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -53,7 +53,7 @@
                     "radius": 256.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -72,7 +72,7 @@
                     "radius": 1024.0,
                     "fade": 1.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]

@@ -14,7 +14,7 @@
                     "radius": 512.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -33,7 +33,7 @@
                     "radius": 512.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
 
@@ -54,7 +54,7 @@
                     "radius": 512.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -73,7 +73,7 @@
                     "radius": 1024.0,
                     "fade": 0.25,
                     "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -93,7 +93,7 @@
                     "radius": 512.0,
                     "fade": 0.5,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -114,7 +114,7 @@
                     "radius": 512.0,
                     "fade": 0.5,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -133,7 +133,7 @@
                     "radius": 1024.0,
                     "fade": 0.5,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]

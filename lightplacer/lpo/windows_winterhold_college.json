@@ -13,7 +13,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -34,7 +34,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -53,7 +53,7 @@
                     "fade": 0.75,
                     "radius": 1024.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             },
             {
@@ -66,7 +66,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             },
             {
@@ -80,7 +80,7 @@
                     "flags": "IgnoreScale|NoExternalEmittance|Shadow",
                     "shadowDepthBias": 26.0,
                     "rotation": [-80, -90, 0],
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -101,7 +101,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -121,7 +121,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             },
             {
@@ -135,7 +135,7 @@
                     "flags": "IgnoreScale|NoExternalEmittance|Shadow",
                     "shadowDepthBias": 26.0,
                     "rotation": [-80, -90, 0],
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             },
             {
@@ -149,7 +149,7 @@
                     "fade": 0.25,
                     "radius": 512.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 230, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]

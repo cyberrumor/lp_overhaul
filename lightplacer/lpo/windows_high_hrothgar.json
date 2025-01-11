@@ -11,7 +11,7 @@
                     "fade": 3.0,
                     "radius": 386.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -28,7 +28,7 @@
                     "fade": 3.0,
                     "radius": 386.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -45,7 +45,7 @@
                     "fade": 3.0,
                     "radius": 80.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -62,7 +62,7 @@
                     "fade": 3.0,
                     "radius": 80.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -79,7 +79,7 @@
                     "fade": 3.0,
                     "radius": 80.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -96,7 +96,7 @@
                     "fade": 3.0,
                     "radius": 80.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -113,7 +113,7 @@
                     "fade": 3.0,
                     "radius": 80.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -130,7 +130,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -147,7 +147,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -165,7 +165,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -182,7 +182,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -199,7 +199,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
@@ -216,7 +216,7 @@
                     "fade": 1.0,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [235, 250, 254]
+                    "color": [255, 255, 255]
                 }
             }
         ]
