@@ -77,5 +77,78 @@
                 }
             }
         ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchentrancel.nif",
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchentrancer.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 512.0,
+                    "fade": 0.5,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchstrslopel.nif",
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchstrsloper.nif",
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchstr01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [-25, 0, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 512.0,
+                    "fade": 0.5,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchrooftopstrchim01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 200]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 1024.0,
+                    "fade": 0.5,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            },
+            {
+                "points": [
+                    [-45, 0, -700]
+                ],
+                "data": {
+                    "light": "LightCampFire01",
+                    "radius": 768.0,
+                    "fade": 0.75,
+                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+                    "color": [226, 140, 63],
+                    "shadowDepthBias": 26.0
+                }
+            }
+        ]
     }
 ]
