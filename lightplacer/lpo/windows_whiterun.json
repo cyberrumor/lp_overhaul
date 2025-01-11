@@ -1,0 +1,81 @@
+[
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintcor01.nif",
+            "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintstr01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 512.0,
+                    "fade": 0.25,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintroofmidwin.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 30, 200]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 512.0,
+                    "fade": 0.25,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            }
+
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintpromalcove01.nif"
+        ],
+
+        "lights": [
+            {
+                "points": [
+                    [-100, 0, 500]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 512.0,
+                    "fade": 0.25,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrtemple\\wrtempintpromcustom01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 500]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 1024.0,
+                    "fade": 0.25,
+                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
+    }
+]
