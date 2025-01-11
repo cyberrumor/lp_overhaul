@@ -1,0 +1,23 @@
+[
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrjorvaskr\\wrintchfloorfirepit01.nif",
+            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlefloorfirepit01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 100]
+                ],
+                "data": {
+                    "light": "LightCampFire01",
+                    "radius": 1024.0,
+                    "fade": 0.75,
+                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+                    "color": [226, 140, 63],
+                    "shadowDepthBias": 26.0
+                }
+            }
+        ]
+    }
+]

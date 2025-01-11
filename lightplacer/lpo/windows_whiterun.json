@@ -135,19 +135,6 @@
                     "flags": "IgnoreScale|NoExternalEmittance",
                     "color": [235, 250, 254]
                 }
-            },
-            {
-                "points": [
-                    [-45, 0, -700]
-                ],
-                "data": {
-                    "light": "LightCampFire01",
-                    "radius": 768.0,
-                    "fade": 0.75,
-                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                    "color": [226, 140, 63],
-                    "shadowDepthBias": 26.0
-                }
             }
         ]
     }
