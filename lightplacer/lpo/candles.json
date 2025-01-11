@@ -12,5 +12,24 @@
         }
       }
     ]
+  },
+  {
+    "models": [
+      "clutter\\common\\candlelanternwithcandle01.nif"
+    ],
+    "lights": [
+        {
+            "points": [
+                [0, 0, 10]
+            ],
+            "data": {
+                "light": "LightCampFire01",
+                "radius": 512.0,
+                "fade": 0.4,
+                "flags": "IgnoreScale|NoExternalEmittance",
+                "color": [226, 140, 63]
+            }
+        }
+    ]
   }
 ]
