@@ -81,6 +81,26 @@
     },
     {
         "models": [
+            "architecture\\solitude\\interiors\\smdastasol03.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [-120, -150, 0],
+                    [-120, 150, 0]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 200.0,
+                    "fade": 0.5,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [255, 255, 255]
+                }
+            }
+        ]
+    },
+    {
+        "models": [
             "architecture\\solitude\\interiors\\smdfwinsol01.nif"
         ],
         "lights": [
@@ -151,6 +171,24 @@
                     "fade": 0.75,
                     "flags": "IgnoreScale|NoExternalEmittance|Shadow",
                     "shadowDepthBias": 26.0
+                }
+            }
+        ]
+    },
+    {
+        "models": [
+            "architecture\\solitude\\interiors\\slgcwalwin01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [100, 0, 0]
+                ],
+                "data": {
+                    "light": "AzuraBlue01",
+                    "radius": 512.0,
+                    "fade": 0.75,
+                    "flags": "IgnoreScale|NoExternalEmittance"
                 }
             }
         ]
