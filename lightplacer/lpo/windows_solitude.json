@@ -56,5 +56,24 @@
                 }
             }
         ]
+    },
+    {
+        "models": [
+            "architecture\\solitude\\interiors\\smdfwinsol01.nif"
+        ],
+        "lights": [
+            {
+                "points": [
+                    [0, 0, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 160.0,
+                    "fade": 0.5,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [235, 250, 254]
+                }
+            }
+        ]
     }
 ]
