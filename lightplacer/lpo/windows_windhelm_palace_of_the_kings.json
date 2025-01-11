@@ -8,7 +8,7 @@
                 "points": [[-80, 0, 20]],
                 "data": {
                     "light": "DefaultSunlight01NS",
-                    "fade": 1.0,
+                    "fade": 0.5,
                     "radius": 128.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
                     "color": [255, 255, 255]
@@ -25,7 +25,7 @@
                 "points": [[0, 0, 100]],
                 "data": {
                     "light": "DefaultSunlight01NS",
-                    "fade": 2.0,
+                    "fade": 0.5,
                     "radius": 256.0,
                     "flags": "IgnoreScale|NoExternalEmittance",
                     "color": [255, 255, 255]
