@@ -190,7 +190,8 @@
                     "radius": 512.0,
                     "fade": 0.75,
                     "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                    "shadowDepthBias": 26.0
+                    "shadowDepthBias": 26.0,
+                    "color": [29, 115, 192]
                 }
             }
         ]
@@ -202,13 +203,14 @@
         "lights": [
             {
                 "points": [
-                    [100, 0, 0]
+                    [100, 0, 100]
                 ],
                 "data": {
                     "light": "AzuraBlue01",
                     "radius": 512.0,
                     "fade": 0.75,
-                    "flags": "IgnoreScale|NoExternalEmittance"
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [29, 115, 192]
                 }
             }
         ]
@@ -226,7 +228,8 @@
                     "light": "AzuraBlue01",
                     "radius": 256.0,
                     "fade": 0.75,
-                    "flags": "IgnoreScale|NoExternalEmittance"
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [29, 115, 192]
                 }
             }
         ]

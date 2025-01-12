@@ -217,7 +217,8 @@
           "light" : "AzuraBlue01",
           "radius" : 768.0,
           "fade" : 0.6,
-          "flags" : "IgnoreScale|NoExternalEmittance"
+          "flags" : "IgnoreScale|NoExternalEmittance",
+          "color": [29, 115, 192]
         }
       }
     ]
