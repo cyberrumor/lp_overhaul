@@ -215,8 +215,8 @@
         ],
         "data" : {
           "light" : "AzuraBlue01",
-          "radius" : 768.0,
-          "fade" : 0.6,
+          "radius" : 386.0,
+          "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "color": [29, 115, 192]
         }
