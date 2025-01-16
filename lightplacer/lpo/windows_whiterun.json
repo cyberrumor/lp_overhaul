@@ -137,5 +137,28 @@
                 }
             }
         ]
+    },
+    {
+        "models": [
+            "architecture\\whiterun\\wrinteriors\\wrintwallcorwinr.nif",
+            "architecture\\whiterun\\wrinteriors\\wrintwallcorwinl.nif",
+            "architecture\\whiterun\\wrinteriors\\wrintwallstr01wina.nif",
+            "architecture\\whiterun\\wrinteriors\\wrintwallstr01winblow.nif"
+        ],
+        "lights": [
+
+            {
+                "points": [
+                    [0, 0, 100]
+                ],
+                "data": {
+                    "light": "DefaultSunlight01NS",
+                    "radius": 256.0,
+                    "fade": 0.5,
+                    "flags": "IgnoreScale|NoExternalEmittance",
+                    "color": [255, 255, 255]
+                }
+            }
+        ]
     }
 ]
