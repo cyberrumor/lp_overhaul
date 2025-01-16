@@ -105,6 +105,9 @@
         ],
         "lights": [
             {
+                "blackList": [
+                    "0x07729D"
+                ],
                 "points": [
                     [0, 0, 100]
                 ],
@@ -124,6 +127,9 @@
         ],
         "lights": [
             {
+                "blackList": [
+                    "0x075BAE"
+                ],
                 "points": [
                     [250, 0, 350]
                 ],
@@ -144,6 +150,9 @@
         ],
         "lights": [
             {
+                "blackList": [
+                    "0x075BB5"
+                ],
                 "points": [
                     [0, 0, 350]
                 ],
