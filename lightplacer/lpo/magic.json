@@ -70,8 +70,7 @@
                   "light": "MGEyeCollegeLight01",
                   "radius": 1024.0,
                   "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                  "shadowDepthBias": 26.0
+                  "flags": "IgnoreScale|NoExternalEmittance"
               }
           },
           {

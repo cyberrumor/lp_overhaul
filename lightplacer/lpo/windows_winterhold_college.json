@@ -77,8 +77,7 @@
                     "light": "DefaultSunlight01",
                     "fade": 0.5,
                     "radius": 1024.0,
-                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                    "shadowDepthBias": 26.0,
+                    "flags": "IgnoreScale|NoExternalEmittance",
                     "rotation": [-80, -90, 0],
                     "color": [255, 255, 255]
                 }
@@ -132,8 +131,7 @@
                     "light": "DefaultSunlight01",
                     "fade": 0.5,
                     "radius": 2048.0,
-                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                    "shadowDepthBias": 26.0,
+                    "flags": "IgnoreScale|NoExternalEmittance",
                     "rotation": [-80, -90, 0],
                     "color": [255, 255, 255]
                 }

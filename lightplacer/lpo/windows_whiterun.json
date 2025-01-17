@@ -72,7 +72,7 @@
                     "light": "DefaultSunlight01NS",
                     "radius": 1024.0,
                     "fade": 0.25,
-                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+                    "flags": "IgnoreScale|NoExternalEmittance",
                     "color": [255, 255, 255]
                 }
             }

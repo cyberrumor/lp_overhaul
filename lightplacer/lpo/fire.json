@@ -191,9 +191,8 @@
         "data" : {
           "light" : "LightCampFire01",
           "radius" : 2048.0,
-          "shadowDepthBias" : 26.0,
           "fade" : 0.4,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
+          "flags" : "IgnoreScale|NoExternalEmittance",
           "color": [226, 140, 63]
         }
       }

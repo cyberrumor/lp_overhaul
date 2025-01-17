@@ -198,8 +198,7 @@
                     "light": "AzuraBlue01",
                     "radius": 512.0,
                     "fade": 0.75,
-                    "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                    "shadowDepthBias": 26.0,
+                    "flags": "IgnoreScale|NoExternalEmittance",
                     "color": [29, 115, 192]
                 }
             }
