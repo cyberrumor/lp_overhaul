@@ -109,5 +109,176 @@
         }
       }
     ]
+  },
+  {
+      "models": [
+          "clutter\\blackreach\\blackreachepicmushroom01.nif"
+      ],
+      "lights": [
+          {
+              "points": [
+                  [0, 0, 1000]
+              ],
+              "data": {
+                  "fade": 1.0,
+                  "flags": "IgnoreScale|NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 4096.0,
+                  "color": [54, 80, 152]
+              }
+          },
+          {
+              "points": [
+                  [100, 300, 300]
+              ],
+              "data": {
+                  "fade": 1.0,
+                  "flags": "IgnoreScale|NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 768.0,
+                  "color": [54, 80, 152]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushanim01.nif"
+      ],
+      "lights": [
+          {
+              "points": [
+                  [0, 0, 900],
+                  [0, 0, 300]
+              ],
+              "data": {
+                  "fade": 1.0,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushanim02.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 400]],
+              "data": {
+                  "fade": 1.0,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushanim03.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 300]],
+              "data": {
+                  "fade": 0.75,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushanim04.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 400]],
+              "data": {
+                  "fade": 0.75,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushanim05.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 400]],
+              "data": {
+                  "fade": 0.5,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushhoriz01.nif"
+      ],
+      "lights": [
+          {
+              "points": [[-200, 0, 250]],
+              "data": {
+                  "fade": 0.5,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushhoriz02.nif",
+        "clutter\\blackreach\\blackreachgiantmushhoriz03.nif"
+      ],
+      "lights": [
+          {
+              "points": [[-200, 0, 200]],
+              "data": {
+                  "fade": 0.5,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
+  },
+  {
+      "models": [
+        "clutter\\blackreach\\blackreachgiantmushhoriz04.nif"
+      ],
+      "lights": [
+          {
+              "points": [[-200, 0, 400]],
+              "data": {
+                  "fade": 0.5,
+                  "flags": "NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 512.0,
+                  "color": [39, 133, 137]
+              }
+          }
+      ]
   }
 ]

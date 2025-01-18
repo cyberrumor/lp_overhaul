@@ -151,5 +151,22 @@
               }
           }
       ]
+  },
+  {
+      "models": [
+          "clutter\\blackreach\\blackreachsun01.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, -1500]],
+              "data": {
+                  "fade": 2.0,
+                  "flags": "IgnoreScale|NoExternalEmittance",
+                  "light": "DefaultSunlight01NS",
+                  "radius": 4096.0,
+                  "color": [226, 140, 63]
+              }
+          }
+      ]
   }
 ]
