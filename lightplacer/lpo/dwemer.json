@@ -7,7 +7,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 512.0
+          "radius" : 512.0,
+          "color": [39, 133, 137]
         }
       }
     ],
@@ -24,7 +25,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 512.0
+          "radius" : 512.0,
+          "color": [39, 133, 137]
         }
       }
     ],
@@ -40,7 +42,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 1024.0
+          "radius" : 1024.0,
+          "color": [39, 133, 137]
         }
       }
     ],
@@ -65,7 +68,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 768.0
+          "radius" : 768.0,
+          "color": [39, 133, 137]
         }
       }
     ],
@@ -81,7 +85,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 256.0
+          "radius" : 256.0,
+          "color": [39, 133, 137]
         }
       }
     ],
@@ -99,7 +104,8 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 128.0
+          "radius" : 128.0,
+          "color": [39, 133, 137]
         }
       }
     ],
@@ -136,7 +142,8 @@
                   "fade": 1.0,
                   "flags": "IgnoreScale|NoExternalEmittance",
                   "light": "DwarvenOmniLight_NoMove",
-                  "radius": 386.0
+                  "radius": 386.0,
+                  "color": [39, 133, 137]
               }
           },
           {
@@ -147,7 +154,8 @@
                   "fade": 0.25,
                   "flags": "IgnoreScale|NoExternalEmittance",
                   "light": "DwarvenOmniLight_NoMove",
-                  "radius": 2048.0
+                  "radius": 2048.0,
+                  "color": [39, 133, 137]
               }
           }
       ]
