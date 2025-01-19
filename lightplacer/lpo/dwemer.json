@@ -160,6 +160,65 @@
       ]
   },
   {
+    "models": [
+      "dungeons\\dwemer\\animated\\astrolabe\\armillary\\dweastrolabearmillary01.nif"
+    ],
+    "lights": [
+      {
+        "points": [
+          [0, 0, 200],
+          [0, 0, 425],
+          [460, 460, -175],
+          [80, 750, -370],
+          [-70, 750, -380],
+          [-450, 450, -150],
+          [-750, -75, -350],
+          [-780, 180, -650],
+          [-790, -190, -700],
+          [-750, -300, -650],
+          [-475, -475, -200],
+          [-225, -750, -500],
+          [-125, -775, -400],
+          [0, -800, -700],
+          [-100, -800, -850],
+          [100, -800, -750],
+          [250, -750, -625],
+          [450, -450, -150],
+          [750, 50, -350],
+          [800, 0, -500],
+          [750, -75, -350],
+          [775, -50, -850],
+          [750, 275, -700],
+          [300, 750, -600],
+          [0, 800, -750],
+          [50, 800, -650],
+          [100, 800, -775],
+          [-75, 800, -775]
+
+        ],
+        "data": {
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 386.0,
+          "color": [39, 133, 137]
+        }
+      },
+      {
+        "points": [
+          [0, 0, 950]
+        ],
+        "data": {
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 2048.0,
+          "color": [39, 133, 137]
+        }
+      }
+    ]
+  },
+  {
       "models": [
           "clutter\\blackreach\\blackreachsun01.nif"
       ],
