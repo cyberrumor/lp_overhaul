@@ -122,7 +122,7 @@
               "data": {
                   "fade": 1.0,
                   "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
+                  "light": "DwarvenMushroomLight",
                   "radius": 4096.0,
                   "color": [54, 80, 152]
               }
@@ -134,7 +134,7 @@
               "data": {
                   "fade": 1.0,
                   "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
+                  "light": "DwarvenMushroomLight",
                   "radius": 768.0,
                   "color": [54, 80, 152]
               }
@@ -153,9 +153,9 @@
               ],
               "data": {
                   "fade": 1.0,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
-                  "radius": 512.0,
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
+                  "radius": 768.0,
                   "color": [39, 133, 137]
               }
           }
@@ -170,9 +170,9 @@
               "points": [[0, 0, 400]],
               "data": {
                   "fade": 1.0,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
-                  "radius": 512.0,
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
+                  "radius": 768.0,
                   "color": [39, 133, 137]
               }
           }
@@ -187,8 +187,8 @@
               "points": [[0, 0, 300]],
               "data": {
                   "fade": 0.75,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
                   "radius": 512.0,
                   "color": [39, 133, 137]
               }
@@ -197,33 +197,17 @@
   },
   {
       "models": [
-        "clutter\\blackreach\\blackreachgiantmushanim04.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 400]],
-              "data": {
-                  "fade": 0.75,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
-                  "radius": 512.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
+        "clutter\\blackreach\\blackreachgiantmushanim04.nif",
         "clutter\\blackreach\\blackreachgiantmushanim05.nif"
       ],
       "lights": [
           {
               "points": [[0, 0, 400]],
               "data": {
-                  "fade": 0.5,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
-                  "radius": 512.0,
+                  "fade": 1.0,
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
+                  "radius": 768.0,
                   "color": [39, 133, 137]
               }
           }
@@ -238,8 +222,8 @@
               "points": [[-200, 0, 250]],
               "data": {
                   "fade": 0.5,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
                   "radius": 512.0,
                   "color": [39, 133, 137]
               }
@@ -255,9 +239,9 @@
           {
               "points": [[-200, 0, 200]],
               "data": {
-                  "fade": 0.5,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
+                  "fade": 0.75,
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
                   "radius": 512.0,
                   "color": [39, 133, 137]
               }
@@ -273,12 +257,33 @@
               "points": [[-200, 0, 400]],
               "data": {
                   "fade": 0.5,
-                  "flags": "NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
+                  "flags": "NoExternalEmittance|IgnoreScale",
+                  "light": "DwarvenMushroomLight",
                   "radius": 512.0,
                   "color": [39, 133, 137]
               }
           }
       ]
+  },
+  {
+    "models": [
+        "clutter\\blackreach\\blackreachsmallmushroom01.nif",
+        "clutter\\blackreach\\blackreachsmallmushroom02.nif",
+        "clutter\\blackreach\\blackreachsmallmushroom03.nif",
+        "clutter\\blackreach\\blackreachsmallmushroom04.nif",
+        "clutter\\blackreach\\blackreachsmallmushroom05.nif"
+    ],
+    "lights": [
+        {
+            "points": [[0, 0, 200]],
+            "data": {
+                "fade": 0.5,
+                "flags": "NoExternalEmittance|IgnoreScale",
+                "light": "DwarvenMushroomLight",
+                "radius": 256.0,
+                "color": [39, 133, 137]
+            }
+        }
+    ]
   }
 ]
