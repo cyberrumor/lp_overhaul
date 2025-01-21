@@ -70,7 +70,8 @@
   },
   {
     "models" : [
-      "Furniture\\BlacksmithForgeMarker.nif"
+      "Furniture\\BlacksmithForgeMarker.nif",
+      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
     ],
     "lights" : [
       {
