@@ -55,9 +55,25 @@
       "dungeons\\dwemer\\dwechandelier01simpleon.nif",
       "dungeons\\dwemer\\dwechandelier01simpleonsputter.nif",
       "dungeons\\dwemer\\dwechandelier02onsputter.nif",
-      "dungeons\\dwemer\\dwechandelier04.nif",
       "dungeons\\dwemer\\dwechandelierextension.nif"
     ]
+  },
+  {
+      "models": [
+        "dungeons\\dwemer\\dwechandelier04.nif"
+      ],
+      "lights": [
+        {
+          "points": [[0,0,-150]],
+          "data" : {
+            "fade" : 2.0,
+            "flags" : "IgnoreScale|NoExternalEmittance",
+            "light" : "DwarvenOmniLight_NoMove",
+            "radius" : 2048.0,
+            "color": [39, 133, 137]
+          }
+        }
+      ]
   },
   {
     "lights" : [
