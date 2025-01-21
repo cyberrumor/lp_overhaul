@@ -28,7 +28,7 @@
           "radius" : 256.0,
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 67, 63]
+          "color": [255, 0, 0]
         }
       }
     ]
