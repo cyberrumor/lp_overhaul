@@ -48,7 +48,6 @@
       }
     ],
     "models" : [
-      "dungeons\\dwemer\\dwechandelier01bareon.nif",
       "dungeons\\dwemer\\dwechandelier01bareonsputter.nif",
       "dungeons\\dwemer\\dwechandelier01on.nif",
       "dungeons\\dwemer\\dwechandelier01onsputter.nif",
@@ -56,6 +55,23 @@
       "dungeons\\dwemer\\dwechandelier01simpleonsputter.nif",
       "dungeons\\dwemer\\dwechandelier02onsputter.nif",
       "dungeons\\dwemer\\dwechandelierextension.nif"
+    ]
+  },
+  {
+    "lights" : [
+      {
+        "points": [[0,0,-50]],
+        "data" : {
+          "fade" : 1.0,
+          "flags" : "IgnoreScale|NoExternalEmittance",
+          "light" : "DwarvenOmniLight_NoMove",
+          "radius" : 1024.0,
+          "color": [39, 133, 137]
+        }
+      }
+    ],
+    "models" : [
+      "dungeons\\dwemer\\dwechandelier01bareon.nif"
     ]
   },
   {
