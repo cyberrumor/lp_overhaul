@@ -14,7 +14,7 @@
                     "0x0813EF~Skyrim.esm"
                 ],
                 "points": [
-                    [0, 0, 75]
+                    [0, 50, 75]
                 ],
                 "data": {
                     "light": "DefaultSunlight01NS",
