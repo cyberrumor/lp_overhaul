@@ -26,8 +26,10 @@
           "shadowDepthBias": 26.0
         },
         "whiteList": [
+            "0x0DCC21",
             "0x016DA5",
-            "0x102824"
+            "0x102824",
+            "0x0DFB35"
         ]
       }
     ]
@@ -159,7 +161,8 @@
         },
         "whiteList": [
             "0x07569D",
-            "0x0BEC32"
+            "0x0BEC32",
+            "0x03CC7B"
         ]
       }
     ]
