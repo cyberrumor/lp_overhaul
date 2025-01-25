@@ -99,5 +99,24 @@
               }
           }
       ]
+  },
+  {
+      "models": [
+          "effects\\fxsplashlargechurn.nif"
+      ],
+      "lights": [
+          {
+              "points": [[0, 0, 50]],
+              "data": {
+                  "light": "MiddenRedEye01",
+                  "radius": 768.0,
+                  "fade": 1.0,
+                  "flags": "IgnoreScale|NoExternalEmittance"
+              },
+              "whiteList": [
+                  "0x0147FE~Dawnguard.esm"
+              ]
+          }
+      ]
   }
 ]
