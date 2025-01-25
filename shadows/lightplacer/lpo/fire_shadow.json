@@ -167,7 +167,8 @@
             "0x0BEC32",
             "0x03CC7B",
             "0x035F49",
-            "0x0C5449"
+            "0x0C5449",
+            "0x0CB94A"
         ]
       }
     ]
@@ -195,10 +196,7 @@
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
           "color": [226, 140, 63],
           "shadowDepthBias": 26.0
-        },
-        "whiteList": [
-            "0x0CB94A"
-        ]
+        }
       }
     ]
   },
