@@ -23,7 +23,10 @@
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "color": [226, 140, 63]
-        }
+        },
+        "blackList": [
+            "0x0CB948"
+        ]
       }
     ]
   },
@@ -138,7 +141,10 @@
           "fade" : 1.5,
           "flags" : "IgnoreScale|NoExternalEmittance",
           "color": [226, 140, 63]
-        }
+        },
+        "blackList": [
+            "0x0CB94A"
+        ]
       }
     ]
   },

@@ -194,7 +194,10 @@
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
           "color": [226, 140, 63],
           "shadowDepthBias": 26.0
-        }
+        },
+        "whiteList": [
+            "0x0CB94A"
+        ]
       }
     ]
   },
