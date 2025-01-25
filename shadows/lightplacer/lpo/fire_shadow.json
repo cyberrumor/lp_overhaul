@@ -229,42 +229,20 @@
   },
   {
     "models": [
-        "dlc02\\effects\\telvannitorchlightfx.nif"
-    ],
-    "lights": [
-      {
-        "points": [[0, 0, 10]],
-        "data": {
-          "light": "DefaultTorch01",
-          "radius": 256.0,
-          "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
-          "shadowDepthBias": 26.0
-        },
-        "whiteList": [
-        ]
-      }
-    ]
-  },
-  {
-    "models": [
       "dlc02\\landscape\\dlc2firecrater02.nif",
       "dlc02\\landscape\\dlc2firecraterround.nif"
     ],
     "lights": [
       {
-        "points": [[0, 0, 50]],
+        "points": [[0, 0, 150]],
         "data": {
           "light": "DefaultTorch01",
-          "radius": 256.0,
+          "radius": 768.0,
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
           "color": [226, 140, 63],
           "shadowDepthBias": 26.0
-        },
-        "whiteList": [
-        ]
+        }
       }
     ]
   }
