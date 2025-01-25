@@ -11,10 +11,7 @@
           "color": [226, 140, 63]
         },
         "blackList": [
-            "clutter\\common\\candlelanternwithcandle01.nif",
-            "0x0CB96A",
-            "0x0CB969",
-            "0x0CB96B"
+            "clutter\\common\\candlelanternwithcandle01.nif"
         ]
       }
     ]
