@@ -145,6 +145,7 @@
   {
     "models" : [
       "clutter\\giant\\giantcampfire01burning.nif",
+      "clutter\\giant\\giantcampfire01burningnoland.nif",
       "clutter\\giant\\wbbcfgiantcampfire01burning.nif",
       "clutter\\giant\\wbbcfgiantcampfire01burningnoland.nif"
     ],
