@@ -18,7 +18,7 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
+          "light" : "DefaultTorch01",
           "radius" : 512.0,
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
@@ -26,6 +26,8 @@
           "shadowDepthBias": 26.0
         },
         "whiteList": [
+            "0x016DA5",
+            "0x102824"
         ]
       }
     ]
@@ -40,7 +42,7 @@
           "Effects\\FXfireWithEmbers01_Cheap.nif"
         ],
         "data" : {
-          "light" : "LightCampFire01",
+          "light" : "DefaultTorch01",
           "radius" : 512.0,
           "fade" : 1.0,
           "offset" : [
@@ -92,7 +94,7 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
+          "light" : "DefaultTorch01",
           "radius" : 512.0,
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
@@ -118,7 +120,7 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
+          "light" : "DefaultTorch01",
           "radius" : 512.0,
           "fade" : 1.0,
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
@@ -148,14 +150,16 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
+          "light" : "DefaultTorch01",
           "radius" : 512.0,
-          "fade" : 1.5,
+          "fade" : 0.5,
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
           "color": [226, 140, 63],
           "shadowDepthBias": 26.0
         },
         "whiteList": [
+            "0x07569D",
+            "0x0BEC32"
         ]
       }
     ]
@@ -176,7 +180,7 @@
           ]
         ],
         "data" : {
-          "light" : "LightCampFire01",
+          "light" : "DefaultTorch01",
           "radius" : 2048.0,
           "fade" : 0.4,
           "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
@@ -221,7 +225,7 @@
       {
         "points": [[0, 0, 10]],
         "data": {
-          "light": "LightCampFire01",
+          "light": "DefaultTorch01",
           "radius": 256.0,
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
@@ -242,7 +246,7 @@
       {
         "points": [[0, 0, 50]],
         "data": {
-          "light": "LightCampFire01",
+          "light": "DefaultTorch01",
           "radius": 256.0,
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
