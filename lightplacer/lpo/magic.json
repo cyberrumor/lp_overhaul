@@ -1,44 +1,98 @@
 [
   {
-    "models" : [
-      "magic\\lightspellstaticlight.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points": [[0, 0, 0]],
-        "data" : {
-          "light" : "DefaultSunlight01NS",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance"
-        }
+        "data": {
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MiddenRedEye01",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            20
+          ]
+        ]
       }
+    ],
+    "models": [
+      "clutter\\daedric\\daedricreliquary\\daedricreliquary01.nif"
     ]
   },
   {
-    "models" : [
-      "effects\\mgmagicfirepillarsmall.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points": [[0, 0, -125]],
-        "data" : {
-          "light" : "MGFirePillarLightBlue",
-          "radius" : 128.0,
-          "fade" : 2.0,
-          "flags" : "IgnoreScale|NoExternalEmittance"
-        }
+        "data": {
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MGEyeCollegeLight01",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      {
+        "data": {
+          "fade": 2.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MGEyeCollegeLight01",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
       }
+    ],
+    "models": [
+      "clutter\\eyeofmagnus\\eyeofmagnus01.nif"
     ]
   },
   {
-    "models" : [
-      "effects\\mgmagicfirepillar01.nif",
-      "effects\\mgmagicfirepillarmidden01.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
+        "data": {
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MiddenRedEye01",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
+        "whiteList": [
+          "0x0147fe~dawnguard.esm"
+        ]
+      }
+    ],
+    "models": [
+      "effects\\fxsplashlargechurn.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MGFirePillarLightBlue",
+          "radius": 1024.0
+        },
+        "points": [
           [
             0,
             0,
@@ -49,74 +103,56 @@
             0,
             500
           ]
-        ],
-        "data" : {
-          "light" : "MGFirePillarLightBlue",
-          "radius" : 1024.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance"
-        }
+        ]
       }
+    ],
+    "models": [
+      "effects\\mgmagicfirepillar01.nif",
+      "effects\\mgmagicfirepillarmidden01.nif"
     ]
   },
   {
-      "models": [
-          "clutter\\eyeofmagnus\\eyeofmagnus01.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 0]],
-              "data": {
-                  "light": "MGEyeCollegeLight01",
-                  "radius": 1024.0,
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance"
-              }
-          },
-          {
-              "points": [[0, 0, 0]],
-              "data": {
-                  "light": "MGEyeCollegeLight01",
-                  "radius": 768.0,
-                  "fade": 2.0,
-                  "flags": "IgnoreScale|NoExternalEmittance"
-              }
-          }
-      ]
+    "lights": [
+      {
+        "data": {
+          "fade": 2.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MGFirePillarLightBlue",
+          "radius": 128.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -125
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\mgmagicfirepillarsmall.nif"
+    ]
   },
   {
-      "models": [
-          "clutter\\daedric\\daedricreliquary\\daedricreliquary01.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 20]],
-              "data": {
-                  "light": "MiddenRedEye01",
-                  "radius": 768.0,
-                  "fade": 0.5,
-                  "flags": "IgnoreScale|NoExternalEmittance"
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-          "effects\\fxsplashlargechurn.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 50]],
-              "data": {
-                  "light": "MiddenRedEye01",
-                  "radius": 768.0,
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance"
-              },
-              "whiteList": [
-                  "0x0147FE~Dawnguard.esm"
-              ]
-          }
-      ]
+    "lights": [
+      {
+        "data": {
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "magic\\lightspellstaticlight.nif"
+    ]
   }
 ]

@@ -1,80 +1,120 @@
 [
-    {
-        "models": [
-            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01double.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [130, -50, 150],
-                    [-130, -50, 150]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 256.0,
-                    "fade": 0.25,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -250,
+            -50,
+            150
+          ],
+          [
+            0,
+            -50,
+            150
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestr01win.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [0, -50, 150],
-                    [-250, -50, 150]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 256.0,
-                    "fade": 0.25,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestr01win.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            150
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [0, -50, 150]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 256.0,
-                    "fade": 0.25,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestrdouble02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            -50,
+            150
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallbasestrdouble02.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [0, 0, 150]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 1024.0,
-                    "fade": 1.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -130,
+            -50,
+            150
+          ],
+          [
+            130,
+            -50,
+            150
+          ]
         ]
-    }
+      }
+    ],
+    "models": [
+      "architecture\\whiterun\\wrinteriors\\wrcastle\\wrintcastlewallstrwin01double.nif"
+    ]
+  }
 ]

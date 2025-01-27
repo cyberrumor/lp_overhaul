@@ -1,53 +1,391 @@
 [
   {
-    "lights" : [
+    "lights": [
       {
-        "points": [[0,0,120]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 512.0,
-          "color": [39, 133, 137]
-        }
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 2.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 4096.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -1500
+          ]
+        ]
       }
     ],
-    "models" : [
-      "dungeons\\dwemer\\dwefloorlanternon.nif",
-      "dungeons\\dwemer\\dwefloorlanternonsputter.nif"
+    "models": [
+      "clutter\\blackreach\\blackreachsun01.nif"
     ]
   },
   {
-    "lights" : [
+    "lights": [
       {
-        "points": [[60,0,15]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 512.0,
-          "color": [39, 133, 137]
-        }
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 386.0
+        },
+        "points": [
+          [
+            -790,
+            -190,
+            -700
+          ],
+          [
+            -780,
+            180,
+            -650
+          ],
+          [
+            -750,
+            -300,
+            -650
+          ],
+          [
+            -750,
+            -75,
+            -350
+          ],
+          [
+            -475,
+            -475,
+            -200
+          ],
+          [
+            -450,
+            450,
+            -150
+          ],
+          [
+            -225,
+            -750,
+            -500
+          ],
+          [
+            -125,
+            -775,
+            -400
+          ],
+          [
+            -100,
+            -800,
+            -850
+          ],
+          [
+            -75,
+            800,
+            -775
+          ],
+          [
+            -70,
+            750,
+            -380
+          ],
+          [
+            0,
+            -800,
+            -700
+          ],
+          [
+            0,
+            0,
+            200
+          ],
+          [
+            0,
+            0,
+            425
+          ],
+          [
+            0,
+            800,
+            -750
+          ],
+          [
+            50,
+            800,
+            -650
+          ],
+          [
+            80,
+            750,
+            -370
+          ],
+          [
+            100,
+            -800,
+            -750
+          ],
+          [
+            100,
+            800,
+            -775
+          ],
+          [
+            250,
+            -750,
+            -625
+          ],
+          [
+            300,
+            750,
+            -600
+          ],
+          [
+            450,
+            -450,
+            -150
+          ],
+          [
+            460,
+            460,
+            -175
+          ],
+          [
+            750,
+            -75,
+            -350
+          ],
+          [
+            750,
+            50,
+            -350
+          ],
+          [
+            750,
+            275,
+            -700
+          ],
+          [
+            775,
+            -50,
+            -850
+          ],
+          [
+            800,
+            0,
+            -500
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 2048.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            950
+          ]
+        ]
       }
     ],
-    "models" : [
-      "dungeons\\dwemer\\dwewallsconce02On.nif"
+    "models": [
+      "dungeons\\dwemer\\animated\\astrolabe\\armillary\\dweastrolabearmillary01.nif"
     ]
   },
   {
-    "lights" : [
+    "lights": [
       {
-        "points": [[0,0,50]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 1024.0,
-          "color": [39, 133, 137]
-        }
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 386.0
+        },
+        "points": [
+          [
+            -800,
+            -50,
+            -800
+          ],
+          [
+            -800,
+            -50,
+            -350
+          ],
+          [
+            -800,
+            250,
+            -550
+          ],
+          [
+            -500,
+            500,
+            -175
+          ],
+          [
+            -475,
+            -475,
+            -175
+          ],
+          [
+            -300,
+            -800,
+            -500
+          ],
+          [
+            -100,
+            -800,
+            -450
+          ],
+          [
+            0,
+            -800,
+            -800
+          ],
+          [
+            0,
+            0,
+            200
+          ],
+          [
+            0,
+            0,
+            425
+          ],
+          [
+            100,
+            -775,
+            -400
+          ],
+          [
+            275,
+            -775,
+            -650
+          ],
+          [
+            460,
+            460,
+            -175
+          ],
+          [
+            475,
+            -475,
+            -175
+          ],
+          [
+            750,
+            -250,
+            -575
+          ],
+          [
+            800,
+            -100,
+            -850
+          ],
+          [
+            800,
+            200,
+            -600
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 2048.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            950
+          ]
+        ]
       }
     ],
-    "models" : [
+    "models": [
+      "dungeons\\dwemer\\animated\\observatory\\armillary\\dweobservatoryarmillary01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\dwemer\\dwechandelier01bareon.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
       "dungeons\\dwemer\\dwechandelier01bareonsputter.nif",
       "dungeons\\dwemer\\dwechandelier01on.nif",
       "dungeons\\dwemer\\dwechandelier01onsputter.nif",
@@ -58,213 +396,168 @@
     ]
   },
   {
-    "lights" : [
+    "lights": [
       {
-        "points": [[0,0,-50]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 1024.0,
-          "color": [39, 133, 137]
-        }
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            25,
+            0,
+            25
+          ]
+        ]
       }
     ],
-    "models" : [
-      "dungeons\\dwemer\\dwechandelier01bareon.nif"
-    ]
-  },
-  {
-      "models": [
-        "dungeons\\dwemer\\dwechandelier04.nif"
-      ],
-      "lights": [
-        {
-          "points": [[0,0,-150]],
-          "data" : {
-            "fade" : 2.0,
-            "flags" : "IgnoreScale|NoExternalEmittance",
-            "light" : "DwarvenOmniLight_NoMove",
-            "radius" : 2048.0,
-            "color": [39, 133, 137]
-          }
-        }
-      ]
-  },
-  {
-    "lights" : [
-      {
-        "points": [[25,0,25]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 768.0,
-          "color": [39, 133, 137]
-        }
-      }
-    ],
-    "models" : [
+    "models": [
       "dungeons\\dwemer\\dwechandelier02on.nif"
     ]
   },
   {
-    "lights" : [
+    "lights": [
       {
-        "points": [[-25, -1, 8]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 256.0,
-          "color": [39, 133, 137]
-        }
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 2.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 2048.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -150
+          ]
+        ]
       }
     ],
-    "models" : [
+    "models": [
+      "dungeons\\dwemer\\dwechandelier04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            120
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\dwemer\\dwefloorlanternon.nif",
+      "dungeons\\dwemer\\dwefloorlanternonsputter.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            60,
+            0,
+            15
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dungeons\\dwemer\\dwewallsconce02On.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -25,
+            -1,
+            8
+          ]
+        ]
+      }
+    ],
+    "models": [
       "dungeons\\dwemer\\dwewallsconcesmall01on.nif",
       "dungeons\\dwemer\\dwewallsconcesmall01onsputter.nif",
       "dungeons\\dwemer\\dwewallsconcesmall02on.nif"
     ]
   },
   {
-    "lights" : [
-      {
-        "points": [[-25, -1, 8]],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "DwarvenOmniLight_NoMove",
-          "radius" : 128.0,
-          "color": [39, 133, 137]
-        }
-      }
-    ],
-    "models" : [
-      "dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"
-    ]
-  },
-  {
-      "models": [
-          "dungeons\\dwemer\\animated\\observatory\\armillary\\dweobservatoryarmillary01.nif"
-      ],
-      "lights": [
-          {
-              "points": [
-                  [0, 0, 200],
-                  [0, 0, 425],
-                  [460, 460, -175],
-                  [-500, 500, -175],
-                  [-800, 250, -550],
-                  [-800, -50, -800],
-                  [-800, -50, -350],
-                  [-100, -800, -450],
-                  [-300, -800, -500],
-                  [0, -800, -800],
-                  [100, -775, -400],
-                  [275, -775, -650],
-                  [750, -250, -575],
-                  [800, 200, -600],
-                  [800, -100, -850],
-                  [475, -475, -175],
-                  [-475, -475, -175]
-              ],
-              "data": {
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DwarvenOmniLight_NoMove",
-                  "radius": 386.0,
-                  "color": [39, 133, 137]
-              }
-          },
-          {
-              "points": [
-                  [0, 0, 950]
-              ],
-              "data": {
-                  "fade": 0.25,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DwarvenOmniLight_NoMove",
-                  "radius": 2048.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-    "models": [
-      "dungeons\\dwemer\\animated\\astrolabe\\armillary\\dweastrolabearmillary01.nif"
-    ],
     "lights": [
       {
-        "points": [
-          [0, 0, 200],
-          [0, 0, 425],
-          [460, 460, -175],
-          [80, 750, -370],
-          [-70, 750, -380],
-          [-450, 450, -150],
-          [-750, -75, -350],
-          [-780, 180, -650],
-          [-790, -190, -700],
-          [-750, -300, -650],
-          [-475, -475, -200],
-          [-225, -750, -500],
-          [-125, -775, -400],
-          [0, -800, -700],
-          [-100, -800, -850],
-          [100, -800, -750],
-          [250, -750, -625],
-          [450, -450, -150],
-          [750, 50, -350],
-          [800, 0, -500],
-          [750, -75, -350],
-          [775, -50, -850],
-          [750, 275, -700],
-          [300, 750, -600],
-          [0, 800, -750],
-          [50, 800, -650],
-          [100, 800, -775],
-          [-75, 800, -775]
-
-        ],
         "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenOmniLight_NoMove",
-          "radius": 386.0,
-          "color": [39, 133, 137]
-        }
-      },
-      {
+          "radius": 128.0
+        },
         "points": [
-          [0, 0, 950]
-        ],
-        "data": {
-          "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenOmniLight_NoMove",
-          "radius": 2048.0,
-          "color": [39, 133, 137]
-        }
+          [
+            -25,
+            -1,
+            8
+          ]
+        ]
       }
+    ],
+    "models": [
+      "dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"
     ]
-  },
-  {
-      "models": [
-          "clutter\\blackreach\\blackreachsun01.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, -1500]],
-              "data": {
-                  "fade": 2.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DefaultSunlight01NS",
-                  "radius": 4096.0,
-                  "color": [226, 140, 63]
-              }
-          }
-      ]
   }
 ]

@@ -1,38 +1,52 @@
 [
   {
-    "addonNodes": [49],
     "lights": [
       {
         "data": {
-          "light": "LightCampFire01",
-          "radius": 386.0,
-          "fade": 0.2,
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.8,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
+          "light": "LightCampFire01",
+          "radius": 512.0
         },
-        "blackList": [
-            "clutter\\common\\candlelanternwithcandle01.nif"
+        "points": [
+          [
+            0,
+            0,
+            10
+          ]
         ]
       }
+    ],
+    "models": [
+      "clutter\\common\\candlelanternwithcandle01.nif"
     ]
   },
   {
-    "models": [
-      "clutter\\common\\candlelanternwithcandle01.nif"
+    "addonNodes": [
+      49
     ],
     "lights": [
-        {
-            "points": [
-                [0, 0, 10]
-            ],
-            "data": {
-                "light": "LightCampFire01",
-                "radius": 512.0,
-                "fade": 0.8,
-                "flags": "IgnoreScale|NoExternalEmittance",
-                "color": [226, 140, 63]
-            }
+      {
+        "blackList": [
+          "clutter\\common\\candlelanternwithcandle01.nif"
+        ],
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.2,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 386.0
         }
+      }
     ]
   }
 ]

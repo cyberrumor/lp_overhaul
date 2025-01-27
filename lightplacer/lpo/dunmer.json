@@ -1,110 +1,130 @@
 [
   {
-    "models" : [
-      "dlc02\\clutter\\dlc2darkelflantern02.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
+        "data": {
+          "color": [
+            208,
+            102,
+            51
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "IceCavern_OrangeFlicker",
+          "radius": 256.0
+        },
+        "points": [
           [
             0,
             0,
             -172
           ]
-        ],
-        "data" : {
-          "light" : "IceCavern_OrangeFlicker",
-          "radius" : 256.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [208, 102, 51]
-        }
+        ]
       },
       {
-        "points" : [
+        "data": {
+          "color": [
+            208,
+            102,
+            51
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "IceCavern_OrangeFlicker",
+          "radius": 256.0
+        },
+        "points": [
           [
             0,
             -142,
             -145
           ]
-        ],
-        "data" : {
-          "light" : "IceCavern_OrangeFlicker",
-          "radius" : 256.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [208, 102, 51]
-        }
+        ]
       }
+    ],
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern02.nif"
     ]
   },
   {
-    "models" : [
-      "dlc02\\clutter\\dlc2darkelflantern06.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
-          [
-            0,
-            0,
-            -47
-          ]
-        ],
-        "data" : {
-          "light" : "IceCavern_OrangeFlicker",
-          "radius" : 256.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [208, 102, 51]
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "dlc02\\clutter\\dlc2darkelflantern05.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            0,
-            -95
-          ]
-        ],
-        "data" : {
-          "light" : "IceCavern_OrangeFlicker",
-          "radius" : 256.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [208, 102, 51]
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "dlc02\\clutter\\dlc2darkelflantern04.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
+        "data": {
+          "color": [
+            208,
+            102,
+            51
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "IceCavern_OrangeFlicker",
+          "radius": 256.0
+        },
+        "points": [
           [
             0,
             0,
             -135
           ]
-        ],
-        "data" : {
-          "light" : "IceCavern_OrangeFlicker",
-          "radius" : 256.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [208, 102, 51]
-        }
+        ]
       }
+    ],
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            208,
+            102,
+            51
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "IceCavern_OrangeFlicker",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -95
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            208,
+            102,
+            51
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "IceCavern_OrangeFlicker",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -47
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\clutter\\dlc2darkelflantern06.nif"
     ]
   }
 ]

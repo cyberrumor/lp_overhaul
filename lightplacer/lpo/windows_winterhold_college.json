@@ -1,155 +1,261 @@
 [
-    {
-        "models": [
-            "architecture\\winterhold\\winterholdtowerintwall01.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [800, 0, 800]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "fade": 1.0,
-                    "radius": 256.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            800,
+            0,
+            800
+          ]
         ]
-    },
-    {
-        "models" : [
-            "architecture\\winterhold\\winterholdtowerintwall02.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [0, -800, 800],
-                    [300, -1445, 425],
-                    [-300, -1445, 425]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "fade": 1.0,
-                    "radius": 256.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\winterhold\\winterholdtowerintwall01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -300,
+            -1445,
+            425
+          ],
+          [
+            0,
+            -800,
+            800
+          ],
+          [
+            300,
+            -1445,
+            425
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\winterhold\\winterholdtowerintwall05.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [0, -1650, 300]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "fade": 0.75,
-                    "radius": 1024.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            },
-            {
-                "points": [
-                    [250, -1050, 400],
-                    [-250, -1050, 400]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "fade": 1.0,
-                    "radius": 256.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            },
-            {
-                "points": [
-                    [0, -1650, 300]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01",
-                    "fade": 0.5,
-                    "radius": 1024.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "rotation": [-80, -90, 0],
-                    "color": [255, 255, 255]
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\winterhold\\winterholdtowerintwall02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            760,
+            420
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\winterhold\\winterholdtowerintwall04.nif",
-            "architecture\\winterhold\\winterholdtowerintwall06.nif",
-            "architecture\\winterhold\\winterholdtowerintwall07.nif",
-            "architecture\\winterhold\\winterholdtowerintwall08.nif",
-            "architecture\\winterhold\\winterholdtowerintwall09.nif"
-        ],
-        "lights": [
-            {
-                "points": [[0, 760, 420]],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "fade": 1.0,
-                    "radius": 256.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\winterhold\\winterholdtowerintwall04.nif",
+      "architecture\\winterhold\\winterholdtowerintwall06.nif",
+      "architecture\\winterhold\\winterholdtowerintwall07.nif",
+      "architecture\\winterhold\\winterholdtowerintwall08.nif",
+      "architecture\\winterhold\\winterholdtowerintwall09.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.75,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            -1650,
+            300
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\winterhold\\winterholdtowerintwall10.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [250, -1050, 400],
-                    [-250, -1050, 400]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "fade": 1.0,
-                    "radius": 256.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            },
-            {
-                "points": [
-                    [0, -1750, 200]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01",
-                    "fade": 0.5,
-                    "radius": 2048.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "rotation": [-80, -90, 0],
-                    "color": [255, 255, 255]
-                }
-            },
-            {
-                "points": [
-                    [0, -1500, 600],
-                    [0, -1500, 400],
-                    [0, -1500, 100]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01",
-                    "fade": 0.25,
-                    "radius": 512.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -250,
+            -1050,
+            400
+          ],
+          [
+            250,
+            -1050,
+            400
+          ]
         ]
-    }
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01",
+          "radius": 1024.0,
+          "rotation": [
+            -80,
+            -90,
+            0
+          ]
+        },
+        "points": [
+          [
+            0,
+            -1650,
+            300
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\winterhold\\winterholdtowerintwall05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -250,
+            -1050,
+            400
+          ],
+          [
+            250,
+            -1050,
+            400
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01",
+          "radius": 2048.0,
+          "rotation": [
+            -80,
+            -90,
+            0
+          ]
+        },
+        "points": [
+          [
+            0,
+            -1750,
+            200
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            -1500,
+            100
+          ],
+          [
+            0,
+            -1500,
+            400
+          ],
+          [
+            0,
+            -1500,
+            600
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\winterhold\\winterholdtowerintwall10.nif"
+    ]
+  }
 ]

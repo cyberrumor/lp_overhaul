@@ -1,365 +1,489 @@
 [
   {
-    "models" : [
-      "Effects\\FXfireWithEmbers01_lite.nif",
-      "Effects\\FXfireWithEmbers02.nif",
-      "Effects\\FXfireWithEmbersHeavyToggle.nif",
-      "Effects\\FXfireWithEmbersLogs01.nif",
-      "Effects\\FXfireWithEmbers01_Cheap.nif",
-      "Effects\\FXfireWithEmbers01.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.88,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
           [
             0,
             0,
-            50
+            500
           ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.88,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 768.0
         },
-        "blackList": [
-            "0x0CB948"
+        "points": [
+          [
+            0,
+            0,
+            500
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.4,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 2048.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            500
+          ]
         ]
       }
+    ],
+    "models": [
+      "clutter\\giant\\giantcampfire01burning.nif",
+      "clutter\\giant\\giantcampfire01burningnoland.nif",
+      "clutter\\giant\\wbbcfgiantcampfire01burning.nif",
+      "clutter\\giant\\wbbcfgiantcampfire01burningnoland.nif"
     ]
   },
   {
-    "addonNodes" : [
-      68
-    ],
-    "lights" : [
+    "lights": [
       {
-        "whiteList" : [
-          "Effects\\FXfireWithEmbers01_Cheap.nif"
+        "blackList": [
+          "0x0cb94a"
         ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            50
+        "data": {
+          "color": [
+            226,
+            140,
+            63
           ],
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
-    ]
-  },
-  {
-      "models" : [
-          "effects\\tg09nocturnalfxfirepurple.nif"
-      ],
-      "lights" : [
-          {
-              "points": [[0, 0, 50]],
-              "data": {
-                  "light": "DLC01SCPurple",
-                  "radius": 768.0,
-                  "fade": 0.6,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "color": [20, 0, 150]
-              }
-          }
-      ]
-  },
-  {
-    "models" : [
-      "Furniture\\BlacksmithForgeMarker.nif",
-      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            150,
-            100
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "Furniture\\BlackSmithingSkyforgeMarker.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
-            0,
-            250,
-            50
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "clutter\\woodfires\\fireplacewood01burning.nif",
-      "clutter\\woodfires\\campfire01burning.nif",
-      "clutter\\woodfires\\campfire01landburning.nif",
-      "clutter\\woodfires\\wbbcfcampfire01burning.nif",
-      "clutter\\woodfires\\wbbcfcampfire01landburning.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
           [
             0,
             0,
             75
           ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 1.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        },
-        "blackList": [
-            "0x0CB94A"
         ]
       }
+    ],
+    "models": [
+      "clutter\\woodfires\\campfire01burning.nif",
+      "clutter\\woodfires\\campfire01landburning.nif",
+      "clutter\\woodfires\\fireplacewood01burning.nif",
+      "clutter\\woodfires\\wbbcfcampfire01burning.nif",
+      "clutter\\woodfires\\wbbcfcampfire01landburning.nif"
     ]
   },
   {
-    "models" : [
-      "clutter\\giant\\giantcampfire01burning.nif",
-      "clutter\\giant\\giantcampfire01burningnoland.nif",
-      "clutter\\giant\\wbbcfgiantcampfire01burning.nif",
-      "clutter\\giant\\wbbcfgiantcampfire01burningnoland.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
-          [
-            0,
-            0,
-            500
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 512.0,
-          "fade" : 0.88,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      },
-      {
-        "points" : [
-          [
-            0,
-            0,
-            500
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 768.0,
-          "fade" : 0.88,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      },
-      {
-        "points" : [
-          [
-            0,
-            0,
-            500
-          ]
-        ],
-        "data" : {
-          "light" : "LightCampFire01",
-          "radius" : 2048.0,
-          "fade" : 0.4,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "Effects\\C06FXfireBlueWithEmbersHeavy.nif",
-      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
+        "data": {
+          "color": [
+            29,
+            115,
+            192
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "AzuraBlue01",
+          "radius": 386.0
+        },
+        "points": [
           [
             0,
             0,
             50
           ]
-        ],
-        "data" : {
-          "light" : "AzuraBlue01",
-          "radius" : 386.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [29, 115, 192]
-        }
+        ]
       }
+    ],
+    "models": [
+      "Effects\\C06FXfireBlueWithEmbersHeavy.nif",
+      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
     ]
   },
   {
-    "models": [
-        "dlc02\\effects\\telvannitorchlightfx.nif"
-    ],
     "lights": [
       {
-        "points": [[0, 0, 10]],
         "data": {
-          "light": "LightCampFire01",
-          "radius": 256.0,
-          "fade": 1.5,
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            150,
+            100
+          ]
+        ]
       }
+    ],
+    "models": [
+      "Furniture\\BlacksmithForgeMarker.nif",
+      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
     ]
   },
   {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            10
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\telvannitorchlightfx.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
     "models": [
       "dlc02\\landscape\\dlc2firecrater02.nif",
       "dlc02\\landscape\\dlc2firecraterround.nif"
-    ],
-    "lights": [
-      {
-        "points": [[0, 0, 50]],
-        "data": {
-          "light": "LightCampFire01",
-          "radius": 256.0,
-          "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
     ]
   },
   {
-    "models": [
-      "dlc02\\landscape\\trees\\dlc2treepineforestlogsm01flaming01.nif"
-    ],
     "lights": [
       {
-        "points": [[0, 0, 50]],
         "data": {
-          "light": "LightCampFire01",
-          "radius": 512.0,
-          "fade": 0.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
-    ]
-  },
-  {
-    "models": [
-      "dlc02\\landscape\\trees\\dlc2treepineforestlogsm01smoking01.nif"
-    ],
-    "lights": [
-      {
-        "points": [[0, 0, 50]],
-        "data": {
-          "light": "LightCampFire01",
-          "radius": 512.0,
+          "color": [
+            226,
+            140,
+            63
+          ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
+          "light": "LightCampFire01",
+          "radius": 128.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
       }
-    ]
-  },
-  {
+    ],
     "models": [
       "dlc02\\landscape\\dlc2fxsmokingplant.nif",
       "dlc02\\landscape\\dlc2fxsmokingplant02.nif",
       "dlc02\\landscape\\dlc2fxsmokingplantwithdirt.nif"
-    ],
-    "lights": [
-      {
-        "points": [[0, 0, 50]],
-        "data": {
-          "light": "LightCampFire01",
-          "radius": 128.0,
-          "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [226, 140, 63]
-        }
-      }
     ]
   },
   {
-      "models": [
-          "furniture\\smeltermarker.nif"
-      ],
-      "lights": [
-          {
-              "points": [
-                  [-70, 100, 90],
-                  [-50, 100, 20]
-              ],
-              "data": {
-                  "light": "DefaultTorch01NS_NoMove",
-                  "radius": 64.0,
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "color": [226, 140, 63]
-              }
-          },
-          {
-              "points": [
-                  [-130, 50, 65]
-              ],
-              "data": {
-                  "light": "LightCampFire01",
-                  "radius": 32.0,
-                  "fade": 2.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "color": [226, 140, 63]
-              }
-          },
-          {
-              "points": [
-                  [-130, 125, 170]
-              ],
-              "data": {
-                  "light": "LightCampFire01",
-                  "radius": 64.0,
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "color": [226, 140, 63]
-              }
-          }
-      ]
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\landscape\\trees\\dlc2treepineforestlogsm01flaming01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\landscape\\trees\\dlc2treepineforestlogsm01smoking01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "blackList": [
+          "0x0cb948"
+        ],
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "Effects\\FXfireWithEmbers01.nif",
+      "Effects\\FXfireWithEmbers01_Cheap.nif",
+      "Effects\\FXfireWithEmbers01_lite.nif",
+      "Effects\\FXfireWithEmbers02.nif",
+      "Effects\\FXfireWithEmbersHeavyToggle.nif",
+      "Effects\\FXfireWithEmbersLogs01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            20,
+            0,
+            150
+          ],
+          "fade": 0.6,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DLC01SCPurple",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\tg09nocturnalfxfirepurple.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            250,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "Furniture\\BlackSmithingSkyforgeMarker.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultTorch01NS_NoMove",
+          "radius": 64.0
+        },
+        "points": [
+          [
+            -70,
+            100,
+            90
+          ],
+          [
+            -50,
+            100,
+            20
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 2.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 32.0
+        },
+        "points": [
+          [
+            -130,
+            50,
+            65
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 64.0
+        },
+        "points": [
+          [
+            -130,
+            125,
+            170
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "furniture\\smeltermarker.nif"
+    ]
+  },
+  {
+    "addonNodes": [
+      68
+    ],
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "offset": [
+            0,
+            0,
+            50
+          ],
+          "radius": 512.0
+        },
+        "whiteList": [
+          "effects\\fxfirewithembers01_cheap.nif"
+        ]
+      }
+    ]
   }
 ]

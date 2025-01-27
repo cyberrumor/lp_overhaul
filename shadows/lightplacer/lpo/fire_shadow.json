@@ -1,248 +1,288 @@
 [
   {
-    "models" : [
-      "Effects\\FXfireWithEmbers01_lite.nif",
-      "Effects\\FXfireWithEmbers02.nif",
-      "Effects\\FXfireWithEmbersHeavyToggle.nif",
-      "Effects\\FXfireWithEmbersLogs01.nif",
-      "Effects\\FXfireWithEmbers01_Cheap.nif",
-      "Effects\\FXfireWithEmbers01.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
-          [
-            0,
-            0,
-            50
-          ]
-        ],
-        "data" : {
-          "light" : "DefaultTorch01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
-          "shadowDepthBias": 26.0
-        },
-        "whiteList": [
-            "0x0DCC21",
-            "0x016DA5",
-            "0x102824",
-            "0x0DFB35",
-            "0x07803B",
-            "0x078039",
-            "0x0FFF1F"
-        ]
-      }
-    ]
-  },
-  {
-    "addonNodes" : [
-      68
-    ],
-    "lights" : [
-      {
-        "whiteList" : [
-          "Effects\\FXfireWithEmbers01_Cheap.nif"
-        ],
-        "data" : {
-          "light" : "DefaultTorch01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "offset" : [
-            0,
-            0,
-            50
+        "data": {
+          "color": [
+            226,
+            140,
+            63
           ],
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
+          "fade": 0.4,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DefaultTorch01",
+          "radius": 2048.0,
           "shadowDepthBias": 26.0
         },
-        "whiteList": [
-        ]
-      }
-    ]
-  },
-  {
-      "models" : [
-          "effects\\tg09nocturnalfxfirepurple.nif"
-      ],
-      "lights" : [
-          {
-              "points": [[0, 0, 50]],
-              "data": {
-                  "light": "DLC01SCPurple",
-                  "radius": 768.0,
-                  "fade": 0.6,
-                  "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-                  "color": [20, 0, 150],
-                  "shadowDepthBias": 26.0
-              },
-              "whiteList": [
-              ]
-          }
-      ]
-  },
-  {
-    "models" : [
-      "Furniture\\BlacksmithForgeMarker.nif",
-      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
+        "points": [
           [
             0,
-            150,
-            100
-          ]
-        ],
-        "data" : {
-          "light" : "DefaultTorch01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
-          "shadowDepthBias": 26.0
-        },
-        "whiteList": [
-        ]
-      }
-    ]
-  },
-  {
-    "models" : [
-      "Furniture\\BlackSmithingSkyforgeMarker.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
-          [
             0,
-            250,
-            50
+            500
           ]
-        ],
-        "data" : {
-          "light" : "DefaultTorch01",
-          "radius" : 512.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
-          "shadowDepthBias": 26.0
-        },
-        "whiteList": [
         ]
       }
+    ],
+    "models": [
+      "clutter\\giant\\giantcampfire01burning.nif",
+      "clutter\\giant\\giantcampfire01burningnoland.nif",
+      "clutter\\giant\\wbbcfgiantcampfire01burning.nif",
+      "clutter\\giant\\wbbcfgiantcampfire01burningnoland.nif"
     ]
   },
   {
-    "models" : [
-      "clutter\\woodfires\\fireplacewood01burning.nif",
-      "clutter\\woodfires\\campfire01burning.nif",
-      "clutter\\woodfires\\campfire01landburning.nif",
-      "clutter\\woodfires\\wbbcfcampfire01burning.nif",
-      "clutter\\woodfires\\wbbcfcampfire01landburning.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DefaultTorch01",
+          "radius": 512.0,
+          "shadowDepthBias": 26.0
+        },
+        "points": [
           [
             0,
             0,
             75
           ]
         ],
-        "data" : {
-          "light" : "DefaultTorch01",
-          "radius" : 512.0,
-          "fade" : 0.5,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
-          "shadowDepthBias": 26.0
-        },
         "whiteList": [
-            "0x07569D",
-            "0x0BEC32",
-            "0x03CC7B",
-            "0x035F49",
-            "0x0C5449",
-            "0x0CB94A"
+          "0x035f49",
+          "0x03cc7b",
+          "0x07569d",
+          "0x0bec32",
+          "0x0c5449",
+          "0x0cb94a"
         ]
       }
+    ],
+    "models": [
+      "clutter\\woodfires\\campfire01burning.nif",
+      "clutter\\woodfires\\campfire01landburning.nif",
+      "clutter\\woodfires\\fireplacewood01burning.nif",
+      "clutter\\woodfires\\wbbcfcampfire01burning.nif",
+      "clutter\\woodfires\\wbbcfcampfire01landburning.nif"
     ]
   },
   {
-    "models" : [
-      "clutter\\giant\\giantcampfire01burning.nif",
-      "clutter\\giant\\giantcampfire01burningnoland.nif",
-      "clutter\\giant\\wbbcfgiantcampfire01burning.nif",
-      "clutter\\giant\\wbbcfgiantcampfire01burningnoland.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points" : [
-          [
-            0,
-            0,
-            500
-          ]
-        ],
-        "data" : {
-          "light" : "DefaultTorch01",
-          "radius" : 2048.0,
-          "fade" : 0.4,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
+        "data": {
+          "color": [
+            29,
+            115,
+            192
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "AzuraBlue01",
+          "radius": 386.0,
           "shadowDepthBias": 26.0
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "Effects\\C06FXfireBlueWithEmbersHeavy.nif",
-      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
-    ],
-    "lights" : [
-      {
-        "points" : [
+        },
+        "points": [
           [
             0,
             0,
             50
           ]
         ],
-        "data" : {
-          "light" : "AzuraBlue01",
-          "radius" : 386.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [29, 115, 192],
-          "shadowDepthBias": 26.0
-        },
-        "whiteList": [
-        ]
+        "whiteList": []
       }
+    ],
+    "models": [
+      "Effects\\C06FXfireBlueWithEmbersHeavy.nif",
+      "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
     ]
   },
   {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DefaultTorch01",
+          "radius": 512.0,
+          "shadowDepthBias": 26.0
+        },
+        "points": [
+          [
+            0,
+            150,
+            100
+          ]
+        ],
+        "whiteList": []
+      }
+    ],
+    "models": [
+      "Furniture\\BlacksmithForgeMarker.nif",
+      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DefaultTorch01",
+          "radius": 768.0,
+          "shadowDepthBias": 26.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            150
+          ]
+        ]
+      }
+    ],
     "models": [
       "dlc02\\landscape\\dlc2firecrater02.nif",
       "dlc02\\landscape\\dlc2firecraterround.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DefaultTorch01",
+          "radius": 512.0,
+          "shadowDepthBias": 26.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
+        "whiteList": [
+          "0x016da5",
+          "0x078039",
+          "0x07803b",
+          "0x0dcc21",
+          "0x0dfb35",
+          "0x0fff1f",
+          "0x102824"
+        ]
+      }
+    ],
+    "models": [
+      "Effects\\FXfireWithEmbers01.nif",
+      "Effects\\FXfireWithEmbers01_Cheap.nif",
+      "Effects\\FXfireWithEmbers01_lite.nif",
+      "Effects\\FXfireWithEmbers02.nif",
+      "Effects\\FXfireWithEmbersHeavyToggle.nif",
+      "Effects\\FXfireWithEmbersLogs01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            20,
+            0,
+            150
+          ],
+          "fade": 0.6,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DLC01SCPurple",
+          "radius": 768.0,
+          "shadowDepthBias": 26.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ],
+        "whiteList": []
+      }
+    ],
+    "models": [
+      "effects\\tg09nocturnalfxfirepurple.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
+          "light": "DefaultTorch01",
+          "radius": 512.0,
+          "shadowDepthBias": 26.0
+        },
+        "points": [
+          [
+            0,
+            250,
+            50
+          ]
+        ],
+        "whiteList": []
+      }
+    ],
+    "models": [
+      "Furniture\\BlackSmithingSkyforgeMarker.nif"
+    ]
+  },
+  {
+    "addonNodes": [
+      68
     ],
     "lights": [
       {
-        "points": [[0, 0, 150]],
         "data": {
-          "light": "DefaultTorch01",
-          "radius": 768.0,
-          "fade": 1.5,
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "color": [226, 140, 63],
+          "light": "DefaultTorch01",
+          "offset": [
+            0,
+            0,
+            50
+          ],
+          "radius": 512.0,
           "shadowDepthBias": 26.0
-        }
+        },
+        "whiteList": []
       }
     ]
   }

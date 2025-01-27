@@ -1,289 +1,421 @@
 [
   {
-    "models" : [
-      "plants\\floranirnroot01.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points": [[0, 0, 60]],
-        "data" : {
-          "light" : "DwarvenMushroomLight",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [39, 133, 137]
-        }
+        "data": {
+          "color": [
+            54,
+            80,
+            152
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 4096.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            1000
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            54,
+            80,
+            152
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            100,
+            300,
+            300
+          ]
+        ]
       }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachepicmushroom01.nif"
     ]
   },
   {
-    "models" : [
-      "plants\\floranirnroot01red.nif"
-    ],
-    "lights" : [
+    "lights": [
       {
-        "points": [[0, 0, 60]],
-        "data" : {
-          "light" : "MiddenRedEye01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [255, 0, 0]
-        }
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            300
+          ],
+          [
+            0,
+            0,
+            900
+          ]
+        ]
       }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachgiantmushanim01.nif"
     ]
   },
   {
-    "models" : [
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 768.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            400
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachgiantmushanim02.nif",
+      "clutter\\blackreach\\blackreachgiantmushanim04.nif",
+      "clutter\\blackreach\\blackreachgiantmushanim05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.75,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            300
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachgiantmushanim03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            -200,
+            0,
+            250
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachgiantmushhoriz01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.75,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            -200,
+            0,
+            200
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachgiantmushhoriz02.nif",
+      "clutter\\blackreach\\blackreachgiantmushhoriz03.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            -200,
+            0,
+            400
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachgiantmushhoriz04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            200
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\blackreach\\blackreachsmallmushroom01.nif",
+      "clutter\\blackreach\\blackreachsmallmushroom02.nif",
+      "clutter\\blackreach\\blackreachsmallmushroom03.nif",
+      "clutter\\blackreach\\blackreachsmallmushroom04.nif",
+      "clutter\\blackreach\\blackreachsmallmushroom05.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "CharusEggLight",
+          "radius": 64.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
       "clutter\\chauruseggs\\eggsacs.nif",
       "clutter\\chauruseggs\\eggsacs01.nif",
       "clutter\\chauruseggs\\eggsacs02.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0,0,50]],
-        "data" : {
-          "light" : "CharusEggLight",
-          "radius" : 64.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [39, 133, 137]
-        }
-      }
     ]
   },
   {
-    "models" : [
-      "plants\\glowingmushroomcluster01.nif",
-      "plants\\glowingmushroom01.nif",
-      "plants\\glowingmushroomsingle01.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0,0,0]],
-        "data" : {
-          "light" : "BleakFallsFungus01",
-          "radius" : 512.0,
-          "fade" : 0.5,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [39, 133, 137]
-        }
-      }
-    ]
-  },
-  {
-    "models" : [
-      "dlc01\\plants\\dlc01glowplant01.nif"
-    ],
-    "lights" : [
-      {
-        "points": [[0, 0, 60]],
-        "data" : {
-          "light" : "AzuraBlue01",
-          "radius" : 256.0,
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "color": [29, 115, 192]
-        }
-      }
-    ]
-  },
-  {
-    "models": [
-        "dlc01\\plants\\caveworm\\cavewormlarge.nif",
-        "dlc01\\plants\\cavewormgroup\\caveworm3group.nif",
-        "dlc01\\plants\\cavewormsmall\\cavewormsmall.nif"
-    ],
     "lights": [
       {
-        "points": [[0, 0, 50]],
         "data": {
-          "light": "BleakFallsFungus01",
-          "radius": 256.0,
+          "color": [
+            180,
+            50,
+            126
+          ],
+          "conditions": [
+            "Self GetDistance PlayerRef > 512 AND"
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "color": [180, 50, 126],
-          "conditions": [
-              "Self GetDistance PlayerRef > 512 AND"
+          "light": "BleakFallsFungus01",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
           ]
-        }
+        ]
       }
+    ],
+    "models": [
+      "dlc01\\plants\\caveworm\\cavewormlarge.nif",
+      "dlc01\\plants\\cavewormgroup\\caveworm3group.nif",
+      "dlc01\\plants\\cavewormsmall\\cavewormsmall.nif"
     ]
   },
   {
-      "models": [
-          "clutter\\blackreach\\blackreachepicmushroom01.nif"
-      ],
-      "lights": [
-          {
-              "points": [
-                  [0, 0, 1000]
-              ],
-              "data": {
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 4096.0,
-                  "color": [54, 80, 152]
-              }
-          },
-          {
-              "points": [
-                  [100, 300, 300]
-              ],
-              "data": {
-                  "fade": 1.0,
-                  "flags": "IgnoreScale|NoExternalEmittance",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 768.0,
-                  "color": [54, 80, 152]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushanim01.nif"
-      ],
-      "lights": [
-          {
-              "points": [
-                  [0, 0, 900],
-                  [0, 0, 300]
-              ],
-              "data": {
-                  "fade": 1.0,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 768.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushanim02.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 400]],
-              "data": {
-                  "fade": 1.0,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 768.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushanim03.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 300]],
-              "data": {
-                  "fade": 0.75,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 512.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushanim04.nif",
-        "clutter\\blackreach\\blackreachgiantmushanim05.nif"
-      ],
-      "lights": [
-          {
-              "points": [[0, 0, 400]],
-              "data": {
-                  "fade": 1.0,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 768.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushhoriz01.nif"
-      ],
-      "lights": [
-          {
-              "points": [[-200, 0, 250]],
-              "data": {
-                  "fade": 0.5,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 512.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushhoriz02.nif",
-        "clutter\\blackreach\\blackreachgiantmushhoriz03.nif"
-      ],
-      "lights": [
-          {
-              "points": [[-200, 0, 200]],
-              "data": {
-                  "fade": 0.75,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 512.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-      "models": [
-        "clutter\\blackreach\\blackreachgiantmushhoriz04.nif"
-      ],
-      "lights": [
-          {
-              "points": [[-200, 0, 400]],
-              "data": {
-                  "fade": 0.5,
-                  "flags": "NoExternalEmittance|IgnoreScale",
-                  "light": "DwarvenMushroomLight",
-                  "radius": 512.0,
-                  "color": [39, 133, 137]
-              }
-          }
-      ]
-  },
-  {
-    "models": [
-        "clutter\\blackreach\\blackreachsmallmushroom01.nif",
-        "clutter\\blackreach\\blackreachsmallmushroom02.nif",
-        "clutter\\blackreach\\blackreachsmallmushroom03.nif",
-        "clutter\\blackreach\\blackreachsmallmushroom04.nif",
-        "clutter\\blackreach\\blackreachsmallmushroom05.nif"
-    ],
     "lights": [
-        {
-            "points": [[0, 0, 200]],
-            "data": {
-                "fade": 0.5,
-                "flags": "NoExternalEmittance|IgnoreScale",
-                "light": "DwarvenMushroomLight",
-                "radius": 256.0,
-                "color": [39, 133, 137]
-            }
-        }
+      {
+        "data": {
+          "color": [
+            29,
+            115,
+            192
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "AzuraBlue01",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            60
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc01\\plants\\dlc01glowplant01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            60
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "plants\\floranirnroot01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            0,
+            0
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "MiddenRedEye01",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            60
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "plants\\floranirnroot01red.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "BleakFallsFungus01",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "plants\\glowingmushroom01.nif",
+      "plants\\glowingmushroomcluster01.nif",
+      "plants\\glowingmushroomsingle01.nif"
     ]
   }
 ]

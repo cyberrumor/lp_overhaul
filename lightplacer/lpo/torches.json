@@ -1,24 +1,28 @@
 [
   {
-    "lights" : [
+    "lights": [
       {
-        "points" : [
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 640.0
+        },
+        "points": [
           [
             0,
             25,
             40
           ]
-        ],
-        "data" : {
-          "fade" : 1.0,
-          "flags" : "IgnoreScale|NoExternalEmittance",
-          "light" : "LightCampFire01",
-          "radius" : 640.0,
-          "color": [226, 140, 63]
-        }
+        ]
       }
     ],
-    "models" : [
+    "models": [
       "clutter\\common\\removabletorch01.nif",
       "clutter\\common\\torchpermanent01.nif"
     ]

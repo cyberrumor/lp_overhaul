@@ -1,61 +1,89 @@
 [
-    {
-        "models": [
-            "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin01.nif",
-            "architecture\\riften\\interior\\smallroomsecond\\rifrmsmsecondwallwin01.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [-75, 0, 100]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 256.0,
-                    "fade": 1.0,
-                    "flags": "IgnoreScale|NoExternalEmittance",
-                    "color": [255, 255, 255]
-                }
-            }
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 386.0
+        },
+        "points": [
+          [
+            -100,
+            0,
+            120
+          ],
+          [
+            0,
+            -100,
+            120
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin02.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [-100, 0, 120]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 386.0,
-                    "fade": 1.0,
-                    "color": [255, 255, 255],
-                    "flags": "IgnoreScale|NoExternalEmittence"
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstcorinwin02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0
+        },
+        "points": [
+          [
+            -75,
+            0,
+            100
+          ]
         ]
-    },
-    {
-        "models": [
-            "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstcorinwin02.nif"
-        ],
-        "lights": [
-            {
-                "points": [
-                    [-100, 0, 120],
-                    [0, -100, 120]
-                ],
-                "data": {
-                    "light": "DefaultSunlight01NS",
-                    "radius": 386.0,
-                    "fade": 1.0,
-                    "color": [255, 255, 255],
-                    "flags": "IgnoreScale|NoExternalEmittence"
-                }
-            }
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin01.nif",
+      "architecture\\riften\\interior\\smallroomsecond\\rifrmsmsecondwallwin01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 386.0
+        },
+        "points": [
+          [
+            -100,
+            0,
+            120
+          ]
         ]
-    }
+      }
+    ],
+    "models": [
+      "architecture\\riften\\interior\\smallroomfirst\\rifrmsmfirstwallwin02.nif"
+    ]
+  }
 ]
