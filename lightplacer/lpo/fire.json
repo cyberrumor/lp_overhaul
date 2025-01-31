@@ -98,9 +98,12 @@
     "models": [
       "clutter\\woodfires\\campfire01burning.nif",
       "clutter\\woodfires\\campfire01landburning.nif",
+      "clutter\\woodfires\\cookingstand01.nif",
       "clutter\\woodfires\\fireplacewood01burning.nif",
       "clutter\\woodfires\\wbbcfcampfire01burning.nif",
-      "clutter\\woodfires\\wbbcfcampfire01landburning.nif"
+      "clutter\\woodfires\\wbbcfcampfire01landburning.nif",
+      "rest by campfire\\rbc_campfire_burning.nif",
+      "rest by campfire\\rbc_campfire_landburning.nif"
     ]
   },
   {
@@ -155,8 +158,11 @@
       }
     ],
     "models": [
+      "clutter\\blacksmith\\blacksmithforge01\\blacksmithforge01.nif",
+      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif",
       "furniture\\blacksmithforgemarker.nif",
-      "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
+      "furniture\\blacksmithforgemarkerwr.nif",
+      "furniture\\orcfurniture\\orcblacksmithforgemarker.nif"
     ]
   },
   {
@@ -324,12 +330,19 @@
       }
     ],
     "models": [
+      "effects\\fxfirepit01.nif",
+      "effects\\fxfiresovngarde.nif",
       "effects\\fxfirewithembers01.nif",
       "effects\\fxfirewithembers01_cheap.nif",
       "effects\\fxfirewithembers01_lite.nif",
       "effects\\fxfirewithembers02.nif",
+      "effects\\fxfirewithembers02toggle.nif",
+      "effects\\fxfirewithembers04.nif",
+      "effects\\fxfirewithembers05.nif",
       "effects\\fxfirewithembersheavytoggle.nif",
-      "effects\\fxfirewithemberslogs01.nif"
+      "effects\\fxfirewithemberslogs01.nif",
+      "effects\\fxfirewithemberslogs03.nif",
+      "effects\\fxfirewithemberslogs04.nif"
     ]
   },
   {
