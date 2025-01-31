@@ -127,7 +127,7 @@
       }
     ],
     "models": [
-      "Effects\\C06FXfireBlueWithEmbersHeavy.nif",
+      "effects\\c06fxfirebluewithembersheavy.nif",
       "dlc01\\effects\\dlc1falmervalleybrazierlight.nif"
     ]
   },
@@ -155,7 +155,7 @@
       }
     ],
     "models": [
-      "Furniture\\BlacksmithForgeMarker.nif",
+      "furniture\\blacksmithforgemarker.nif",
       "dlc02\\architecture\\ravenrock\\dlc2blacksmithforge01rr.nif"
     ]
   },
@@ -324,12 +324,12 @@
       }
     ],
     "models": [
-      "Effects\\FXfireWithEmbers01.nif",
-      "Effects\\FXfireWithEmbers01_Cheap.nif",
-      "Effects\\FXfireWithEmbers01_lite.nif",
-      "Effects\\FXfireWithEmbers02.nif",
-      "Effects\\FXfireWithEmbersHeavyToggle.nif",
-      "Effects\\FXfireWithEmbersLogs01.nif"
+      "effects\\fxfirewithembers01.nif",
+      "effects\\fxfirewithembers01_cheap.nif",
+      "effects\\fxfirewithembers01_lite.nif",
+      "effects\\fxfirewithembers02.nif",
+      "effects\\fxfirewithembersheavytoggle.nif",
+      "effects\\fxfirewithemberslogs01.nif"
     ]
   },
   {
@@ -383,7 +383,7 @@
       }
     ],
     "models": [
-      "Furniture\\BlackSmithingSkyforgeMarker.nif"
+      "furniture\\blacksmithingskyforgemarker.nif"
     ]
   },
   {
