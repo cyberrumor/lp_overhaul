@@ -431,33 +431,6 @@
             133,
             137
           ],
-          "fade": 2.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenOmniLight_NoMove",
-          "radius": 2048.0
-        },
-        "points": [
-          [
-            0,
-            0,
-            -150
-          ]
-        ]
-      }
-    ],
-    "models": [
-      "dungeons\\dwemer\\dwechandelier04.nif"
-    ]
-  },
-  {
-    "lights": [
-      {
-        "data": {
-          "color": [
-            39,
-            133,
-            137
-          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenOmniLight_NoMove",
