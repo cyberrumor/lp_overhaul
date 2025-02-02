@@ -271,32 +271,5 @@
     "models": [
       "furniture\\blacksmithingskyforgemarker.nif"
     ]
-  },
-  {
-    "addonNodes": [
-      68
-    ],
-    "lights": [
-      {
-        "data": {
-          "color": [
-            226,
-            140,
-            63
-          ],
-          "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
-          "offset": [
-            0,
-            0,
-            50
-          ],
-          "radius": 512.0,
-          "shadowDepthBias": 26.0
-        },
-        "whiteList": []
-      }
-    ]
   }
 ]
