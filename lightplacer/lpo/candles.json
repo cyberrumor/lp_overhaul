@@ -27,13 +27,69 @@
     ]
   },
   {
-    "addonNodes": [
-      49
+    "models": [
+      "_resourcepack\\clutter\\imperial\\impchandelliercandle01nochain.nif",
+      "clutter\\candles\\candlehornchandelier01.nif",
+      "clutter\\candles\\candlehornchandelier02.nif",
+      "clutter\\candles\\candlehornfloor01.nif",
+      "clutter\\candles\\candlehorntable01.nif",
+      "clutter\\candles\\candlehornwall01.nif",
+      "clutter\\glazedcandles01.nif",
+      "clutter\\glazedcandlesstatic02.nif",
+      "clutter\\imperial\\impcandelabracandle01.nif",
+      "clutter\\imperial\\impcandelabracandle02.nif",
+      "clutter\\imperial\\impcandelabranocandle.nif",
+      "clutter\\imperial\\impcandle01.nif",
+      "clutter\\imperial\\impchandelliercandle01.nif",
+      "clutter\\imperial\\impchandelliercandle02.nif",
+      "clutter\\imperial\\impchandelliercandle03.nif",
+      "clutter\\imperial\\impchandelliernocandle01.nif",
+      "clutter\\imperial\\impwallsconce02candleon01.nif",
+      "clutter\\imperial\\impwallsconce02nocandle01.nif",
+      "clutter\\imperial\\impwallsconcecandle01.nif",
+      "clutter\\imperial\\impwallsconcecandle02.nif",
+      "clutter\\imperial\\impwallsconcenocandle01.nif",
+      "clutter\\quest\\tggoldencandlestick01.nif",
+      "clutter\\quest\\tggoldencandlestickstatic01.nif",
+      "clutter\\quest\\tgtq01silvercandlestick.nif",
+      "clutter\\ruins\\ruinscandlesconcenocandle01.nif",
+      "clutter\\ruins\\ruinscandlesconceon01.nif",
+      "clutter\\ruins\\ruinscandlesconceon02.nif",
+      "clutter\\ruins\\ruinsfloorcandlelampmidon.nif",
+      "clutter\\ruins\\ruinsfloorcandlelampmidon02.nif",
+      "clutter\\ruins\\ruinsfloorcandlelampmidstand.nif",
+      "clutter\\ruins\\ruinsfloorcandlelampsmon.nif",
+      "clutter\\ruins\\ruinsfloorcandlelampsmon02.nif",
+      "clutter\\ruins\\ruinsfloorcandlelampsmstand.nif",
+      "clutter\\silver\\silvercandlestick01.nif",
+      "clutter\\silver\\silvercandlestick02.nif",
+      "clutter\\silver\\silvercandlestick03.nif",
+      "clutter\\sovngarde\\sovcandlestick01.nif",
+      "clutter\\sovngarde\\sovcandlestick01static.nif",
+      "clutter\\sovngarde\\sovcandlestick02.nif",
+      "clutter\\sovngarde\\sovcandlestick02static.nif",
+      "clutter\\sovngarde\\sovcandlestick03.nif",
+      "clutter\\sovngarde\\sovcandlestick03static.nif",
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arcandleplate01.nif",
+      "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arcandleplate02.nif",
+      "dlc01\\dungeons\\castle\\animated\\candlestick\\",
+      "dlc01\\dungeons\\castle\\animated\\candlestick\\cascandlesticklever01.hkx",
+      "dlc01\\dungeons\\castle\\animated\\candlestick\\cascandlesticklever01.nif",
+      "dlc02\\clutter\\riekling\\dlc2rieklingcandle.nif",
+      "furniture\\enchantingworkbench.nif",
+      "furniture\\enchantingworkstation.nif"
     ],
     "lights": [
       {
-        "blackList": [
-          "clutter\\common\\candlelanternwithcandle01.nif"
+        "nodes": [
+            "AddOnNode49",
+            "AddOnNode49@#0",
+            "AddOnNode49@#1",
+            "AddOnNode49@#2",
+            "AddOnNode49@#3",
+            "AddOnNode49@#4",
+            "AddOnNode49@#5",
+            "AddOnNode49@#6"
         ],
         "data": {
           "color": [
