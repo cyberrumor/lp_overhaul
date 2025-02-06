@@ -355,10 +355,10 @@
             0,
             150
           ],
-          "fade": 0.6,
+          "fade": 1.976,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DLC01SCPurple",
-          "radius": 768.0
+          "radius": 386.0
         },
         "points": [
           [
