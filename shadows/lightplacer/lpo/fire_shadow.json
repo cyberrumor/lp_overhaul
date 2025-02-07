@@ -78,9 +78,9 @@
       {
         "data": {
           "color": [
-            29,
-            115,
-            192
+              30,
+              50,
+              180
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
