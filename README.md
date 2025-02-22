@@ -19,10 +19,10 @@ refer to [official Light Placer documentation](
 ).
 
 Readers are expected to have at least the following prior knowledge:
-    * Opened xEdit (aka SSEEdit) at least once before.
-    * Opened the Creation Kit before.
-    * Used mod organizers to install mods before.
-    * Navigated to the Data directory via a file explorer before.
+* Opened xEdit (aka SSEEdit) at least once before.
+* Opened the Creation Kit before.
+* Used mod organizers to install mods before.
+* Navigated to the Data directory via a file explorer before.
 
 ## Requirements
 
@@ -46,14 +46,14 @@ of how it could solve the problems that conventional (by which I mean
 plugin-based) lighting overhauls can't.
 
 Conventional lighting overhauls have these limitations:
-    * Lights must be hand placed via the Creation Kit, which is time consuming.
-    * Lights are only dynamic (by which I mean you can turn them on and off)
-      when controlled via papyrus scripts.
-    * Skyrim is full of fake lights. They must either be manually disabled via
-      the Creation Kit, light sources manually added via the Creation Kit so the
-      light isn't fake anymore, or ignored.
-    * Placing objects like lights via a plugin causes cell records to be carried
-      forward, which can cause compatibility issues.
+* Lights must be hand placed via the Creation Kit, which is time consuming.
+* Lights are only dynamic (by which I mean you can turn them on and off)
+  when controlled via papyrus scripts.
+* Skyrim is full of fake lights. They must either be manually disabled via
+  the Creation Kit, light sources manually added via the Creation Kit so the
+  light isn't fake anymore, or ignored.
+* Placing objects like lights via a plugin causes cell records to be carried
+  forward, which can cause compatibility issues.
 
 The thing I'm most excited about is how Light Placer allows us to eliminate all
 lights in the game that aren't placed by Light Placer via a simple ini setting.
