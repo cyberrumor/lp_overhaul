@@ -3,6 +3,21 @@
 [Nexus Mirror](https://www.nexusmods.com/skyrimspecialedition/mods/136870)
 [Github Mirror](https://github.com/cyberrumor/lp_overhaul)
 
+This document explains the reasons I made LPO, the problems it tries to solve,
+how it differs in implementation from conventional lighting mods, why you might
+want to whitelist or avoid whitelisting, and finally, provides a list of all
+models that LPO attaches lights to.
+
+This document is intended to be consumed by LPO users who want to know more
+about the motivations of this mod, and who want to understand how it works so
+they can make informed decisions about how to further customize their Light
+Placer configs.
+
+It does not cover the syntax or options available to the configs. For that,
+refer to [official Light Placer documentation](
+    https://github.com/powerof3/LightPlacer/wiki
+).
+
 ## Requirements
 
 - [SKSE](https://skse.silverlock.org/)
@@ -414,6 +429,15 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "rest by campfire\\rbc_campfire_burning.nif",
 "rest by campfire\\rbc_campfire_landburning.nif"
 ```
+
+## Further Reading
+
+* [Light Placer Wiki](https://github.com/powerof3/LightPlacer/wiki)
+* [Community Shaders Wiki](
+    https://github.com/doodlum/skyrim-community-shaders/wiki
+  )
+* [Creation Kit Wiki](https://ck.uesp.net/wiki/Light)
+* [Tome of xEdit](https://tes5edit.github.io/docs/)
 
 ## Thanks
 
