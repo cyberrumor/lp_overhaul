@@ -18,6 +18,12 @@ refer to [official Light Placer documentation](
     https://github.com/powerof3/LightPlacer/wiki
 ).
 
+Readers are expected to have at least the following prior knowledge:
+    * Opened xEdit (aka SSEEdit) at least once before.
+    * Opened the Creation Kit before.
+    * Used mod organizers to install mods before.
+    * Navigated to the Data directory via a file explorer before.
+
 ## Requirements
 
 - [SKSE](https://skse.silverlock.org/)
