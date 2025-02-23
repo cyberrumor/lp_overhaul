@@ -1,0 +1,51 @@
+[
+  {
+    "lights": [
+      {
+        "nodes": [
+          "Flame01",
+          "Flame02",
+          "Flame03",
+          "Flame04",
+          "Flame05",
+          "Flame06",
+          "Flame07",
+          "Flame08",
+          "Flame09",
+          "Flame10",
+          "Flame11",
+          "AddOnNode49",
+          "AddOnNode49@#0",
+          "AddOnNode49@#1"
+        ],
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.2,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 386.0
+        }
+      }
+    ],
+    "models": [
+      "clutter\\obs_lightfixtures\\obs_silvercandlesconce_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silverchandelierlarge_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandlestick_04.nif",
+      "clutter\\obs_lightfixtures\\obs_silverchandeliermedium_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabratriple_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabratriple_02.nif",
+      "clutter\\obs_lightfixtures\\obs_silverchandeliersmall_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_02.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_03.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrapenta_01.nif",
+      "clutter\\obs_clutter\\obs_candleonly_01.nif",
+      "clutter\\obs_clutter\\obs_candleonly_02.nif",
+      "clutter\\obs_clutter\\obs_candleonly_03.nif"
+    ]
+  }
+]
