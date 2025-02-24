@@ -28,7 +28,42 @@
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
           "radius": 386.0
-        }
+        },
+        "blackList": [        
+          "0x1818F0~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F2~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FB~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FC~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FD~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FE~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FF~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x181900~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x181901~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18190A~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18190B~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197B~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197C~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197D~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197E~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197F~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F08~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0A~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0D~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0E~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0F~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F10~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F11~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F12~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F13~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F14~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F15~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A1~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A2~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A3~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A4~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A6~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A8~OCW_Obscure's_CollegeofWinterhold.esp"
+        ]
       }
     ],
     "models": [

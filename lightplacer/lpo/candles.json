@@ -119,7 +119,25 @@
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
           "radius": 386.0
-        }
+        },
+        "blackList": [
+          "0x1818E4~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818E5~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818EA~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818EB~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818EC~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818ED~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818EE~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818EF~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F0~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F1~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F2~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F3~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F4~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F6~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F8~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F9~OCW_Obscure's_CollegeofWinterhold.esp"
+        ]
       }
     ]
   }
