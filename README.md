@@ -5,8 +5,9 @@
 
 This document explains the reasons I made LPO, the problems it tries to solve,
 how it differs in implementation from conventional lighting mods, why you might
-want to whitelist or avoid whitelisting, and finally, provides a list of all
-models that LPO attaches lights to.
+want to whitelist or avoid whitelisting, how to solve common compatibility
+problems, and finally, provides a list of all models that LPO attaches lights
+to.
 
 This document is intended to be consumed by LPO users who want to know more
 about the motivations of this mod, and who want to understand how it works so
@@ -175,6 +176,32 @@ still benefit from level design changes they've made, like moving a lantern from
 one side of the room to the other. If you do whitelist the conventional mods,
 you'll get lights added by the conventional mod as well as from LPO.
 
+
+## Solving Compatibility Problems
+
+### Mod-Added Meshes
+
+When a mod adds a mesh with a novel (as in, not in vanilla) mesh name, LPO
+doesn't contain instructions for Light Placer which tells Light Placer to attach
+a light to that mesh. The result is the mod-added mesh does not emit light.
+
+To fix this issue, you will need to install [More Informative Console](
+    https://www.nexusmods.com/skyrimspecialedition/mods/19250
+).
+
+Launch the game normally, find one of the meshes that's missing a light, then
+open the console with `~`. Click on the mesh that's missing a light. You should
+see a popup from More Informative Console that shows the object name. If you
+hover over the options in this popup and hit your `shift` key, it will act like
+a click. It's also possible to use the `tab` key to change which bit of
+information is displayed. In this way, poke around in More Informative Console
+until you find the mesh name (it will have a `.nif` file suffix).
+
+Once you have the mesh name, you will need to add it to a JSON file, and put
+that JSON file in `Data/lightplacer/custom/`. Utilize official
+[Light Placer Documentation](
+    https://github.com/powerof3/LightPlacer/wiki/Examples
+) to learn how to do this.
 
 ## What Does LPO Add Light To?
 
