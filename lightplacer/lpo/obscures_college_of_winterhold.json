@@ -1,0 +1,86 @@
+[
+  {
+    "lights": [
+      {
+        "nodes": [
+          "Flame01",
+          "Flame02",
+          "Flame03",
+          "Flame04",
+          "Flame05",
+          "Flame06",
+          "Flame07",
+          "Flame08",
+          "Flame09",
+          "Flame10",
+          "Flame11",
+          "AddOnNode49",
+          "AddOnNode49@#0",
+          "AddOnNode49@#1"
+        ],
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.2,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "LightCampFire01",
+          "radius": 386.0
+        },
+        "blackList": [        
+          "0x1818F0~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818F2~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FB~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FC~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FD~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FE~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x1818FF~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x181900~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x181901~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18190A~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18190B~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197B~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197C~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197D~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197E~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x18197F~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F08~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0A~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0D~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0E~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F0F~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F10~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F11~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F12~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F13~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F14~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x195F15~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A1~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A2~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A3~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A4~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A6~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x6FD3A8~OCW_Obscure's_CollegeofWinterhold.esp"
+        ]
+      }
+    ],
+    "models": [
+      "clutter\\obs_lightfixtures\\obs_silvercandlesconce_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silverchandelierlarge_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandlestick_04.nif",
+      "clutter\\obs_lightfixtures\\obs_silverchandeliermedium_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabratriple_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabratriple_02.nif",
+      "clutter\\obs_lightfixtures\\obs_silverchandeliersmall_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_01.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_02.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_03.nif",
+      "clutter\\obs_lightfixtures\\obs_silvercandelabrapenta_01.nif",
+      "clutter\\obs_clutter\\obs_candleonly_01.nif",
+      "clutter\\obs_clutter\\obs_candleonly_02.nif",
+      "clutter\\obs_clutter\\obs_candleonly_03.nif"
+    ]
+  }
+]
