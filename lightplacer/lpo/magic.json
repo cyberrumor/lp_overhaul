@@ -86,6 +86,9 @@
   {
     "lights": [
       {
+        "blackList": [
+          "0x08E764~OCW_Obscure's_CollegeofWinterhold.esp"
+        ],
         "data": {
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
@@ -114,6 +117,11 @@
   {
     "lights": [
       {
+        "blackList": [
+          "0x08E76A~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x08E76B~OCW_Obscure's_CollegeofWinterhold.esp",
+          "0x08E76C~OCW_Obscure's_CollegeofWinterhold.esp"
+        ],
         "data": {
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
