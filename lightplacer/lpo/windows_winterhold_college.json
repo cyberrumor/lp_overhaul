@@ -8,7 +8,7 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -35,7 +35,7 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -72,7 +72,7 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -123,7 +123,7 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -148,7 +148,7 @@
             255,
             255
           ],
-          "fade": 0.5,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01",
           "radius": 1024.0,
@@ -180,7 +180,7 @@
             255,
             255
           ],
-          "fade": 1.0,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -205,7 +205,7 @@
             255,
             255
           ],
-          "fade": 0.5,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01",
           "radius": 2048.0,

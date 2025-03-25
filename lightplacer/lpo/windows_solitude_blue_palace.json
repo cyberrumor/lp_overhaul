@@ -62,7 +62,7 @@
             255,
             255
           ],
-          "fade": 0.1,
+          "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0
@@ -94,7 +94,7 @@
             255,
             255
           ],
-          "fade": 0.1,
+          "fade": 0.125,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 256.0

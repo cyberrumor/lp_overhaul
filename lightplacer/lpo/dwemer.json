@@ -371,10 +371,10 @@
             133,
             137
           ],
-          "fade": 1.0,
+          "fade": 1.8,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenOmniLight_NoMove",
-          "radius": 1024.0
+          "radius": 750.0
         },
         "points": [
           [
