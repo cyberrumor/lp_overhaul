@@ -256,10 +256,10 @@
             133,
             137
           ],
-          "fade": 1.0,
+          "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "CharusEggLight",
-          "radius": 64.0
+          "radius": 242.0
         },
         "points": [
           [
