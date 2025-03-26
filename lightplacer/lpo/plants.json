@@ -72,11 +72,6 @@
           [
             0,
             0,
-            300
-          ],
-          [
-            0,
-            0,
             900
           ]
         ]
@@ -379,7 +374,7 @@
             0,
             0
           ],
-          "fade": 1.0,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MiddenRedEye01",
           "radius": 1.0
