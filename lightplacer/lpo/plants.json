@@ -12,7 +12,7 @@
             133,
             137
           ],
-          "fade": 0.25,
+          "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
           "radius": 1.0
@@ -36,7 +36,7 @@
             80,
             152
           ],
-          "fade": 5.0,
+          "fade": 3.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
           "radius": 1.0
@@ -63,7 +63,7 @@
             133,
             137
           ],
-          "fade": 1.0,
+          "fade": 3.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
           "radius": 1.0
