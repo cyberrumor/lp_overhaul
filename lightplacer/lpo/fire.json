@@ -73,7 +73,8 @@
     "lights": [
       {
         "blackList": [
-          "0x0cb94a"
+          "0x0cb94a",
+          "0x000e17"
         ],
         "data": {
           "color": [
