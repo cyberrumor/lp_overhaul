@@ -459,7 +459,7 @@
             133,
             137
           ],
-          "fade": 1.0,
+          "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenOmniLight_NoMove",
           "radius": 1.0
