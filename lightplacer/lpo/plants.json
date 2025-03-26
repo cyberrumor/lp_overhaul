@@ -1,5 +1,33 @@
 [
   {
+    "models": [
+        "clutter\\blackreach\\blackreachbush01.nif",
+        "clutter\\blackreach\\blackreachbush02.nif"
+    ],
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 1.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            100
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "lights": [
       {
         "data": {
@@ -8,27 +36,7 @@
             80,
             152
           ],
-          "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
-          "radius": 1.0
-        },
-        "points": [
-          [
-            0,
-            0,
-            1000
-          ]
-        ]
-      },
-      {
-        "data": {
-          "color": [
-            54,
-            80,
-            152
-          ],
-          "fade": 1.0,
+          "fade": 5.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
           "radius": 1.0
@@ -37,7 +45,7 @@
           [
             100,
             300,
-            300
+            350
           ]
         ]
       }
@@ -87,7 +95,7 @@
             133,
             137
           ],
-          "fade": 1.0,
+          "fade": 5.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
           "radius": 1.0
@@ -225,7 +233,7 @@
             133,
             137
           ],
-          "fade": 0.5,
+          "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
           "radius": 1.0
