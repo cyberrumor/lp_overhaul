@@ -8,7 +8,7 @@
             140,
             63
           ],
-          "fade": 2.0,
+          "fade": 50.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 1.0
