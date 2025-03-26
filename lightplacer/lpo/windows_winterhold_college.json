@@ -15,6 +15,34 @@
         },
         "points": [
           [
+            0,
+            800,
+            175
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "architecture\\winterhold\\winterholdstowerintwall01.nif",
+      "architecture\\winterhold\\winterholdstowerintwall02.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DefaultSunlight01NS",
+          "radius": 1.0
+        },
+        "points": [
+          [
             800,
             0,
             800
