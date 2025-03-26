@@ -11,7 +11,7 @@
           "fade": 0.8,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 512.0
+          "radius": 1.0
         },
         "points": [
           [
@@ -118,7 +118,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 256.0
+          "radius": 1.0
         },
         "blackList": [
           "0x1818E4~OCW_Obscure's_CollegeofWinterhold.esp",

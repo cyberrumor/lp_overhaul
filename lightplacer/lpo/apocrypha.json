@@ -6,7 +6,7 @@
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "GreenPoisonGasLight",
-          "radius": 128.0
+          "radius": 1.0
         },
         "nodes": [
           "glow01"
@@ -17,7 +17,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "GreenPoisonGasLight",
-          "radius": 256.0
+          "radius": 1.0
         },
         "nodes": [
           "glow01"
@@ -41,7 +41,7 @@
           "fade": 3.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 128.0
+          "radius": 1.0
         },
         "nodes": [
           "glow01"
@@ -57,7 +57,7 @@
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 256.0
+          "radius": 1.0
         },
         "nodes": [
           "glow01"
@@ -76,7 +76,7 @@
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
-          "radius": 128.0
+          "radius": 1.0
         },
         "points": [
           [
@@ -91,7 +91,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
-          "radius": 256.0
+          "radius": 1.0
         },
         "points": [
           [
@@ -114,7 +114,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
-          "radius": 256.0
+          "radius": 1.0
         },
         "points": [
           [
@@ -129,7 +129,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
-          "radius": 512.0
+          "radius": 1.0
         },
         "points": [
           [
