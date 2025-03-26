@@ -90,7 +90,7 @@
           "0x08E764~OCW_Obscure's_CollegeofWinterhold.esp"
         ],
         "data": {
-          "fade": 1.5,
+          "fade": 10.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGFirePillarLightBlue",
           "radius": 1.0
