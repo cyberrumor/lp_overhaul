@@ -11,7 +11,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -66,7 +66,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -103,7 +103,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -134,7 +134,7 @@
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 1024.0
         },
         "points": [
           [
@@ -154,7 +154,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -179,7 +179,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01",
-          "radius": 1.0,
+          "radius": 1024.0,
           "rotation": [
             -80,
             -90,
@@ -211,7 +211,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -236,7 +236,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01",
-          "radius": 1.0,
+          "radius": 2048.0,
           "rotation": [
             -80,
             -90,
@@ -261,7 +261,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [

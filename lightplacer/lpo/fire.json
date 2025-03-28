@@ -11,7 +11,7 @@
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -31,7 +31,7 @@
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 768.0
         },
         "points": [
           [
@@ -51,7 +51,7 @@
           "fade": 0.4,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 2048.0
         },
         "points": [
           [
@@ -85,7 +85,7 @@
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 384.0
         },
         "points": [
           [
@@ -119,7 +119,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 1.0
+          "radius": 386.0
         },
         "points": [
           [
@@ -147,7 +147,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 384.0
         },
         "points": [
           [
@@ -178,7 +178,7 @@
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -205,7 +205,7 @@
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -233,7 +233,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 128.0
         },
         "points": [
           [
@@ -262,7 +262,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 384.0
         },
         "points": [
           [
@@ -289,7 +289,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 384.0
         },
         "points": [
           [
@@ -319,7 +319,7 @@
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 384.0
         },
         "points": [
           [
@@ -359,7 +359,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 384.0
         },
         "points": [
           [
@@ -386,7 +386,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultTorch01NS_NoMove",
-          "radius": 1.0
+          "radius": 64.0
         },
         "points": [
           [
@@ -411,7 +411,7 @@
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 32.0
         },
         "points": [
           [
@@ -431,7 +431,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 64.0
         },
         "points": [
           [

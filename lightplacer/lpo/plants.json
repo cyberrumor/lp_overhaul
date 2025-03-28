@@ -39,7 +39,27 @@
           "fade": 2.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 4096.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            1000
+          ]
+        ]
+      },
+      {
+        "data": {
+          "color": [
+            54,
+            80,
+            152
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenMushroomLight",
+          "radius": 768.0
         },
         "points": [
           [
@@ -66,7 +86,7 @@
           "fade": 2.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 768.0
         },
         "points": [
           [
@@ -93,7 +113,7 @@
           "fade": 2.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 768.0
         },
         "points": [
           [
@@ -122,7 +142,7 @@
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -149,7 +169,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -176,7 +196,7 @@
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -204,7 +224,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -231,7 +251,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -262,7 +282,7 @@
           "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "CharusEggLight",
-          "radius": 1.0
+          "radius": 242.0
         },
         "points": [
           [
@@ -294,7 +314,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "BleakFallsFungus01",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -323,7 +343,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -350,7 +370,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DwarvenMushroomLight",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -377,7 +397,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MiddenRedEye01",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -404,7 +424,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "BleakFallsFungus01",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [

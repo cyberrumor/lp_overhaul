@@ -27,9 +27,9 @@
           "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "LightCampFire01",
-          "radius": 1.0
+          "radius": 386.0
         },
-        "blackList": [
+        "blackList": [        
           "0x1818F0~OCW_Obscure's_CollegeofWinterhold.esp",
           "0x1818F2~OCW_Obscure's_CollegeofWinterhold.esp",
           "0x1818FB~OCW_Obscure's_CollegeofWinterhold.esp",

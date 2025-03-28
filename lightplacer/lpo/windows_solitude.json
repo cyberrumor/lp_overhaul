@@ -11,7 +11,7 @@
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -38,7 +38,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -68,7 +68,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -98,7 +98,7 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -126,7 +126,7 @@
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 1.0
+          "radius": 256.0
         },
         "points": [
           [
@@ -153,7 +153,7 @@
           "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 200.0
         },
         "points": [
           [
@@ -180,7 +180,7 @@
           "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 200.0
         },
         "points": [
           [
@@ -212,7 +212,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 160.0
         },
         "points": [
           [
@@ -239,7 +239,7 @@
           "fade": 0.4,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 160.0
         },
         "points": [
           [
@@ -267,7 +267,7 @@
           "fade": 0.4,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 160.0
         },
         "points": [
           [
@@ -297,7 +297,7 @@
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "AzuraBlue01",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
@@ -327,7 +327,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 160.0
         },
         "points": [
           [

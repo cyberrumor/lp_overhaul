@@ -6,7 +6,7 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MiddenRedEye01",
-          "radius": 1.0
+          "radius": 768.0
         },
         "points": [
           [
@@ -28,7 +28,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGEyeCollegeLight01",
-          "radius": 1.0
+          "radius": 1024.0
         },
         "points": [
           [
@@ -43,7 +43,7 @@
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGEyeCollegeLight01",
-          "radius": 1.0
+          "radius": 768.0
         },
         "points": [
           [
@@ -65,7 +65,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MiddenRedEye01",
-          "radius": 1.0
+          "radius": 768.0
         },
         "points": [
           [
@@ -93,7 +93,7 @@
           "fade": 10.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGFirePillarLightBlue",
-          "radius": 1.0
+          "radius": 1024.0
         },
         "points": [
           [
@@ -126,7 +126,7 @@
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGFirePillarLightBlue",
-          "radius": 1.0
+          "radius": 128.0
         },
         "points": [
           [
@@ -148,7 +148,7 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
-          "radius": 1.0
+          "radius": 512.0
         },
         "points": [
           [
