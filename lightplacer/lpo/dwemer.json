@@ -8,7 +8,7 @@
             140,
             63
           ],
-          "fade": 50.0,
+          "fade": 5.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
           "radius": 4096.0
@@ -360,6 +360,33 @@
     ],
     "models": [
       "dungeons\\dwemer\\dwechandelier01bareon.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            39,
+            133,
+            137
+          ],
+          "fade": 1.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "DwarvenOmniLight_NoMove",
+          "radius": 1024.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\fxdwegreenflamecalm.nif"
     ]
   },
   {
