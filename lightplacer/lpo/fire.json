@@ -11,7 +11,24 @@
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 512.0
+          "radius": 512.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -31,7 +48,24 @@
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 768.0
+          "radius": 768.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -51,7 +85,24 @@
           "fade": 0.4,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 2048.0
+          "radius": 2048.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -85,7 +136,24 @@
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 384.0
+          "radius": 384.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -119,7 +187,24 @@
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 386.0
+          "radius": 386.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -178,7 +263,24 @@
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 256.0
+          "radius": 256.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -205,7 +307,24 @@
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 256.0
+          "radius": 256.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -233,7 +352,24 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 128.0
+          "radius": 128.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -262,7 +398,24 @@
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 384.0
+          "radius": 384.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -289,7 +442,24 @@
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
-          "radius": 384.0
+          "radius": 384.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
@@ -317,9 +487,26 @@
             63
           ],
           "fade": 0.88,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
-          "radius": 384.0
+          "radius": 384.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.1,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.3,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.5,  "value": 1.175, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.65, "value": 1.25, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.8,  "value": 1.05, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.0,  "value": 1.15, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.2,  "value": 1.075, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 1.2, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.6,  "value": 1.025, "forward": 0.0, "backward": 0.0 },
+              { "time": 1.8,  "value": 1.1, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.0,  "value": 1.175, "forward": 0.0, "backward": 0.0 }
+            ]
+          }
         },
         "points": [
           [
