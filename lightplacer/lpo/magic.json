@@ -3,6 +3,11 @@
     "lights": [
       {
         "data": {
+          "color": [
+            210,
+            0,
+            0
+          ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MiddenRedEye01",
@@ -25,6 +30,11 @@
     "lights": [
       {
         "data": {
+          "color": [
+            61,
+            171,
+            237
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGEyeCollegeLight01",
@@ -40,6 +50,11 @@
       },
       {
         "data": {
+          "color": [
+            61,
+            171,
+            237
+          ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGEyeCollegeLight01",
@@ -62,6 +77,11 @@
     "lights": [
       {
         "data": {
+          "color": [
+            210,
+            0,
+            0
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MiddenRedEye01",
@@ -90,6 +110,11 @@
           "0x08E764~OCW_Obscure's_CollegeofWinterhold.esp"
         ],
         "data": {
+          "color": [
+            61,
+            103,
+            248
+          ],
           "fade": 10.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGFirePillarLightBlue",
@@ -123,6 +148,11 @@
           "0x08E76C~OCW_Obscure's_CollegeofWinterhold.esp"
         ],
         "data": {
+          "color": [
+            61,
+            103,
+            248
+          ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "MGFirePillarLightBlue",
@@ -145,6 +175,11 @@
     "lights": [
       {
         "data": {
+          "color": [
+            255,
+            255,
+            255
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "DefaultSunlight01NS",
