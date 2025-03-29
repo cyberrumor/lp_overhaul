@@ -8,7 +8,7 @@
             102,
             51
           ],
-          "fade": 1.5,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
           "radius": 256.0
@@ -28,7 +28,7 @@
             102,
             51
           ],
-          "fade": 1.5,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
           "radius": 256.0
@@ -55,7 +55,7 @@
             102,
             51
           ],
-          "fade": 1.5,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
           "radius": 256.0
@@ -82,7 +82,7 @@
             102,
             51
           ],
-          "fade": 1.5,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
           "radius": 256.0
@@ -109,7 +109,7 @@
             102,
             51
           ],
-          "fade": 1.5,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "InverseSquareRootLight",
           "radius": 256.0
