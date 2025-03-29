@@ -440,5 +440,32 @@
       "plants\\glowingmushroomcluster01.nif",
       "plants\\glowingmushroomsingle01.nif"
     ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            255,
+            255,
+            166
+          ],
+          "fade": 0.5,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "InverseSquareRootLight",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "critters\\firefly\\firefly.nif"
+    ]
   }
 ]
