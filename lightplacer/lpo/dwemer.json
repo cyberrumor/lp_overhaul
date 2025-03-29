@@ -8,9 +8,9 @@
             140,
             63
           ],
-          "fade": 5.0,
+          "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "light": "DefaultSunlight01NS",
           "radius": 4096.0
         },
         "points": [
