@@ -570,7 +570,7 @@
             140,
             63
           ],
-          "fade": 1.0,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 64.0
@@ -595,7 +595,7 @@
             140,
             63
           ],
-          "fade": 2.0,
+          "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 32.0
@@ -615,7 +615,7 @@
             140,
             63
           ],
-          "fade": 1.0,
+          "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 64.0
