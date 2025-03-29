@@ -14,7 +14,7 @@
           ],
           "fade": 0.66,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 1.0
         },
         "points": [
@@ -38,7 +38,7 @@
           ],
           "fade": 2.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 4096.0
         },
         "points": [
@@ -58,7 +58,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -85,7 +85,7 @@
           ],
           "fade": 2.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -112,7 +112,7 @@
           ],
           "fade": 2.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -141,7 +141,7 @@
           ],
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -168,7 +168,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -195,7 +195,7 @@
           ],
           "fade": 0.75,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -223,7 +223,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -250,7 +250,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -281,7 +281,7 @@
           ],
           "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "CharusEggLight",
+          "light": "InverseSquareRootLight",
           "radius": 242.0
         },
         "points": [
@@ -313,7 +313,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "BleakFallsFungus01",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -342,7 +342,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "AzuraBlue01",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -369,7 +369,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DwarvenMushroomLight",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -396,7 +396,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MiddenRedEye01",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -423,7 +423,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "BleakFallsFungus01",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [

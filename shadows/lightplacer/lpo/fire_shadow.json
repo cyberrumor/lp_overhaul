@@ -10,7 +10,7 @@
           ],
           "fade": 0.4,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
+          "light": "InverseSquareRootLight",
           "radius": 2048.0,
           "shadowDepthBias": 26.0
         },
@@ -41,7 +41,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
+          "light": "InverseSquareRootLight",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },
@@ -84,7 +84,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "AzuraBlue01",
+          "light": "InverseSquareRootLight",
           "radius": 386.0,
           "shadowDepthBias": 26.0
         },
@@ -132,7 +132,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
+          "light": "InverseSquareRootLight",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },
@@ -164,7 +164,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
+          "light": "InverseSquareRootLight",
           "radius": 768.0,
           "shadowDepthBias": 26.0
         },
@@ -193,7 +193,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
+          "light": "InverseSquareRootLight",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },
@@ -242,7 +242,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "DefaultTorch01",
+          "light": "InverseSquareRootLight",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },

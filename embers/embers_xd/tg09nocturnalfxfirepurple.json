@@ -10,7 +10,7 @@
           ],
           "fade": 0.6,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DLC01SCPurple",
+          "light": "InverseSquareRootLight",
           "radius": 386.0
         },
         "points": [

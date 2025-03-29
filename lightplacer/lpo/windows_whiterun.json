@@ -10,7 +10,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -40,7 +40,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -68,7 +68,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 1024.0
         },
         "points": [
@@ -95,7 +95,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -124,7 +124,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -152,7 +152,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -179,7 +179,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 1024.0
         },
         "points": [
@@ -206,7 +206,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [

@@ -10,7 +10,7 @@
           ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "GreenPoisonGasLight",
+          "light": "InverseSquareRootLight",
           "radius": 128.0
         },
         "nodes": [
@@ -34,7 +34,7 @@
           ],
           "fade": 3.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "AzuraBlue01",
+          "light": "InverseSquareRootLight",
           "radius": 128.0
         },
         "nodes": [
@@ -50,7 +50,7 @@
           ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "AzuraBlue01",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "nodes": [
@@ -74,7 +74,7 @@
           ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCandleLight01_NoMove",
+          "light": "InverseSquareRootLight",
           "radius": 128.0
         },
         "points": [
@@ -94,7 +94,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCandleLight01_NoMove",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -122,7 +122,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCandleLight01_NoMove",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -142,7 +142,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCandleLight01_NoMove",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [

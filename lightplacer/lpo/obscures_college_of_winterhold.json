@@ -26,10 +26,10 @@
           ],
           "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 386.0
         },
-        "blackList": [        
+        "blackList": [
           "0x1818F0~OCW_Obscure's_CollegeofWinterhold.esp",
           "0x1818F2~OCW_Obscure's_CollegeofWinterhold.esp",
           "0x1818FB~OCW_Obscure's_CollegeofWinterhold.esp",

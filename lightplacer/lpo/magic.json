@@ -10,7 +10,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MiddenRedEye01",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -37,7 +37,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MGEyeCollegeLight01",
+          "light": "InverseSquareRootLight",
           "radius": 1024.0
         },
         "points": [
@@ -57,7 +57,7 @@
           ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MGEyeCollegeLight01",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -84,7 +84,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MiddenRedEye01",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -117,7 +117,7 @@
           ],
           "fade": 10.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MGFirePillarLightBlue",
+          "light": "InverseSquareRootLight",
           "radius": 1024.0
         },
         "points": [
@@ -155,7 +155,7 @@
           ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "MGFirePillarLightBlue",
+          "light": "InverseSquareRootLight",
           "radius": 128.0
         },
         "points": [
@@ -182,7 +182,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultSunlight01NS",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [

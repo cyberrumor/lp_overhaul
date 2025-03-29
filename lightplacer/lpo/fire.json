@@ -10,7 +10,7 @@
           ],
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 512.0
         },
         "points": [
@@ -30,7 +30,7 @@
           ],
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 768.0
         },
         "points": [
@@ -50,7 +50,7 @@
           ],
           "fade": 0.4,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 2048.0
         },
         "points": [
@@ -84,7 +84,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 384.0
         },
         "points": [
@@ -118,7 +118,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "AzuraBlue01",
+          "light": "InverseSquareRootLight",
           "radius": 386.0
         },
         "points": [
@@ -146,7 +146,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 384.0
         },
         "points": [
@@ -177,7 +177,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -204,7 +204,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -232,7 +232,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 128.0
         },
         "points": [
@@ -261,7 +261,7 @@
           ],
           "fade": 0.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 384.0
         },
         "points": [
@@ -288,7 +288,7 @@
           ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 384.0
         },
         "points": [
@@ -318,7 +318,7 @@
           ],
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 384.0
         },
         "points": [
@@ -358,7 +358,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 384.0
         },
         "points": [
@@ -385,7 +385,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "DefaultTorch01NS_NoMove",
+          "light": "InverseSquareRootLight",
           "radius": 64.0
         },
         "points": [
@@ -410,7 +410,7 @@
           ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 32.0
         },
         "points": [
@@ -430,7 +430,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 64.0
         },
         "points": [

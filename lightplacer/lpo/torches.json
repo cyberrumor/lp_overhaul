@@ -10,7 +10,7 @@
           ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "LightCampFire01",
+          "light": "InverseSquareRootLight",
           "radius": 640.0
         },
         "points": [

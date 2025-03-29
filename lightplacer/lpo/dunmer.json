@@ -10,7 +10,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCavern_OrangeFlicker",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -30,7 +30,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCavern_OrangeFlicker",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -57,7 +57,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCavern_OrangeFlicker",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -84,7 +84,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCavern_OrangeFlicker",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
@@ -111,7 +111,7 @@
           ],
           "fade": 1.5,
           "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "IceCavern_OrangeFlicker",
+          "light": "InverseSquareRootLight",
           "radius": 256.0
         },
         "points": [
