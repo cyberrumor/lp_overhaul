@@ -197,5 +197,77 @@
     "models": [
       "magic\\lightspellstaticlight.nif"
     ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            0,
+            70,
+            255
+          ],
+          "fade": 1.0,
+          "flags": "IgnoreScale|NoExternalEmittance",
+          "light": "InverseSquareRootLight",
+          "radius": 512.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            0,
+            250
+          ],
+          [
+            0,
+            0,
+            500
+          ],
+          [
+            0,
+            0,
+            750
+          ],
+          [
+            0,
+            0,
+            1000
+          ],
+          [
+            0,
+            0,
+            1250
+          ],
+          [
+            0,
+            0,
+            1500
+          ],
+          [
+            0,
+            0,
+            1750
+          ],
+          [
+            0,
+            0,
+            2000
+          ],
+          [
+            0,
+            0,
+            2250
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "dlc02\\effects\\telvannilifteffect02.nif"
+    ]
   }
 ]
