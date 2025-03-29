@@ -3,21 +3,15 @@
     "lights": [
       {
         "data": {
+          "color": [
+            85,
+            232,
+            103
+          ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "GreenPoisonGasLight",
           "radius": 128.0
-        },
-        "nodes": [
-          "glow01"
-        ]
-      },
-      {
-        "data": {
-          "fade": 0.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "GreenPoisonGasLight",
-          "radius": 256.0
         },
         "nodes": [
           "glow01"
@@ -73,6 +67,11 @@
     "lights": [
       {
         "data": {
+          "color": [
+            254,
+            234,
+            152
+          ],
           "fade": 2.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
@@ -88,6 +87,11 @@
       },
       {
         "data": {
+          "color": [
+            254,
+            234,
+            152
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
@@ -111,6 +115,11 @@
     "lights": [
       {
         "data": {
+          "color": [
+            254,
+            234,
+            152
+          ],
           "fade": 1.0,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
@@ -126,6 +135,11 @@
       },
       {
         "data": {
+          "color": [
+            254,
+            234,
+            152
+          ],
           "fade": 0.25,
           "flags": "IgnoreScale|NoExternalEmittance",
           "light": "IceCandleLight01_NoMove",
