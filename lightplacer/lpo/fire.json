@@ -9,7 +9,7 @@
             63
           ],
           "fade": 0.88,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 512.0,
           "fadeController": {
@@ -46,7 +46,7 @@
             63
           ],
           "fade": 0.88,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 768.0,
           "fadeController": {
@@ -83,7 +83,7 @@
             63
           ],
           "fade": 0.4,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 2048.0,
           "fadeController": {
@@ -134,7 +134,7 @@
             63
           ],
           "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 384.0,
           "fadeController": {
@@ -185,7 +185,7 @@
               180
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 386.0,
           "fadeController": {
@@ -230,7 +230,7 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 384.0
         },
@@ -261,7 +261,7 @@
             63
           ],
           "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 256.0,
           "fadeController": {
@@ -305,7 +305,7 @@
             63
           ],
           "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 256.0,
           "fadeController": {
@@ -350,7 +350,7 @@
             63
           ],
           "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 128.0,
           "fadeController": {
@@ -396,7 +396,7 @@
             63
           ],
           "fade": 0.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 384.0,
           "fadeController": {
@@ -440,7 +440,7 @@
             63
           ],
           "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 384.0,
           "fadeController": {
@@ -487,7 +487,7 @@
             63
           ],
           "fade": 0.88,
-          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 384.0,
           "fadeController": {
@@ -544,7 +544,7 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 384.0
         },
@@ -571,7 +571,7 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 64.0
         },
@@ -596,7 +596,7 @@
             63
           ],
           "fade": 2.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 32.0
         },
@@ -616,7 +616,7 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 64.0
         },

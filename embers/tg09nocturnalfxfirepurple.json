@@ -9,7 +9,7 @@
             150
           ],
           "fade": 1.976,
-          "flags": "IgnoreScale|NoExternalEmittance",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
           "light": "InverseSquareRootLight",
           "radius": 386.0,
           "fadeController": {
