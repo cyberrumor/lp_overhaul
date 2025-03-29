@@ -291,6 +291,8 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow01.nif",
 "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow02.nif",
 "architecture\\windhelm\\interiorkits\\wood\\whintwoodwallwindow03.nif"
+"architecture\\winterhold\\winterholdstowerintwall01.nif",
+"architecture\\winterhold\\winterholdstowerintwall02.nif"
 "architecture\\winterhold\\winterholdtowerintwall01.nif"
 "architecture\\winterhold\\winterholdtowerintwall02.nif"
 "architecture\\winterhold\\winterholdtowerintwall04.nif",
@@ -300,6 +302,8 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "architecture\\winterhold\\winterholdtowerintwall08.nif",
 "architecture\\winterhold\\winterholdtowerintwall09.nif"
 "architecture\\winterhold\\winterholdtowerintwall10.nif"
+"clutter\\blackreach\\blackreachbush01.nif",
+"clutter\\blackreach\\blackreachbush02.nif"
 "clutter\\blackreach\\blackreachepicmushroom01.nif"
 "clutter\\blackreach\\blackreachgiantmushanim01.nif"
 "clutter\\blackreach\\blackreachgiantmushanim02.nif",
@@ -349,6 +353,20 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "clutter\\imperial\\impwallsconcecandle01.nif",
 "clutter\\imperial\\impwallsconcecandle02.nif",
 "clutter\\imperial\\impwallsconcenocandle01.nif",
+"clutter\\obs_clutter\\obs_candleonly_01.nif",
+"clutter\\obs_clutter\\obs_candleonly_02.nif",
+"clutter\\obs_clutter\\obs_candleonly_03.nif"
+"clutter\\obs_lightfixtures\\obs_silvercandelabrapenta_01.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_01.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_02.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandelabrasingle_03.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandelabratriple_01.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandelabratriple_02.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandlesconce_01.nif",
+"clutter\\obs_lightfixtures\\obs_silvercandlestick_04.nif",
+"clutter\\obs_lightfixtures\\obs_silverchandelierlarge_01.nif",
+"clutter\\obs_lightfixtures\\obs_silverchandeliermedium_01.nif",
+"clutter\\obs_lightfixtures\\obs_silverchandeliersmall_01.nif",
 "clutter\\quest\\tggoldencandlestick01.nif",
 "clutter\\quest\\tggoldencandlestickstatic01.nif",
 "clutter\\quest\\tgtq01silvercandlestick.nif",
@@ -361,6 +379,7 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "clutter\\ruins\\ruinsfloorcandlelampsmon02.nif",
 "clutter\\ruins\\ruinsfloorcandlelampsmon.nif",
 "clutter\\ruins\\ruinsfloorcandlelampsmstand.nif",
+"clutter\\shrines\\shrinebase.nif",
 "clutter\\silver\\silvercandlestick01.nif",
 "clutter\\silver\\silvercandlestick02.nif",
 "clutter\\silver\\silvercandlestick03.nif",
@@ -376,8 +395,21 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "clutter\\woodfires\\fireplacewood01burning.nif",
 "clutter\\woodfires\\wbbcfcampfire01burning.nif",
 "clutter\\woodfires\\wbbcfcampfire01landburning.nif",
+"creationclub\\asvsse001\\clutter\\velothi\\mwcandle01.nif",
+"creationclub\\eejsse002\\clutter\\eej_remappedglazedcandlecup.nif",
+"creationclub\\eejsse002\\clutter\\eej_remappedglazedcandleplate.nif",
+"creationclub\\eejsse002\\furniture\\eej_enchanter.nif",
+"creationclub\\eejsse003\\clutter\\eej_remappedglazedcandlecup.nif",
+"creationclub\\eejsse003\\clutter\\eej_remappedglazedcandleplate.nif",
+"creationclub\\eejsse004\\clutter\\eej_chandeliershort.nif",
+"creationclub\\eejsse004\\clutter\\eej_remappedglazedcandlecup.nif",
+"creationclub\\eejsse004\\clutter\\eej_remappedglazedcandleplate.nif",
+"creationclub\\eejsse005\\clutter\\eej_remappedglazedcandlecup.nif",
+"creationclub\\eejsse005\\clutter\\eej_remappedglazedcandleplate.nif",
 "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arcandleplate01.nif",
 "creationclub\\_shared\\dungeons\\ayleidruins\\interior\\arcandleplate02.nif",
+"critters\\firefly\\firefly.nif"
+"dlc01\\architecture\\snowelfruins\\seruinschandelier01.nif",
 "dlc01\\dungeons\\castle\\animated\\candlestick\\",
 "dlc01\\dungeons\\castle\\animated\\candlestick\\cascandlesticklever01.hkx",
 "dlc01\\dungeons\\castle\\animated\\candlestick\\cascandlesticklever01.nif",
@@ -400,6 +432,7 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "dlc02\\dungeons\\apocrypha\\clutter\\apohoverlight01.nif"
 "dlc02\\dungeons\\apocrypha\\clutter\\apolightpost01.nif",
 "dlc02\\dungeons\\apocrypha\\clutter\\apolightpost02.nif"
+"dlc02\\effects\\telvannilifteffect02.nif"
 "dlc02\\effects\\telvannitorchlightfx.nif"
 "dlc02\\landscape\\dlc2firecrater02.nif",
 "dlc02\\landscape\\dlc2firecraterround.nif"
@@ -427,6 +460,7 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "dungeons\\dwemer\\dwewallsconcesmall02on.nif"
 "dungeons\\dwemer\\dwewallsconcesmall02onsputter.nif"
 "effects\\c06fxfirebluewithembersheavy.nif",
+"effects\\fxdwegreenflamecalm.nif"
 "effects\\fxfirepit01.nif",
 "effects\\fxfiresovngarde.nif",
 "effects\\fxfirewithembers01_cheap.nif",
@@ -444,14 +478,18 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "effects\\mgmagicfirepillar01.nif",
 "effects\\mgmagicfirepillarmidden01.nif"
 "effects\\mgmagicfirepillarsmall.nif"
+"effects\\testcandleflame01.nif",
 "effects\\tg09nocturnalfxfirepurple.nif"
 "furniture\\blacksmithforgemarker.nif",
 "furniture\\blacksmithforgemarkerwr.nif",
 "furniture\\blacksmithingskyforgemarker.nif"
 "furniture\\enchantingworkbench.nif",
-"furniture\\enchantingworkstation.nif"
+"furniture\\enchantingworkstation.nif",
 "furniture\\orcfurniture\\orcblacksmithforgemarker.nif"
 "furniture\\smeltermarker.nif"
+"furniture\\workbenches\\disenchantworkbench01.nif",
+"furniture\\workbenches\\enchantingworkbench01.nif",
+"furniture\\workbenches\\enchantingworkstation01.nif",
 "magic\\lightspellstaticlight.nif"
 "plants\\floranirnroot01.nif"
 "plants\\floranirnroot01red.nif"
@@ -461,6 +499,7 @@ cat Data/lightplacer/lpo/* | jq '.[].models' | sort | uniq
 "_resourcepack\\clutter\\imperial\\impchandelliercandle01nochain.nif",
 "rest by campfire\\rbc_campfire_burning.nif",
 "rest by campfire\\rbc_campfire_landburning.nif"
+"uskp\\clutter\\chandellier\\impchandelliercandle01uskp.nif"
 ```
 
 ## Further Reading
