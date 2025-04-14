@@ -9,8 +9,8 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 640.0,
           "fadeController": {
             "interpolation": "Linear",

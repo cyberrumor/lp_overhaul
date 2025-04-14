@@ -9,8 +9,8 @@
             63
           ],
           "fade": 0.8,
-          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0,
           "fadeController": {
             "interpolation": "Linear",
@@ -128,8 +128,8 @@
             63
           ],
           "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 256.0,
           "fadeController": {
             "interpolation": "Linear",

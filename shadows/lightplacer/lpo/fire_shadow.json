@@ -9,8 +9,8 @@
             63
           ],
           "fade": 0.4,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 2048.0,
           "shadowDepthBias": 26.0
         },
@@ -40,8 +40,8 @@
             63
           ],
           "fade": 0.5,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },
@@ -83,8 +83,8 @@
               180
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 386.0,
           "shadowDepthBias": 26.0
         },
@@ -131,8 +131,8 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },
@@ -163,8 +163,8 @@
             63
           ],
           "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 768.0,
           "shadowDepthBias": 26.0
         },
@@ -192,8 +192,8 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },
@@ -241,8 +241,8 @@
             63
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance|Shadow",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|Shadow|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0,
           "shadowDepthBias": 26.0
         },

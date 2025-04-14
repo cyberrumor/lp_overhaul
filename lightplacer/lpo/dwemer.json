@@ -36,8 +36,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 386.0
         },
         "points": [
@@ -191,8 +191,8 @@
             137
           ],
           "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 2048.0
         },
         "points": [
@@ -218,8 +218,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 386.0
         },
         "points": [
@@ -318,8 +318,8 @@
             137
           ],
           "fade": 0.25,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 2048.0
         },
         "points": [
@@ -345,8 +345,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 1024.0
         },
         "points": [
@@ -372,8 +372,8 @@
             137
           ],
           "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 1024.0
         },
         "points": [
@@ -399,8 +399,8 @@
             137
           ],
           "fade": 1.8,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 750.0
         },
         "points": [
@@ -432,8 +432,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 768.0
         },
         "points": [
@@ -459,8 +459,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0
         },
         "points": [
@@ -487,8 +487,8 @@
             137
           ],
           "fade": 1.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 512.0
         },
         "points": [
@@ -514,8 +514,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
         "points": [
@@ -543,8 +543,8 @@
             137
           ],
           "fade": 1.0,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 128.0
         },
         "points": [

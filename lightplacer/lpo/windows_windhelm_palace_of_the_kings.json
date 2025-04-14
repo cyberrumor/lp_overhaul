@@ -9,8 +9,8 @@
             255
           ],
           "fade": 0.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 256.0
         },
         "points": [
@@ -36,8 +36,8 @@
             255
           ],
           "fade": 0.5,
-          "flags": "IgnoreScale|NoExternalEmittance",
-          "light": "InverseSquareRootLight",
+          "flags": "IgnoreScale|NoExternalEmittance|InverseSquare",
+          "light": "DefaultSunlight01NS",
           "radius": 128.0
         },
         "points": [
