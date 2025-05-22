@@ -81,7 +81,7 @@ of the fake lights from the vanilla game which plagued the original.
 
 ## How Stuff Works
 
-### Convention Mods
+### Conventional Mods
 
 Conventional lighting mods typically attach lights to cells. The plugin will
 contain data like position (which is stored as X, Y, and Z coordinates relative
@@ -142,7 +142,7 @@ options, but I will list the things that LPO adds lights to at the bottom of
 this file. Can't promise I'll keep it up to date, but LPO is like 99% complete,
 so it won't matter much either way.
 
-## Whitelisting
+#### Whitelisting
 
 LPO uses `bDisableAllGameLights=true` in
 `Data/SKSE/Plugins/po3_LightPlacer.ini`. Specific vanilla game lights are
@@ -176,6 +176,31 @@ still benefit from level design changes they've made, like moving a lantern from
 one side of the room to the other. If you do whitelist the conventional mods,
 you'll get lights added by the conventional mod as well as from LPO.
 
+### Base Object Swapper
+
+LPO uses Base Object Swapper (BOS) configs for the Eternal Flames and Violet
+Flames options. BOS reads these configs and follows their instructions. The
+configs instruct BOS to replace mortal fire with eternal fire or violet fire
+meshes. This works in tandem with Light Placer configs to attach the
+appropriately colored light to whatever fire/ember mesh is loaded.
+
+In short, LPO:
+
+- Installs a BOS config which replaces mortal fire with eternal fire
+- Installs a Light Placer config which attaches orange light to orange fire,
+  blue light to blue fire, and violet light to violet fire.
+- Installs lpo.ini which disables all game lights so there's no orange fire from
+  conventional plugins.
+
+#### Troubleshooting
+
+If you still have both orange flames and lights in nordic dungeons, you likely
+have a plugin that adds mortal embers/flames to dungeons with mesh names that
+aren't swapped by LPO's BOS configs.
+
+If you have just orange lights, you likely have another Light Placer config mod
+(like Placed Light) which adds whitelists. You'll need to remove these
+whitelists to get rid of the orange lights.
 
 ## Solving Compatibility Problems
 
