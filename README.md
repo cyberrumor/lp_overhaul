@@ -189,8 +189,8 @@ In short, LPO:
 - Installs a BOS config which replaces mortal fire with eternal fire
 - Installs a Light Placer config which attaches orange light to orange fire,
   blue light to blue fire, and violet light to violet fire.
-- Installs lpo.ini which disables all game lights so there's no orange fire from
-  conventional plugins.
+- Installs lpo.ini which disables all game lights so there's no orange light
+  from conventional plugins.
 
 #### Troubleshooting
 
