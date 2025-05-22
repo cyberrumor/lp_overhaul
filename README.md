@@ -196,11 +196,15 @@ In short, LPO:
 
 If you still have both orange flames and lights in nordic dungeons, you likely
 have a plugin that adds mortal embers/flames to dungeons with mesh names that
-aren't swapped by LPO's BOS configs.
+aren't swapped by LPO's BOS configs. The solution is to add those mesh names to
+the BOS configs so they're also swapped.
 
-If you have just orange lights, you likely have another Light Placer config mod
-(like Placed Light) which adds whitelists. You'll need to remove these
-whitelists to get rid of the orange lights.
+If you have just orange lights, you likely either have another Light Placer
+config mod (like Placed Light) which adds whitelists. The solution is to remove
+those whitelists to get rid of the orange lights. Alternatively, another Light
+Placer config mod may be adding orange lights to objects besides embers/flames.
+The solution is to modify the other Light Placer config mod's JSON files to not
+add orange lights to those objects.
 
 ## Solving Compatibility Problems
 
