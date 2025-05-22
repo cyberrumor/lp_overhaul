@@ -200,11 +200,11 @@ aren't swapped by LPO's BOS configs. The solution is to add those mesh names to
 the BOS configs so they're also swapped.
 
 If you have just orange lights, you likely either have another Light Placer
-config mod (like Placed Light) which adds whitelists. The solution is to remove
-those whitelists to get rid of the orange lights. Alternatively, another Light
-Placer config mod may be adding orange lights to objects besides embers/flames.
-The solution is to modify the other Light Placer config mod's JSON files to not
-add orange lights to those objects.
+config mod (like Placed Light) which adds whitelists, or another Light Placer
+config mod which adds orange lights to objects besides embers/flames. You might
+have both of these issues. The solutions are to remove those whitelists to get
+rid of the orange lights placed by plugins, and/or to modify the other Light
+Placer config mod's JSON files to not add orange lights to those objects.
 
 ## Solving Compatibility Problems
 
