@@ -41,6 +41,7 @@
   {
     "models": [
       "_resourcepack\\clutter\\imperial\\impchandelliercandle01nochain.nif",
+      "bscyrodiil\\clutter\\imperial\\impwallsconcecandle01.nif",
       "clutter\\glazedcandles01.nif",
       "clutter\\glazedcandlesstatic02.nif",
       "clutter\\candles\\candlehornchandelier01.nif",
