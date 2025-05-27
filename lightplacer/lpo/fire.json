@@ -453,7 +453,7 @@
             63
           ],
           "fade": 0.88,
-          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare|RandomAnimStart|InverseSquare",
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
           "light": "DefaultSunlight01NS",
           "radius": 384.0,
           "fadeController": {
@@ -491,13 +491,39 @@
       "effects\\fxfirewithembers01_cheap.nif",
       "effects\\fxfirewithembers01_lite.nif",
       "effects\\fxfirewithembers02.nif",
-      "effects\\fxfirewithembers02toggle.nif",
       "effects\\fxfirewithembers04.nif",
       "effects\\fxfirewithembers05.nif",
       "effects\\fxfirewithembersheavytoggle.nif",
       "effects\\fxfirewithemberslogs01.nif",
       "effects\\fxfirewithemberslogs03.nif",
       "effects\\fxfirewithemberslogs04.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.25,
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "radius": 384.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            50
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "effects\\fxfirewithembers02toggle.nif"
     ]
   },
   {
