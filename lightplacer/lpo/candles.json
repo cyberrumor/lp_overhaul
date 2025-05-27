@@ -134,20 +134,20 @@
             140,
             63
           ],
-          "fade": 0.25,
+          "fade": 0.2,
           "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
           "light": "DefaultSunlight01NS",
           "radius": 256.0,
           "fadeController": {
             "interpolation": "Linear",
             "keys": [
-              { "time": 0.0,  "value": 0.25,   "forward": 0.0, "backward": 0.0 },
-              { "time": 0.4,  "value": 0.265, "forward": 0.0, "backward": 0.0 },
-              { "time": 0.9,  "value": 0.24,  "forward": 0.0, "backward": 0.0 },
-              { "time": 1.4,  "value": 0.27,  "forward": 0.0, "backward": 0.0 },
-              { "time": 1.9,  "value": 0.235, "forward": 0.0, "backward": 0.0 },
-              { "time": 2.4,  "value": 0.26,  "forward": 0.0, "backward": 0.0 },
-              { "time": 3.0,  "value": 0.25,   "forward": 0.0, "backward": 0.0 }
+              { "time": 0.0,  "value": 0.2,   "forward": 0.0, "backward": 0.0 },
+              { "time": 0.4,  "value": 0.215, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.9,  "value": 0.19,  "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 0.22,  "forward": 0.0, "backward": 0.0 },
+              { "time": 1.9,  "value": 0.185, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.4,  "value": 0.21,  "forward": 0.0, "backward": 0.0 },
+              { "time": 3.0,  "value": 0.2,   "forward": 0.0, "backward": 0.0 }
             ]
           }
         },
