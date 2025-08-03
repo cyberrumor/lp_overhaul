@@ -51,6 +51,9 @@
             0,
             150
           ]
+        ],
+        "whiteList": [
+            "WhiterunDragonsReach"
         ]
       }
     ],
