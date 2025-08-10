@@ -320,8 +320,6 @@ I don't keep the list in this readme up to date, so check against jq.
 * [Community Shaders Wiki](
     https://github.com/doodlum/skyrim-community-shaders/wiki
   )
-* [Creation Kit Wiki](https://ck.uesp.net/wiki/Light)
-* [Tome of xEdit](https://tes5edit.github.io/docs/)
 
 ## Thanks
 
