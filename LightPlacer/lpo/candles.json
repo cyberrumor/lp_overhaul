@@ -40,6 +40,51 @@
   },
   {
     "models": [
+      "furniture\\enchantingworkbench.nif",
+      "furniture\\enchantingworkstation.nif",
+      "furniture\\workbenches\\enchantingworkbench01.nif",
+      "furniture\\workbenches\\enchantingworkstation01.nif"
+    ],
+    "lights": [
+      {
+        "nodes": [
+            "AddOnNode49",
+            "AddOnNode49@#0",
+            "AddOnNode49@#1",
+            "AddOnNode49@#2",
+            "AddOnNode49@#3",
+            "AddOnNode49@#4",
+            "AddOnNode49@#5",
+            "AddOnNode49@#6"
+        ],
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
+          "fade": 0.1,
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "radius": 256.0,
+          "fadeController": {
+            "interpolation": "Linear",
+            "keys": [
+              { "time": 0.0,  "value": 0.1,   "forward": 0.0, "backward": 0.0 },
+              { "time": 0.4,  "value": 0.115, "forward": 0.0, "backward": 0.0 },
+              { "time": 0.9,  "value": 0.09,  "forward": 0.0, "backward": 0.0 },
+              { "time": 1.4,  "value": 0.12,  "forward": 0.0, "backward": 0.0 },
+              { "time": 1.9,  "value": 0.085, "forward": 0.0, "backward": 0.0 },
+              { "time": 2.4,  "value": 0.11,  "forward": 0.0, "backward": 0.0 },
+              { "time": 3.0,  "value": 0.1,   "forward": 0.0, "backward": 0.0 }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "models": [
       "_resourcepack\\clutter\\imperial\\impchandelliercandle01nochain.nif",
       "bscyrodiil\\clutter\\imperial\\impwallsconcecandle01.nif",
       "bscyrodiil\\clutter\\imperial\\impcandelabracandle01.nif",
@@ -109,11 +154,7 @@
       "dlc01\\dungeons\\castle\\animated\\candlestick\\cascandlesticklever01.nif",
       "dlc02\\clutter\\riekling\\dlc2rieklingcandle.nif",
       "effects\\testcandleflame01.nif",
-      "furniture\\enchantingworkbench.nif",
-      "furniture\\enchantingworkstation.nif",
       "furniture\\workbenches\\disenchantworkbench01.nif",
-      "furniture\\workbenches\\enchantingworkbench01.nif",
-      "furniture\\workbenches\\enchantingworkstation01.nif",
       "uskp\\clutter\\chandellier\\impchandelliercandle01uskp.nif"
     ],
     "lights": [
