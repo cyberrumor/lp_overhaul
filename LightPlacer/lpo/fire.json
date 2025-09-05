@@ -8,6 +8,33 @@
             140,
             63
           ],
+          "fade": 0.1,
+          "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
+          "light": "DefaultSunlight01NS",
+          "radius": 64.0
+        },
+        "points": [
+          [
+            0,
+            0,
+            -5
+          ]
+        ]
+      }
+    ],
+    "models": [
+      "traps\\oiltrap\\oiltrap01.nif"
+    ]
+  },
+  {
+    "lights": [
+      {
+        "data": {
+          "color": [
+            226,
+            140,
+            63
+          ],
           "fade": 0.88,
           "flags": "IgnoreScale|NoExternalEmittance|RandomAnimStart|InverseSquare",
           "light": "DefaultSunlight01NS",
