@@ -48,6 +48,7 @@
     "lights": [
       {
         "nodes": [
+            "AddOnNode",
             "AddOnNode49",
             "AddOnNode49@#0",
             "AddOnNode49@#1",
@@ -58,7 +59,21 @@
             "AddOnNode49@#6",
             "AddOnNode50",
             "AddOnNode51",
-            "AddOnNode52"
+            "AddOnNode52",
+            "EnchantingWorkstation01:28",
+            "EnchantingWorkstation01:29",
+            "EnchantingWorkstation01:30",
+            "EnchantingWorkstation01:31",
+            "EnchantingWorkstation01:32",
+            "EnchantingWorkbench01:86",
+            "EnchantingWorkbench01:87",
+            "EnchantingWorkbench01:88",
+            "EnchantingWorkbench01:89",
+            "EnchantingWorkbench01:90",
+            "EnchantingWorkbench01:91",
+            "EnchantingWorkbench01:92",
+            "EnchantingWorkbench01:93",
+            "EnchantingWorkbench01:94"
         ],
         "data": {
           "color": [
