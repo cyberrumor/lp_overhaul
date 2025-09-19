@@ -7,7 +7,7 @@
         <folder source="SKSE" destination="SKSE" />
     </requiredInstallFiles>
     <installSteps order="Explicit">
-        <installStep name="LP Overhaul">
+        <installStep name="LPO">
             <optionalFileGroups order="Explicit">
                 <group name="Light Placer Configs" type="SelectExactlyOne">
                     <plugins order="Explicit">

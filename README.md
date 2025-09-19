@@ -1,7 +1,7 @@
-# lp_overhaul
+# lpo
 
 [Nexus Mirror](https://www.nexusmods.com/skyrimspecialedition/mods/136870)
-[Github Mirror](https://github.com/cyberrumor/lp_overhaul)
+[Github Mirror](https://github.com/cyberrumor/lpo)
 
 ## Requirements
 
